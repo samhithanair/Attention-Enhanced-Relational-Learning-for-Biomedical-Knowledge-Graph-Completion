@@ -1,0 +1,4164 @@
+Head,Relation,Tail
+aspirin,HAS_SIDE_EFFECT,Respiratory alkalosis
+aspirin,HAS_SIDE_EFFECT,Anaphylactic shock
+aspirin,HAS_SIDE_EFFECT,Anaemia
+aspirin,HAS_SIDE_EFFECT,Angioedema
+aspirin,HAS_SIDE_EFFECT,Asthma
+aspirin,HAS_SIDE_EFFECT,Coagulopathy
+aspirin,HAS_SIDE_EFFECT,Breast feeding
+aspirin,HAS_SIDE_EFFECT,Varicella
+aspirin,HAS_SIDE_EFFECT,Coma
+aspirin,HAS_SIDE_EFFECT,Confusional state
+aspirin,HAS_SIDE_EFFECT,Feeling abnormal
+aspirin,HAS_SIDE_EFFECT,Contusion
+aspirin,HAS_SIDE_EFFECT,Diabetes mellitus
+aspirin,HAS_SIDE_EFFECT,Diarrhoea
+aspirin,HAS_SIDE_EFFECT,Polyuria
+aspirin,HAS_SIDE_EFFECT,Somnolence
+aspirin,HAS_SIDE_EFFECT,Dyspepsia
+aspirin,HAS_SIDE_EFFECT,Dyspnoea
+aspirin,HAS_SIDE_EFFECT,Rash
+aspirin,HAS_SIDE_EFFECT,Dermatitis
+aspirin,HAS_SIDE_EFFECT,Flushing
+aspirin,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+aspirin,HAS_SIDE_EFFECT,Gout
+aspirin,HAS_SIDE_EFFECT,Haematemesis
+aspirin,HAS_SIDE_EFFECT,Haemorrhage
+aspirin,HAS_SIDE_EFFECT,Haemoglobin
+aspirin,HAS_SIDE_EFFECT,Haemorrhagic disorder
+aspirin,HAS_SIDE_EFFECT,Hypersensitivity
+aspirin,HAS_SIDE_EFFECT,Hypertension
+aspirin,HAS_SIDE_EFFECT,Hypoglycaemia
+aspirin,HAS_SIDE_EFFECT,Hypokalaemia
+aspirin,HAS_SIDE_EFFECT,Leukopenia
+aspirin,HAS_SIDE_EFFECT,Hepatocellular injury
+aspirin,HAS_SIDE_EFFECT,Liver disorder
+aspirin,HAS_SIDE_EFFECT,Foetor hepaticus
+aspirin,HAS_SIDE_EFFECT,Melaena
+aspirin,HAS_SIDE_EFFECT,Nausea
+aspirin,HAS_SIDE_EFFECT,Peptic ulcer
+aspirin,HAS_SIDE_EFFECT,Pruritus
+aspirin,HAS_SIDE_EFFECT,Vascular purpura
+aspirin,HAS_SIDE_EFFECT,Purpura
+aspirin,HAS_SIDE_EFFECT,Reye's syndrome
+aspirin,HAS_SIDE_EFFECT,Convulsion
+aspirin,HAS_SIDE_EFFECT,Hyperhidrosis
+aspirin,HAS_SIDE_EFFECT,Dizziness
+aspirin,HAS_SIDE_EFFECT,Loss of consciousness
+aspirin,HAS_SIDE_EFFECT,Shock
+aspirin,HAS_SIDE_EFFECT,Syncope
+aspirin,HAS_SIDE_EFFECT,Tachycardia
+aspirin,HAS_SIDE_EFFECT,Thirst
+aspirin,HAS_SIDE_EFFECT,Thrombocytopenia
+aspirin,HAS_SIDE_EFFECT,Tinnitus
+aspirin,HAS_SIDE_EFFECT,Ulcer
+aspirin,HAS_SIDE_EFFECT,Urticaria
+aspirin,HAS_SIDE_EFFECT,Vertigo
+aspirin,HAS_SIDE_EFFECT,Vomiting
+aspirin,HAS_SIDE_EFFECT,Renal impairment
+aspirin,HAS_SIDE_EFFECT,Metabolic acidosis
+aspirin,HAS_SIDE_EFFECT,Agitation
+aspirin,HAS_SIDE_EFFECT,Hepatotoxicity
+aspirin,HAS_SIDE_EFFECT,Chest pain
+aspirin,HAS_SIDE_EFFECT,Chest discomfort
+aspirin,HAS_SIDE_EFFECT,Acidosis
+aspirin,HAS_SIDE_EFFECT,Epigastric discomfort
+aspirin,HAS_SIDE_EFFECT,Arthralgia
+aspirin,HAS_SIDE_EFFECT,Influenza
+aspirin,HAS_SIDE_EFFECT,Respiratory failure
+aspirin,HAS_SIDE_EFFECT,Hearing impaired
+aspirin,HAS_SIDE_EFFECT,Deafness
+aspirin,HAS_SIDE_EFFECT,Blood cholesterol increased
+Romidepsin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Romidepsin,HAS_SIDE_EFFECT,Abdominal pain
+Romidepsin,HAS_SIDE_EFFECT,Anaemia
+Romidepsin,HAS_SIDE_EFFECT,Decreased appetite
+Romidepsin,HAS_SIDE_EFFECT,Asthenia
+Romidepsin,HAS_SIDE_EFFECT,Neoplasm malignant
+Romidepsin,HAS_SIDE_EFFECT,Cellulitis
+Romidepsin,HAS_SIDE_EFFECT,Chest pain
+Romidepsin,HAS_SIDE_EFFECT,Infection
+Romidepsin,HAS_SIDE_EFFECT,Constipation
+Romidepsin,HAS_SIDE_EFFECT,Cough
+Romidepsin,HAS_SIDE_EFFECT,Dehydration
+Romidepsin,HAS_SIDE_EFFECT,Dermatitis
+Romidepsin,HAS_SIDE_EFFECT,Dermatitis exfoliative
+Romidepsin,HAS_SIDE_EFFECT,Diarrhoea
+Romidepsin,HAS_SIDE_EFFECT,Dysgeusia
+Romidepsin,HAS_SIDE_EFFECT,Dyspnoea
+Romidepsin,HAS_SIDE_EFFECT,Oedema
+Romidepsin,HAS_SIDE_EFFECT,Fatigue
+Romidepsin,HAS_SIDE_EFFECT,Body temperature increased
+Romidepsin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Romidepsin,HAS_SIDE_EFFECT,Headache
+Romidepsin,HAS_SIDE_EFFECT,Cardiac disorder
+Romidepsin,HAS_SIDE_EFFECT,Hyperbilirubinaemia
+Romidepsin,HAS_SIDE_EFFECT,Hyperglycaemia
+Romidepsin,HAS_SIDE_EFFECT,Hypersensitivity
+Romidepsin,HAS_SIDE_EFFECT,Hypocalcaemia
+Romidepsin,HAS_SIDE_EFFECT,Hypokalaemia
+Romidepsin,HAS_SIDE_EFFECT,Hyponatraemia
+Romidepsin,HAS_SIDE_EFFECT,Hypotension
+Romidepsin,HAS_SIDE_EFFECT,Renal failure acute
+Romidepsin,HAS_SIDE_EFFECT,Leukopenia
+Romidepsin,HAS_SIDE_EFFECT,Lymphopenia
+Romidepsin,HAS_SIDE_EFFECT,Mediastinal disorder
+Romidepsin,HAS_SIDE_EFFECT,Multi-organ failure
+Romidepsin,HAS_SIDE_EFFECT,Nausea
+Romidepsin,HAS_SIDE_EFFECT,Nervous system disorder
+Romidepsin,HAS_SIDE_EFFECT,Neutropenia
+Romidepsin,HAS_SIDE_EFFECT,Pneumonia
+Romidepsin,HAS_SIDE_EFFECT,Pruritus
+Romidepsin,HAS_SIDE_EFFECT,Pulmonary embolism
+Romidepsin,HAS_SIDE_EFFECT,Acute respiratory distress syndrome
+Romidepsin,HAS_SIDE_EFFECT,Cardiogenic shock
+Romidepsin,HAS_SIDE_EFFECT,Septic shock
+Romidepsin,HAS_SIDE_EFFECT,Stomatitis
+Romidepsin,HAS_SIDE_EFFECT,Dizziness
+Romidepsin,HAS_SIDE_EFFECT,Loss of consciousness
+Romidepsin,HAS_SIDE_EFFECT,Shock
+Romidepsin,HAS_SIDE_EFFECT,Syncope
+Romidepsin,HAS_SIDE_EFFECT,Tachycardia
+Romidepsin,HAS_SIDE_EFFECT,Thrombocytopenia
+Romidepsin,HAS_SIDE_EFFECT,Vomiting
+Romidepsin,HAS_SIDE_EFFECT,Weight decreased
+Romidepsin,HAS_SIDE_EFFECT,Mycosis fungoides
+Romidepsin,HAS_SIDE_EFFECT,Chills
+Romidepsin,HAS_SIDE_EFFECT,Ventricular arrhythmia
+Romidepsin,HAS_SIDE_EFFECT,Oedema peripheral
+Romidepsin,HAS_SIDE_EFFECT,Hypophosphataemia
+Romidepsin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Romidepsin,HAS_SIDE_EFFECT,Hypermagnesaemia
+Romidepsin,HAS_SIDE_EFFECT,Hypomagnesaemia
+Romidepsin,HAS_SIDE_EFFECT,Myocardial ischaemia
+Romidepsin,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Romidepsin,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Romidepsin,HAS_SIDE_EFFECT,Malnutrition
+Romidepsin,HAS_SIDE_EFFECT,Hypoalbuminaemia
+Romidepsin,HAS_SIDE_EFFECT,Disease progression
+Romidepsin,HAS_SIDE_EFFECT,Sepsis
+Romidepsin,HAS_SIDE_EFFECT,Death
+Romidepsin,HAS_SIDE_EFFECT,Arrhythmia supraventricular
+Romidepsin,HAS_SIDE_EFFECT,Blood uric acid increased
+Romidepsin,HAS_SIDE_EFFECT,Hyperuricaemia
+Romidepsin,HAS_SIDE_EFFECT,Febrile neutropenia
+Romidepsin,HAS_SIDE_EFFECT,Device related infection
+Romidepsin,HAS_SIDE_EFFECT,Candida sepsis
+Romidepsin,HAS_SIDE_EFFECT,Cardiopulmonary failure
+Buscopan,HAS_SIDE_EFFECT,Anaphylactic shock
+Buscopan,HAS_SIDE_EFFECT,Angioedema
+Buscopan,HAS_SIDE_EFFECT,Diarrhoea
+Buscopan,HAS_SIDE_EFFECT,Dizziness
+Buscopan,HAS_SIDE_EFFECT,Dyspnoea
+Buscopan,HAS_SIDE_EFFECT,Rash
+Buscopan,HAS_SIDE_EFFECT,Dermatitis
+Buscopan,HAS_SIDE_EFFECT,Eye disorder
+Buscopan,HAS_SIDE_EFFECT,Flushing
+Buscopan,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Buscopan,HAS_SIDE_EFFECT,Glaucoma
+Buscopan,HAS_SIDE_EFFECT,Cardiac disorder
+Buscopan,HAS_SIDE_EFFECT,Hypersensitivity
+Buscopan,HAS_SIDE_EFFECT,Hypotension
+Buscopan,HAS_SIDE_EFFECT,Immune system disorder
+Buscopan,HAS_SIDE_EFFECT,Mydriasis
+Buscopan,HAS_SIDE_EFFECT,Nausea
+Buscopan,HAS_SIDE_EFFECT,Dyshidrotic eczema
+Buscopan,HAS_SIDE_EFFECT,Pruritus
+Buscopan,HAS_SIDE_EFFECT,Shock
+Buscopan,HAS_SIDE_EFFECT,Tachycardia
+Buscopan,HAS_SIDE_EFFECT,Erythema
+Buscopan,HAS_SIDE_EFFECT,Urethral disorder
+Buscopan,HAS_SIDE_EFFECT,Urinary tract disorder
+Buscopan,HAS_SIDE_EFFECT,Urticaria
+Buscopan,HAS_SIDE_EFFECT,Angiopathy
+Buscopan,HAS_SIDE_EFFECT,Visual impairment
+Buscopan,HAS_SIDE_EFFECT,Dry mouth
+Buscopan,HAS_SIDE_EFFECT,Urinary retention
+Buscopan,HAS_SIDE_EFFECT,Retinal pigmentation
+Buscopan,HAS_SIDE_EFFECT,Accommodation disorder
+Buscopan,HAS_SIDE_EFFECT,Skin disorder
+Buscopan,HAS_SIDE_EFFECT,Drug eruption
+Buscopan,HAS_SIDE_EFFECT,Intraocular pressure increased
+Buscopan,HAS_SIDE_EFFECT,Anaphylactoid reaction
+Lisinopril,HAS_SIDE_EFFECT,Gastrointestinal pain
+Lisinopril,HAS_SIDE_EFFECT,Abdominal pain
+Lisinopril,HAS_SIDE_EFFECT,Agranulocytosis
+Lisinopril,HAS_SIDE_EFFECT,Alopecia
+Lisinopril,HAS_SIDE_EFFECT,Anaemia
+Lisinopril,HAS_SIDE_EFFECT,Haemolytic anaemia
+Lisinopril,HAS_SIDE_EFFECT,Angina pectoris
+Lisinopril,HAS_SIDE_EFFECT,Angioedema
+Lisinopril,HAS_SIDE_EFFECT,Decreased appetite
+Lisinopril,HAS_SIDE_EFFECT,Anuria
+Lisinopril,HAS_SIDE_EFFECT,Anxiety
+Lisinopril,HAS_SIDE_EFFECT,Arrhythmia
+Lisinopril,HAS_SIDE_EFFECT,Arthralgia
+Lisinopril,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Lisinopril,HAS_SIDE_EFFECT,Arthritis
+Lisinopril,HAS_SIDE_EFFECT,Asthenia
+Lisinopril,HAS_SIDE_EFFECT,Asthma
+Lisinopril,HAS_SIDE_EFFECT,Ataxia
+Lisinopril,HAS_SIDE_EFFECT,Atrial fibrillation
+Lisinopril,HAS_SIDE_EFFECT,Atrial flutter
+Lisinopril,HAS_SIDE_EFFECT,Back pain
+Lisinopril,HAS_SIDE_EFFECT,Mental disorder
+Lisinopril,HAS_SIDE_EFFECT,Breast disorder
+Lisinopril,HAS_SIDE_EFFECT,Bronchospasm
+Lisinopril,HAS_SIDE_EFFECT,Bronchitis
+Lisinopril,HAS_SIDE_EFFECT,Bursitis
+Lisinopril,HAS_SIDE_EFFECT,Transient ischaemic attack
+Lisinopril,HAS_SIDE_EFFECT,Neck pain
+Lisinopril,HAS_SIDE_EFFECT,Chest pain
+Lisinopril,HAS_SIDE_EFFECT,Nasopharyngitis
+Lisinopril,HAS_SIDE_EFFECT,Rhinitis
+Lisinopril,HAS_SIDE_EFFECT,Infection
+Lisinopril,HAS_SIDE_EFFECT,Confusional state
+Lisinopril,HAS_SIDE_EFFECT,Feeling abnormal
+Lisinopril,HAS_SIDE_EFFECT,Constipation
+Lisinopril,HAS_SIDE_EFFECT,Cough
+Lisinopril,HAS_SIDE_EFFECT,Cystitis noninfective
+Lisinopril,HAS_SIDE_EFFECT,Cystitis
+Lisinopril,HAS_SIDE_EFFECT,Bladder pain
+Lisinopril,HAS_SIDE_EFFECT,Pancytopenia
+Lisinopril,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Lisinopril,HAS_SIDE_EFFECT,Libido decreased
+Lisinopril,HAS_SIDE_EFFECT,Dehydration
+Lisinopril,HAS_SIDE_EFFECT,Depression
+Lisinopril,HAS_SIDE_EFFECT,Diarrhoea
+Lisinopril,HAS_SIDE_EFFECT,Diplopia
+Lisinopril,HAS_SIDE_EFFECT,Dizziness
+Lisinopril,HAS_SIDE_EFFECT,Dysgeusia
+Lisinopril,HAS_SIDE_EFFECT,Dyspepsia
+Lisinopril,HAS_SIDE_EFFECT,Dyspnoea
+Lisinopril,HAS_SIDE_EFFECT,Dysuria
+Lisinopril,HAS_SIDE_EFFECT,Ear disorder
+Lisinopril,HAS_SIDE_EFFECT,Eczema
+Lisinopril,HAS_SIDE_EFFECT,Oedema
+Lisinopril,HAS_SIDE_EFFECT,Endocrine disorder
+Lisinopril,HAS_SIDE_EFFECT,Eosinophilia
+Lisinopril,HAS_SIDE_EFFECT,Toxic epidermal necrolysis
+Lisinopril,HAS_SIDE_EFFECT,Epistaxis
+Lisinopril,HAS_SIDE_EFFECT,Erythema multiforme
+Lisinopril,HAS_SIDE_EFFECT,Rash
+Lisinopril,HAS_SIDE_EFFECT,Dermatitis
+Lisinopril,HAS_SIDE_EFFECT,Fatigue
+Lisinopril,HAS_SIDE_EFFECT,Body temperature increased
+Lisinopril,HAS_SIDE_EFFECT,Flank pain
+Lisinopril,HAS_SIDE_EFFECT,Flatulence
+Lisinopril,HAS_SIDE_EFFECT,Flushing
+Lisinopril,HAS_SIDE_EFFECT,Gastritis
+Lisinopril,HAS_SIDE_EFFECT,Gastroenteritis
+Lisinopril,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Lisinopril,HAS_SIDE_EFFECT,Gout
+Lisinopril,HAS_SIDE_EFFECT,Hallucination
+Lisinopril,HAS_SIDE_EFFECT,Headache
+Lisinopril,HAS_SIDE_EFFECT,Cardiac arrest
+Lisinopril,HAS_SIDE_EFFECT,Haematuria
+Lisinopril,HAS_SIDE_EFFECT,Haemoptysis
+Lisinopril,HAS_SIDE_EFFECT,Hepatitis
+Lisinopril,HAS_SIDE_EFFECT,Herpes zoster
+Lisinopril,HAS_SIDE_EFFECT,Hyperglycaemia
+Lisinopril,HAS_SIDE_EFFECT,Hyperkalaemia
+Lisinopril,HAS_SIDE_EFFECT,Hyperlipidaemia
+Lisinopril,HAS_SIDE_EFFECT,Hypersensitivity
+Lisinopril,HAS_SIDE_EFFECT,Hypoglycaemia
+Lisinopril,HAS_SIDE_EFFECT,Hyponatraemia
+Lisinopril,HAS_SIDE_EFFECT,Hypotension
+Lisinopril,HAS_SIDE_EFFECT,Orthostatic hypotension
+Lisinopril,HAS_SIDE_EFFECT,Inappropriate antidiuretic hormone secretion
+Lisinopril,HAS_SIDE_EFFECT,Infarction
+Lisinopril,HAS_SIDE_EFFECT,Influenza
+Lisinopril,HAS_SIDE_EFFECT,Irritability
+Lisinopril,HAS_SIDE_EFFECT,Jaundice
+Lisinopril,HAS_SIDE_EFFECT,Jaundice cholestatic
+Lisinopril,HAS_SIDE_EFFECT,Osteoarthritis
+Lisinopril,HAS_SIDE_EFFECT,Arthropathy
+Lisinopril,HAS_SIDE_EFFECT,Renal failure acute
+Lisinopril,HAS_SIDE_EFFECT,Laryngeal oedema
+Lisinopril,HAS_SIDE_EFFECT,Laryngitis
+Lisinopril,HAS_SIDE_EFFECT,Pain in extremity
+Lisinopril,HAS_SIDE_EFFECT,Leukocytosis
+Lisinopril,HAS_SIDE_EFFECT,Leukopenia
+Lisinopril,HAS_SIDE_EFFECT,Lung neoplasm
+Lisinopril,HAS_SIDE_EFFECT,Breast pain
+Lisinopril,HAS_SIDE_EFFECT,Mediastinal disorder
+Lisinopril,HAS_SIDE_EFFECT,Muscle spasms
+Lisinopril,HAS_SIDE_EFFECT,Hypertonia
+Lisinopril,HAS_SIDE_EFFECT,Myocardial infarction
+Lisinopril,HAS_SIDE_EFFECT,Acute coronary syndrome
+Lisinopril,HAS_SIDE_EFFECT,Nasal congestion
+Lisinopril,HAS_SIDE_EFFECT,Nausea
+Lisinopril,HAS_SIDE_EFFECT,Nervousness
+Lisinopril,HAS_SIDE_EFFECT,Tension
+Lisinopril,HAS_SIDE_EFFECT,Neutropenia
+Lisinopril,HAS_SIDE_EFFECT,Blood urea increased
+Lisinopril,HAS_SIDE_EFFECT,Oliguria
+Lisinopril,HAS_SIDE_EFFECT,Otitis media
+Lisinopril,HAS_SIDE_EFFECT,Pain
+Lisinopril,HAS_SIDE_EFFECT,Palpitations
+Lisinopril,HAS_SIDE_EFFECT,Pancreatitis
+Lisinopril,HAS_SIDE_EFFECT,Paraesthesia
+Lisinopril,HAS_SIDE_EFFECT,Pelvic pain
+Lisinopril,HAS_SIDE_EFFECT,Pemphigus
+Lisinopril,HAS_SIDE_EFFECT,Neuropathy peripheral
+Lisinopril,HAS_SIDE_EFFECT,Persistent foetal circulation
+Lisinopril,HAS_SIDE_EFFECT,Pharyngitis
+Lisinopril,HAS_SIDE_EFFECT,Pleural effusion
+Lisinopril,HAS_SIDE_EFFECT,Pneumonia
+Lisinopril,HAS_SIDE_EFFECT,Proteinuria
+Lisinopril,HAS_SIDE_EFFECT,Protein urine present
+Lisinopril,HAS_SIDE_EFFECT,Pruritus
+Lisinopril,HAS_SIDE_EFFECT,Psoriasis
+Lisinopril,HAS_SIDE_EFFECT,Pulmonary oedema
+Lisinopril,HAS_SIDE_EFFECT,Pulmonary embolism
+Lisinopril,HAS_SIDE_EFFECT,Pulmonary eosinophilia
+Lisinopril,HAS_SIDE_EFFECT,Pyelonephritis
+Lisinopril,HAS_SIDE_EFFECT,Shock
+Lisinopril,HAS_SIDE_EFFECT,Musculoskeletal pain
+Lisinopril,HAS_SIDE_EFFECT,Salivary hypersecretion
+Lisinopril,HAS_SIDE_EFFECT,Sinusitis
+Lisinopril,HAS_SIDE_EFFECT,Skin disorder
+Lisinopril,HAS_SIDE_EFFECT,Skin infection
+Lisinopril,HAS_SIDE_EFFECT,Sleep disorder
+Lisinopril,HAS_SIDE_EFFECT,Stevens-Johnson syndrome
+Lisinopril,HAS_SIDE_EFFECT,Cerebrovascular accident
+Lisinopril,HAS_SIDE_EFFECT,Hyperhidrosis
+Lisinopril,HAS_SIDE_EFFECT,Loss of consciousness
+Lisinopril,HAS_SIDE_EFFECT,Syncope
+Lisinopril,HAS_SIDE_EFFECT,Tachycardia
+Lisinopril,HAS_SIDE_EFFECT,Thrombocytopenia
+Lisinopril,HAS_SIDE_EFFECT,Tinnitus
+Lisinopril,HAS_SIDE_EFFECT,Tremor
+Lisinopril,HAS_SIDE_EFFECT,Erythema
+Lisinopril,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Lisinopril,HAS_SIDE_EFFECT,Azotaemia
+Lisinopril,HAS_SIDE_EFFECT,Urinary tract infection
+Lisinopril,HAS_SIDE_EFFECT,Urethral disorder
+Lisinopril,HAS_SIDE_EFFECT,Urinary tract disorder
+Lisinopril,HAS_SIDE_EFFECT,Urticaria
+Lisinopril,HAS_SIDE_EFFECT,Angiopathy
+Lisinopril,HAS_SIDE_EFFECT,Vasculitis
+Lisinopril,HAS_SIDE_EFFECT,Ventricular fibrillation
+Lisinopril,HAS_SIDE_EFFECT,Ventricular tachycardia
+Lisinopril,HAS_SIDE_EFFECT,Vertigo
+Lisinopril,HAS_SIDE_EFFECT,Viral infection
+Lisinopril,HAS_SIDE_EFFECT,Vomiting
+Lisinopril,HAS_SIDE_EFFECT,Weight increased
+Lisinopril,HAS_SIDE_EFFECT,Weight decreased
+Lisinopril,HAS_SIDE_EFFECT,Wheezing
+Lisinopril,HAS_SIDE_EFFECT,Dry mouth
+Lisinopril,HAS_SIDE_EFFECT,Chills
+Lisinopril,HAS_SIDE_EFFECT,Hepatic failure
+Lisinopril,HAS_SIDE_EFFECT,Orthopnoea
+Lisinopril,HAS_SIDE_EFFECT,Photophobia
+Lisinopril,HAS_SIDE_EFFECT,Oedema peripheral
+Lisinopril,HAS_SIDE_EFFECT,Depressive symptom
+Lisinopril,HAS_SIDE_EFFECT,Hepatic function abnormal
+Lisinopril,HAS_SIDE_EFFECT,Antinuclear antibody positive
+Lisinopril,HAS_SIDE_EFFECT,Atrioventricular block complete
+Lisinopril,HAS_SIDE_EFFECT,Blood creatinine increased
+Lisinopril,HAS_SIDE_EFFECT,Fluid retention
+Lisinopril,HAS_SIDE_EFFECT,Generalised oedema
+Lisinopril,HAS_SIDE_EFFECT,Red blood cell sedimentation rate increased
+Lisinopril,HAS_SIDE_EFFECT,Ventricular extrasystoles
+Lisinopril,HAS_SIDE_EFFECT,Injury
+Lisinopril,HAS_SIDE_EFFECT,Tendon disorder
+Lisinopril,HAS_SIDE_EFFECT,Acute myocardial infarction
+Lisinopril,HAS_SIDE_EFFECT,Papillary muscle rupture
+Lisinopril,HAS_SIDE_EFFECT,Breath sounds abnormal
+Lisinopril,HAS_SIDE_EFFECT,Malnutrition
+Lisinopril,HAS_SIDE_EFFECT,Malaise
+Lisinopril,HAS_SIDE_EFFECT,Discomfort
+Lisinopril,HAS_SIDE_EFFECT,Ill-defined disorder
+Lisinopril,HAS_SIDE_EFFECT,Myalgia
+Lisinopril,HAS_SIDE_EFFECT,Cardiac fibrillation
+Lisinopril,HAS_SIDE_EFFECT,Memory impairment
+Lisinopril,HAS_SIDE_EFFECT,Chest discomfort
+Lisinopril,HAS_SIDE_EFFECT,Lung infiltration
+Lisinopril,HAS_SIDE_EFFECT,Diabetes mellitus
+Lisinopril,HAS_SIDE_EFFECT,Erectile dysfunction
+Lisinopril,HAS_SIDE_EFFECT,Oropharyngeal discomfort
+Lisinopril,HAS_SIDE_EFFECT,Oropharyngeal pain
+Lisinopril,HAS_SIDE_EFFECT,Hepatobiliary disease
+Lisinopril,HAS_SIDE_EFFECT,Pseudolymphoma
+Lisinopril,HAS_SIDE_EFFECT,Anaphylactic shock
+Lisinopril,HAS_SIDE_EFFECT,Anaphylactoid reaction
+Lisinopril,HAS_SIDE_EFFECT,Diabetic complication
+Lisinopril,HAS_SIDE_EFFECT,Vision blurred
+Lisinopril,HAS_SIDE_EFFECT,Photosensitivity reaction
+Lisinopril,HAS_SIDE_EFFECT,Influenza like illness
+Lisinopril,HAS_SIDE_EFFECT,Dysaesthesia
+Lisinopril,HAS_SIDE_EFFECT,Painful respiration
+Lisinopril,HAS_SIDE_EFFECT,Bradycardia
+Lisinopril,HAS_SIDE_EFFECT,Face oedema
+Lisinopril,HAS_SIDE_EFFECT,Fluid overload
+Lisinopril,HAS_SIDE_EFFECT,Atrial tachycardia
+Lisinopril,HAS_SIDE_EFFECT,Renal pain
+Lisinopril,HAS_SIDE_EFFECT,Drug interaction
+Lisinopril,HAS_SIDE_EFFECT,Cerebral ischaemia
+Lisinopril,HAS_SIDE_EFFECT,Hypersomnia
+Lisinopril,HAS_SIDE_EFFECT,Insomnia
+Lisinopril,HAS_SIDE_EFFECT,Postinfarction angina
+Lisinopril,HAS_SIDE_EFFECT,Rhinorrhoea
+Lisinopril,HAS_SIDE_EFFECT,Renal impairment
+Lisinopril,HAS_SIDE_EFFECT,Renal failure
+Lisinopril,HAS_SIDE_EFFECT,Dyspnoea paroxysmal nocturnal
+Lisinopril,HAS_SIDE_EFFECT,Somnolence
+Lisinopril,HAS_SIDE_EFFECT,Blindness
+Protirelin,HAS_SIDE_EFFECT,Anxiety
+Protirelin,HAS_SIDE_EFFECT,Somnolence
+Protirelin,HAS_SIDE_EFFECT,Epilepsy
+Protirelin,HAS_SIDE_EFFECT,Extravasation
+Protirelin,HAS_SIDE_EFFECT,Headache
+Protirelin,HAS_SIDE_EFFECT,Hypersensitivity
+Protirelin,HAS_SIDE_EFFECT,Hypertension
+Protirelin,HAS_SIDE_EFFECT,Hypotension
+Protirelin,HAS_SIDE_EFFECT,Nausea
+Protirelin,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Protirelin,HAS_SIDE_EFFECT,Convulsion
+Protirelin,HAS_SIDE_EFFECT,Hyperhidrosis
+Protirelin,HAS_SIDE_EFFECT,Dizziness
+Protirelin,HAS_SIDE_EFFECT,Loss of consciousness
+Protirelin,HAS_SIDE_EFFECT,Shock
+Protirelin,HAS_SIDE_EFFECT,Syncope
+Protirelin,HAS_SIDE_EFFECT,Dry mouth
+Protirelin,HAS_SIDE_EFFECT,Abdominal discomfort
+Protirelin,HAS_SIDE_EFFECT,Brain injury
+Protirelin,HAS_SIDE_EFFECT,Amaurosis
+Protirelin,HAS_SIDE_EFFECT,Dysgeusia
+Protirelin,HAS_SIDE_EFFECT,Blood pressure fluctuation
+Protirelin,HAS_SIDE_EFFECT,Breast enlargement
+Protirelin,HAS_SIDE_EFFECT,Paraesthesia
+Implanon,HAS_SIDE_EFFECT,Gastrointestinal pain
+Implanon,HAS_SIDE_EFFECT,Abdominal pain
+Implanon,HAS_SIDE_EFFECT,Abscess
+Implanon,HAS_SIDE_EFFECT,Alopecia
+Implanon,HAS_SIDE_EFFECT,Angioedema
+Implanon,HAS_SIDE_EFFECT,Decreased appetite
+Implanon,HAS_SIDE_EFFECT,Anxiety
+Implanon,HAS_SIDE_EFFECT,Arthralgia
+Implanon,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Implanon,HAS_SIDE_EFFECT,Asthenia
+Implanon,HAS_SIDE_EFFECT,Asthma
+Implanon,HAS_SIDE_EFFECT,Back pain
+Implanon,HAS_SIDE_EFFECT,Mental disorder
+Implanon,HAS_SIDE_EFFECT,Breast cancer
+Implanon,HAS_SIDE_EFFECT,Constipation
+Implanon,HAS_SIDE_EFFECT,Contusion
+Implanon,HAS_SIDE_EFFECT,Cough
+Implanon,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Implanon,HAS_SIDE_EFFECT,Libido decreased
+Implanon,HAS_SIDE_EFFECT,Depression
+Implanon,HAS_SIDE_EFFECT,Diarrhoea
+Implanon,HAS_SIDE_EFFECT,Dizziness
+Implanon,HAS_SIDE_EFFECT,Dysmenorrhoea
+Implanon,HAS_SIDE_EFFECT,Dyspepsia
+Implanon,HAS_SIDE_EFFECT,Dysuria
+Implanon,HAS_SIDE_EFFECT,Oedema
+Implanon,HAS_SIDE_EFFECT,Rash
+Implanon,HAS_SIDE_EFFECT,Dermatitis
+Implanon,HAS_SIDE_EFFECT,Fatigue
+Implanon,HAS_SIDE_EFFECT,Body temperature increased
+Implanon,HAS_SIDE_EFFECT,Fibrosis
+Implanon,HAS_SIDE_EFFECT,Flatulence
+Implanon,HAS_SIDE_EFFECT,Gastritis
+Implanon,HAS_SIDE_EFFECT,Headache
+Implanon,HAS_SIDE_EFFECT,Haematoma
+Implanon,HAS_SIDE_EFFECT,Haemorrhage
+Implanon,HAS_SIDE_EFFECT,Haemoglobin
+Implanon,HAS_SIDE_EFFECT,Hereditary angioedema
+Implanon,HAS_SIDE_EFFECT,Hypersensitivity
+Implanon,HAS_SIDE_EFFECT,Hypertension
+Implanon,HAS_SIDE_EFFECT,Hypertrichosis
+Implanon,HAS_SIDE_EFFECT,Vaginal discharge
+Implanon,HAS_SIDE_EFFECT,Hepatic neoplasm
+Implanon,HAS_SIDE_EFFECT,Breast pain
+Implanon,HAS_SIDE_EFFECT,Chloasma
+Implanon,HAS_SIDE_EFFECT,Muscle spasms
+Implanon,HAS_SIDE_EFFECT,Nausea
+Implanon,HAS_SIDE_EFFECT,Neoplasm
+Implanon,HAS_SIDE_EFFECT,Nervousness
+Implanon,HAS_SIDE_EFFECT,Tension
+Implanon,HAS_SIDE_EFFECT,Otitis media
+Implanon,HAS_SIDE_EFFECT,Ovarian cyst
+Implanon,HAS_SIDE_EFFECT,Pain
+Implanon,HAS_SIDE_EFFECT,Paraesthesia
+Implanon,HAS_SIDE_EFFECT,Pharyngitis
+Implanon,HAS_SIDE_EFFECT,Ectopic pregnancy
+Implanon,HAS_SIDE_EFFECT,Pruritus
+Implanon,HAS_SIDE_EFFECT,Pruritus genital
+Implanon,HAS_SIDE_EFFECT,Rhinitis
+Implanon,HAS_SIDE_EFFECT,Seborrhoeic dermatitis
+Implanon,HAS_SIDE_EFFECT,Sinusitis
+Implanon,HAS_SIDE_EFFECT,Swelling
+Implanon,HAS_SIDE_EFFECT,Erythema
+Implanon,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Implanon,HAS_SIDE_EFFECT,Urticaria
+Implanon,HAS_SIDE_EFFECT,Vaginal infection
+Implanon,HAS_SIDE_EFFECT,Vaginal inflammation
+Implanon,HAS_SIDE_EFFECT,Varicose vein
+Implanon,HAS_SIDE_EFFECT,Vomiting
+Implanon,HAS_SIDE_EFFECT,Weight increased
+Implanon,HAS_SIDE_EFFECT,Weight decreased
+Implanon,HAS_SIDE_EFFECT,Mood swings
+Implanon,HAS_SIDE_EFFECT,Affect lability
+Implanon,HAS_SIDE_EFFECT,Breast discharge
+Implanon,HAS_SIDE_EFFECT,Migraine
+Implanon,HAS_SIDE_EFFECT,Fluid retention
+Implanon,HAS_SIDE_EFFECT,Generalised oedema
+Implanon,HAS_SIDE_EFFECT,Injection site reaction
+Implanon,HAS_SIDE_EFFECT,Bone pain
+Implanon,HAS_SIDE_EFFECT,Injection site pain
+Implanon,HAS_SIDE_EFFECT,Myalgia
+Implanon,HAS_SIDE_EFFECT,Increased appetite
+Implanon,HAS_SIDE_EFFECT,Galactorrhoea
+Implanon,HAS_SIDE_EFFECT,Crying
+Implanon,HAS_SIDE_EFFECT,Vulvovaginal discomfort
+Implanon,HAS_SIDE_EFFECT,Premenstrual syndrome
+Implanon,HAS_SIDE_EFFECT,Influenza like illness
+Implanon,HAS_SIDE_EFFECT,Blood pressure increased
+Implanon,HAS_SIDE_EFFECT,Surgery
+Implanon,HAS_SIDE_EFFECT,Sexual dysfunction
+Implanon,HAS_SIDE_EFFECT,Hot flush
+Implanon,HAS_SIDE_EFFECT,Menopausal symptoms
+Implanon,HAS_SIDE_EFFECT,Acne
+Implanon,HAS_SIDE_EFFECT,Insomnia
+Implanon,HAS_SIDE_EFFECT,Smear cervix abnormal
+Implanon,HAS_SIDE_EFFECT,Fibroadenoma of breast
+Implanon,HAS_SIDE_EFFECT,Breast enlargement
+Implanon,HAS_SIDE_EFFECT,Somnolence
+Implanon,HAS_SIDE_EFFECT,Visual impairment
+Implanon,HAS_SIDE_EFFECT,Anaphylactic shock
+Implanon,HAS_SIDE_EFFECT,Breast disorder
+Implanon,HAS_SIDE_EFFECT,Infection
+Implanon,HAS_SIDE_EFFECT,Connective tissue disorder
+Implanon,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Implanon,HAS_SIDE_EFFECT,Immune system disorder
+Implanon,HAS_SIDE_EFFECT,Hepatocellular injury
+Implanon,HAS_SIDE_EFFECT,Liver disorder
+Implanon,HAS_SIDE_EFFECT,Foetor hepaticus
+Implanon,HAS_SIDE_EFFECT,Musculoskeletal pain
+Implanon,HAS_SIDE_EFFECT,Nervous system disorder
+Implanon,HAS_SIDE_EFFECT,Pregnancy
+Implanon,HAS_SIDE_EFFECT,Convulsion
+Implanon,HAS_SIDE_EFFECT,Urinary tract infection
+Implanon,HAS_SIDE_EFFECT,Urethral disorder
+Implanon,HAS_SIDE_EFFECT,Urinary tract disorder
+Implanon,HAS_SIDE_EFFECT,Angiopathy
+Implanon,HAS_SIDE_EFFECT,Menstruation irregular
+Implanon,HAS_SIDE_EFFECT,Malnutrition
+Implanon,HAS_SIDE_EFFECT,Skin disorder
+Implanon,HAS_SIDE_EFFECT,Breast tenderness
+Implanon,HAS_SIDE_EFFECT,Depressed mood
+Implanon,HAS_SIDE_EFFECT,Implant site reaction
+Implanon,HAS_SIDE_EFFECT,Infestation
+Implanon,HAS_SIDE_EFFECT,Genital discharge
+Implanon,HAS_SIDE_EFFECT,Implant site pain
+Westcort,HAS_SIDE_EFFECT,Infection
+Westcort,HAS_SIDE_EFFECT,Eczema
+Westcort,HAS_SIDE_EFFECT,Rash
+Westcort,HAS_SIDE_EFFECT,Dermatitis
+Westcort,HAS_SIDE_EFFECT,Folliculitis
+Westcort,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Westcort,HAS_SIDE_EFFECT,Hypertrichosis
+Westcort,HAS_SIDE_EFFECT,Miliaria
+Westcort,HAS_SIDE_EFFECT,Fungal infection
+Westcort,HAS_SIDE_EFFECT,Pruritus
+Westcort,HAS_SIDE_EFFECT,Telangiectasia
+Westcort,HAS_SIDE_EFFECT,Erythema
+Westcort,HAS_SIDE_EFFECT,Application site reaction
+Westcort,HAS_SIDE_EFFECT,Skin atrophy
+Westcort,HAS_SIDE_EFFECT,Growth retardation
+Westcort,HAS_SIDE_EFFECT,Dry skin
+Westcort,HAS_SIDE_EFFECT,Skin irritation
+Westcort,HAS_SIDE_EFFECT,Skin striae
+Westcort,HAS_SIDE_EFFECT,Dermatitis contact
+Westcort,HAS_SIDE_EFFECT,Leukoderma
+Westcort,HAS_SIDE_EFFECT,Dermatitis acneiform
+Westcort,HAS_SIDE_EFFECT,Skin burning sensation
+Westcort,HAS_SIDE_EFFECT,Secondary adrenocortical insufficiency
+Westcort,HAS_SIDE_EFFECT,Atrophy
+Westcort,HAS_SIDE_EFFECT,Rash maculo-papular
+Westcort,HAS_SIDE_EFFECT,Pain
+Goserelin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Goserelin,HAS_SIDE_EFFECT,Abdominal pain
+Goserelin,HAS_SIDE_EFFECT,Alopecia
+Goserelin,HAS_SIDE_EFFECT,Amblyopia
+Goserelin,HAS_SIDE_EFFECT,Amenorrhoea
+Goserelin,HAS_SIDE_EFFECT,Anaphylactic shock
+Goserelin,HAS_SIDE_EFFECT,Anaemia
+Goserelin,HAS_SIDE_EFFECT,Angina pectoris
+Goserelin,HAS_SIDE_EFFECT,Decreased appetite
+Goserelin,HAS_SIDE_EFFECT,Anxiety
+Goserelin,HAS_SIDE_EFFECT,Arrhythmia
+Goserelin,HAS_SIDE_EFFECT,Arthralgia
+Goserelin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Goserelin,HAS_SIDE_EFFECT,Asthenia
+Goserelin,HAS_SIDE_EFFECT,Back pain
+Goserelin,HAS_SIDE_EFFECT,Mental disorder
+Goserelin,HAS_SIDE_EFFECT,Bladder neoplasm
+Goserelin,HAS_SIDE_EFFECT,Blood pressure abnormal
+Goserelin,HAS_SIDE_EFFECT,Bone disorder
+Goserelin,HAS_SIDE_EFFECT,Breast disorder
+Goserelin,HAS_SIDE_EFFECT,Breast swelling
+Goserelin,HAS_SIDE_EFFECT,Bronchitis
+Goserelin,HAS_SIDE_EFFECT,Transient ischaemic attack
+Goserelin,HAS_SIDE_EFFECT,Chest pain
+Goserelin,HAS_SIDE_EFFECT,Infection
+Goserelin,HAS_SIDE_EFFECT,Confusional state
+Goserelin,HAS_SIDE_EFFECT,Feeling abnormal
+Goserelin,HAS_SIDE_EFFECT,Constipation
+Goserelin,HAS_SIDE_EFFECT,Cough
+Goserelin,HAS_SIDE_EFFECT,Cystitis noninfective
+Goserelin,HAS_SIDE_EFFECT,Cystitis
+Goserelin,HAS_SIDE_EFFECT,Bladder pain
+Goserelin,HAS_SIDE_EFFECT,Cyst
+Goserelin,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Goserelin,HAS_SIDE_EFFECT,Libido decreased
+Goserelin,HAS_SIDE_EFFECT,Depression
+Goserelin,HAS_SIDE_EFFECT,Diabetes mellitus
+Goserelin,HAS_SIDE_EFFECT,Diarrhoea
+Goserelin,HAS_SIDE_EFFECT,Dizziness
+Goserelin,HAS_SIDE_EFFECT,Somnolence
+Goserelin,HAS_SIDE_EFFECT,Drug hypersensitivity
+Goserelin,HAS_SIDE_EFFECT,Dysmenorrhoea
+Goserelin,HAS_SIDE_EFFECT,Dyspepsia
+Goserelin,HAS_SIDE_EFFECT,Dyspnoea
+Goserelin,HAS_SIDE_EFFECT,Ecchymosis
+Goserelin,HAS_SIDE_EFFECT,Oedema
+Goserelin,HAS_SIDE_EFFECT,Endocrine disorder
+Goserelin,HAS_SIDE_EFFECT,Epistaxis
+Goserelin,HAS_SIDE_EFFECT,Rash
+Goserelin,HAS_SIDE_EFFECT,Dermatitis
+Goserelin,HAS_SIDE_EFFECT,Extravasation
+Goserelin,HAS_SIDE_EFFECT,Eye disorder
+Goserelin,HAS_SIDE_EFFECT,Fatigue
+Goserelin,HAS_SIDE_EFFECT,Body temperature increased
+Goserelin,HAS_SIDE_EFFECT,Flatulence
+Goserelin,HAS_SIDE_EFFECT,Multiple fractures
+Goserelin,HAS_SIDE_EFFECT,Fracture
+Goserelin,HAS_SIDE_EFFECT,Gout
+Goserelin,HAS_SIDE_EFFECT,Gynaecomastia
+Goserelin,HAS_SIDE_EFFECT,Hair disorder
+Goserelin,HAS_SIDE_EFFECT,Headache
+Goserelin,HAS_SIDE_EFFECT,Cardiac disorder
+Goserelin,HAS_SIDE_EFFECT,Cardiac failure
+Goserelin,HAS_SIDE_EFFECT,Cardiac failure congestive
+Goserelin,HAS_SIDE_EFFECT,Haematemesis
+Goserelin,HAS_SIDE_EFFECT,Haematuria
+Goserelin,HAS_SIDE_EFFECT,Haemorrhage
+Goserelin,HAS_SIDE_EFFECT,Haemoglobin
+Goserelin,HAS_SIDE_EFFECT,Hepatitis
+Goserelin,HAS_SIDE_EFFECT,Herpes simplex
+Goserelin,HAS_SIDE_EFFECT,Herpes zoster
+Goserelin,HAS_SIDE_EFFECT,Hirsutism
+Goserelin,HAS_SIDE_EFFECT,Hypercalcaemia
+Goserelin,HAS_SIDE_EFFECT,Hypercholesterolaemia
+Goserelin,HAS_SIDE_EFFECT,Hyperglycaemia
+Goserelin,HAS_SIDE_EFFECT,Hyperhidrosis
+Goserelin,HAS_SIDE_EFFECT,Hyperlipidaemia
+Goserelin,HAS_SIDE_EFFECT,Hypersensitivity
+Goserelin,HAS_SIDE_EFFECT,Hypertension
+Goserelin,HAS_SIDE_EFFECT,Hypotension
+Goserelin,HAS_SIDE_EFFECT,Immune system disorder
+Goserelin,HAS_SIDE_EFFECT,Incontinence
+Goserelin,HAS_SIDE_EFFECT,Libido increased
+Goserelin,HAS_SIDE_EFFECT,Infarction
+Goserelin,HAS_SIDE_EFFECT,Influenza
+Goserelin,HAS_SIDE_EFFECT,Jaundice
+Goserelin,HAS_SIDE_EFFECT,Osteoarthritis
+Goserelin,HAS_SIDE_EFFECT,Arthropathy
+Goserelin,HAS_SIDE_EFFECT,Muscle spasms
+Goserelin,HAS_SIDE_EFFECT,Lethargy
+Goserelin,HAS_SIDE_EFFECT,Leukopenia
+Goserelin,HAS_SIDE_EFFECT,Chronic obstructive pulmonary disease
+Goserelin,HAS_SIDE_EFFECT,Bronchial hyperreactivity
+Goserelin,HAS_SIDE_EFFECT,Lymphoedema
+Goserelin,HAS_SIDE_EFFECT,Breast pain
+Goserelin,HAS_SIDE_EFFECT,Menorrhagia
+Goserelin,HAS_SIDE_EFFECT,Hypertonia
+Goserelin,HAS_SIDE_EFFECT,Myocardial infarction
+Goserelin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Goserelin,HAS_SIDE_EFFECT,Nausea
+Goserelin,HAS_SIDE_EFFECT,Neoplasm
+Goserelin,HAS_SIDE_EFFECT,Nervous system disorder
+Goserelin,HAS_SIDE_EFFECT,Nervousness
+Goserelin,HAS_SIDE_EFFECT,Tension
+Goserelin,HAS_SIDE_EFFECT,Nodule
+Goserelin,HAS_SIDE_EFFECT,Nocturia
+Goserelin,HAS_SIDE_EFFECT,Ophthalmoplegia
+Goserelin,HAS_SIDE_EFFECT,IIIrd nerve paralysis
+Goserelin,HAS_SIDE_EFFECT,Osteoporosis
+Goserelin,HAS_SIDE_EFFECT,Ovarian cyst
+Goserelin,HAS_SIDE_EFFECT,Pain
+Goserelin,HAS_SIDE_EFFECT,Palpitations
+Goserelin,HAS_SIDE_EFFECT,Paraesthesia
+Goserelin,HAS_SIDE_EFFECT,Pelvic pain
+Goserelin,HAS_SIDE_EFFECT,Pharyngitis
+Goserelin,HAS_SIDE_EFFECT,Pituitary tumour benign
+Goserelin,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Goserelin,HAS_SIDE_EFFECT,Pituitary tumour
+Goserelin,HAS_SIDE_EFFECT,Pneumonia
+Goserelin,HAS_SIDE_EFFECT,Polyp
+Goserelin,HAS_SIDE_EFFECT,Proctitis
+Goserelin,HAS_SIDE_EFFECT,Pruritus
+Goserelin,HAS_SIDE_EFFECT,Psychotic disorder
+Goserelin,HAS_SIDE_EFFECT,Pulmonary embolism
+Goserelin,HAS_SIDE_EFFECT,Rhinitis
+Goserelin,HAS_SIDE_EFFECT,Seborrhoeic dermatitis
+Goserelin,HAS_SIDE_EFFECT,Convulsion
+Goserelin,HAS_SIDE_EFFECT,Shock
+Goserelin,HAS_SIDE_EFFECT,Sinusitis
+Goserelin,HAS_SIDE_EFFECT,Spinal cord compression
+Goserelin,HAS_SIDE_EFFECT,Cerebrovascular accident
+Goserelin,HAS_SIDE_EFFECT,Swelling
+Goserelin,HAS_SIDE_EFFECT,Tachycardia
+Goserelin,HAS_SIDE_EFFECT,Thirst
+Goserelin,HAS_SIDE_EFFECT,Thrombocytopenia
+Goserelin,HAS_SIDE_EFFECT,Thrombophlebitis
+Goserelin,HAS_SIDE_EFFECT,Ulcer
+Goserelin,HAS_SIDE_EFFECT,Erythema
+Goserelin,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Goserelin,HAS_SIDE_EFFECT,Ureteric obstruction
+Goserelin,HAS_SIDE_EFFECT,Pollakiuria
+Goserelin,HAS_SIDE_EFFECT,Urinary incontinence
+Goserelin,HAS_SIDE_EFFECT,Urinary tract infection
+Goserelin,HAS_SIDE_EFFECT,Urethral disorder
+Goserelin,HAS_SIDE_EFFECT,Urinary tract disorder
+Goserelin,HAS_SIDE_EFFECT,Urticaria
+Goserelin,HAS_SIDE_EFFECT,Uterine haemorrhage
+Goserelin,HAS_SIDE_EFFECT,Vaginal infection
+Goserelin,HAS_SIDE_EFFECT,Vaginal inflammation
+Goserelin,HAS_SIDE_EFFECT,Varicose vein
+Goserelin,HAS_SIDE_EFFECT,Angiopathy
+Goserelin,HAS_SIDE_EFFECT,Vasodilation procedure
+Goserelin,HAS_SIDE_EFFECT,Vomiting
+Goserelin,HAS_SIDE_EFFECT,Vulvovaginitis
+Goserelin,HAS_SIDE_EFFECT,Weight increased
+Goserelin,HAS_SIDE_EFFECT,Dry mouth
+Goserelin,HAS_SIDE_EFFECT,Urinary retention
+Goserelin,HAS_SIDE_EFFECT,Ovarian hyperstimulation syndrome
+Goserelin,HAS_SIDE_EFFECT,Peripheral vascular disorder
+Goserelin,HAS_SIDE_EFFECT,Sudden cardiac death
+Goserelin,HAS_SIDE_EFFECT,Chills
+Goserelin,HAS_SIDE_EFFECT,Mood swings
+Goserelin,HAS_SIDE_EFFECT,Affect lability
+Goserelin,HAS_SIDE_EFFECT,Oedema peripheral
+Goserelin,HAS_SIDE_EFFECT,Hepatic function abnormal
+Goserelin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Goserelin,HAS_SIDE_EFFECT,Migraine
+Goserelin,HAS_SIDE_EFFECT,Application site reaction
+Goserelin,HAS_SIDE_EFFECT,Breast atrophy
+Goserelin,HAS_SIDE_EFFECT,High density lipoprotein decreased
+Goserelin,HAS_SIDE_EFFECT,Injection site reaction
+Goserelin,HAS_SIDE_EFFECT,Bone pain
+Goserelin,HAS_SIDE_EFFECT,Adverse reaction
+Goserelin,HAS_SIDE_EFFECT,Skin discolouration
+Goserelin,HAS_SIDE_EFFECT,Dry skin
+Goserelin,HAS_SIDE_EFFECT,Uterine leiomyoma
+Goserelin,HAS_SIDE_EFFECT,Bone cancer metastatic
+Goserelin,HAS_SIDE_EFFECT,Malnutrition
+Goserelin,HAS_SIDE_EFFECT,Photosensitivity reaction
+Goserelin,HAS_SIDE_EFFECT,Skin disorder
+Goserelin,HAS_SIDE_EFFECT,Malaise
+Goserelin,HAS_SIDE_EFFECT,Discomfort
+Goserelin,HAS_SIDE_EFFECT,Ill-defined disorder
+Goserelin,HAS_SIDE_EFFECT,Dysuria
+Goserelin,HAS_SIDE_EFFECT,Myalgia
+Goserelin,HAS_SIDE_EFFECT,Increased appetite
+Goserelin,HAS_SIDE_EFFECT,Mental disability
+Goserelin,HAS_SIDE_EFFECT,Thinking abnormal
+Goserelin,HAS_SIDE_EFFECT,Tenderness
+Goserelin,HAS_SIDE_EFFECT,Galactorrhoea
+Goserelin,HAS_SIDE_EFFECT,Condition aggravated
+Goserelin,HAS_SIDE_EFFECT,Muscle mass
+Goserelin,HAS_SIDE_EFFECT,Blood testosterone decreased
+Goserelin,HAS_SIDE_EFFECT,Vulvovaginal dryness
+Goserelin,HAS_SIDE_EFFECT,Erectile dysfunction
+Goserelin,HAS_SIDE_EFFECT,Sepsis
+Goserelin,HAS_SIDE_EFFECT,Breast tenderness
+Goserelin,HAS_SIDE_EFFECT,Rectal haemorrhage
+Goserelin,HAS_SIDE_EFFECT,Glucose tolerance impaired
+Goserelin,HAS_SIDE_EFFECT,Dry eye
+Goserelin,HAS_SIDE_EFFECT,Pituitary infarction
+Goserelin,HAS_SIDE_EFFECT,Vision blurred
+Goserelin,HAS_SIDE_EFFECT,Injection site irritation
+Goserelin,HAS_SIDE_EFFECT,Low density lipoprotein increased
+Goserelin,HAS_SIDE_EFFECT,Sexual dysfunction
+Goserelin,HAS_SIDE_EFFECT,Lower urinary tract symptoms
+Goserelin,HAS_SIDE_EFFECT,Hot flush
+Goserelin,HAS_SIDE_EFFECT,Menopausal symptoms
+Goserelin,HAS_SIDE_EFFECT,Acne
+Goserelin,HAS_SIDE_EFFECT,Blood uric acid increased
+Goserelin,HAS_SIDE_EFFECT,Hyperuricaemia
+Goserelin,HAS_SIDE_EFFECT,Febrile neutropenia
+Goserelin,HAS_SIDE_EFFECT,Amnesia
+Goserelin,HAS_SIDE_EFFECT,Sleep disorder
+Goserelin,HAS_SIDE_EFFECT,Tumour flare
+Goserelin,HAS_SIDE_EFFECT,Tumour pain
+Goserelin,HAS_SIDE_EFFECT,Bone density decreased
+Goserelin,HAS_SIDE_EFFECT,Cerebral ischaemia
+Goserelin,HAS_SIDE_EFFECT,Insomnia
+Goserelin,HAS_SIDE_EFFECT,Lupus-like syndrome
+Goserelin,HAS_SIDE_EFFECT,Blood pressure fluctuation
+Goserelin,HAS_SIDE_EFFECT,Dyspareunia
+Goserelin,HAS_SIDE_EFFECT,Blood cholesterol increased
+Goserelin,HAS_SIDE_EFFECT,Renal impairment
+Goserelin,HAS_SIDE_EFFECT,Renal failure
+Goserelin,HAS_SIDE_EFFECT,Breast enlargement
+Goserelin,HAS_SIDE_EFFECT,Vaginal haemorrhage
+Goserelin,HAS_SIDE_EFFECT,Loss of libido
+Goserelin,HAS_SIDE_EFFECT,Metrorrhagia
+Octreotide,HAS_SIDE_EFFECT,Abdominal distension
+Octreotide,HAS_SIDE_EFFECT,Gastrointestinal pain
+Octreotide,HAS_SIDE_EFFECT,Abdominal pain
+Octreotide,HAS_SIDE_EFFECT,Pancreatitis acute
+Octreotide,HAS_SIDE_EFFECT,Alopecia
+Octreotide,HAS_SIDE_EFFECT,Anaphylactic shock
+Octreotide,HAS_SIDE_EFFECT,Decreased appetite
+Octreotide,HAS_SIDE_EFFECT,Arrhythmia
+Octreotide,HAS_SIDE_EFFECT,Asthenia
+Octreotide,HAS_SIDE_EFFECT,Cholecystitis
+Octreotide,HAS_SIDE_EFFECT,Cholelithiasis
+Octreotide,HAS_SIDE_EFFECT,Cholestasis
+Octreotide,HAS_SIDE_EFFECT,Constipation
+Octreotide,HAS_SIDE_EFFECT,Dehydration
+Octreotide,HAS_SIDE_EFFECT,Dizziness
+Octreotide,HAS_SIDE_EFFECT,Dyspepsia
+Octreotide,HAS_SIDE_EFFECT,Dyspnoea
+Octreotide,HAS_SIDE_EFFECT,Endocrine disorder
+Octreotide,HAS_SIDE_EFFECT,Rash
+Octreotide,HAS_SIDE_EFFECT,Dermatitis
+Octreotide,HAS_SIDE_EFFECT,Flatulence
+Octreotide,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Octreotide,HAS_SIDE_EFFECT,Headache
+Octreotide,HAS_SIDE_EFFECT,Cardiac disorder
+Octreotide,HAS_SIDE_EFFECT,Hyperbilirubinaemia
+Octreotide,HAS_SIDE_EFFECT,Hyperglycaemia
+Octreotide,HAS_SIDE_EFFECT,Hypersensitivity
+Octreotide,HAS_SIDE_EFFECT,Hypoglycaemia
+Octreotide,HAS_SIDE_EFFECT,Hypothyroidism
+Octreotide,HAS_SIDE_EFFECT,Immune system disorder
+Octreotide,HAS_SIDE_EFFECT,Intestinal obstruction
+Octreotide,HAS_SIDE_EFFECT,Jaundice
+Octreotide,HAS_SIDE_EFFECT,Jaundice cholestatic
+Octreotide,HAS_SIDE_EFFECT,Nausea
+Octreotide,HAS_SIDE_EFFECT,Nervous system disorder
+Octreotide,HAS_SIDE_EFFECT,Pain
+Octreotide,HAS_SIDE_EFFECT,Pancreatitis
+Octreotide,HAS_SIDE_EFFECT,Pregnancy
+Octreotide,HAS_SIDE_EFFECT,Pruritus
+Octreotide,HAS_SIDE_EFFECT,Steatorrhoea
+Octreotide,HAS_SIDE_EFFECT,Tachycardia
+Octreotide,HAS_SIDE_EFFECT,Urticaria
+Octreotide,HAS_SIDE_EFFECT,Vomiting
+Octreotide,HAS_SIDE_EFFECT,Hepatitis cholestatic
+Octreotide,HAS_SIDE_EFFECT,Injection site reaction
+Octreotide,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+Octreotide,HAS_SIDE_EFFECT,Malnutrition
+Octreotide,HAS_SIDE_EFFECT,Skin disorder
+Octreotide,HAS_SIDE_EFFECT,Abdominal pain upper
+Octreotide,HAS_SIDE_EFFECT,Abdominal tenderness
+Octreotide,HAS_SIDE_EFFECT,Blood thyroid stimulating hormone decreased
+Octreotide,HAS_SIDE_EFFECT,Hepatobiliary disease
+Octreotide,HAS_SIDE_EFFECT,Hepatitis acute
+Octreotide,HAS_SIDE_EFFECT,Glucose tolerance impaired
+Octreotide,HAS_SIDE_EFFECT,Thyroid disorder
+Octreotide,HAS_SIDE_EFFECT,Bradycardia
+Octreotide,HAS_SIDE_EFFECT,Transaminases increased
+Octreotide,HAS_SIDE_EFFECT,Drug interaction
+Octreotide,HAS_SIDE_EFFECT,Thyroxine free decreased
+Octreotide,HAS_SIDE_EFFECT,Diarrhoea
+Octreotide,HAS_SIDE_EFFECT,Adrenal insufficiency
+Octreotide,HAS_SIDE_EFFECT,Amenorrhoea
+Octreotide,HAS_SIDE_EFFECT,Amnesia
+Octreotide,HAS_SIDE_EFFECT,Anaemia
+Octreotide,HAS_SIDE_EFFECT,Hypochromic anaemia
+Octreotide,HAS_SIDE_EFFECT,Anxiety
+Octreotide,HAS_SIDE_EFFECT,Appendicitis
+Octreotide,HAS_SIDE_EFFECT,Arthralgia
+Octreotide,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Octreotide,HAS_SIDE_EFFECT,Arthritis
+Octreotide,HAS_SIDE_EFFECT,Asthma
+Octreotide,HAS_SIDE_EFFECT,Back pain
+Octreotide,HAS_SIDE_EFFECT,Mental disorder
+Octreotide,HAS_SIDE_EFFECT,Coagulopathy
+Octreotide,HAS_SIDE_EFFECT,Breast feeding
+Octreotide,HAS_SIDE_EFFECT,Bronchospasm
+Octreotide,HAS_SIDE_EFFECT,Bronchitis
+Octreotide,HAS_SIDE_EFFECT,Neoplasm malignant
+Octreotide,HAS_SIDE_EFFECT,Candida infection
+Octreotide,HAS_SIDE_EFFECT,Basal cell carcinoma
+Octreotide,HAS_SIDE_EFFECT,Cellulitis
+Octreotide,HAS_SIDE_EFFECT,Chest pain
+Octreotide,HAS_SIDE_EFFECT,Infection
+Octreotide,HAS_SIDE_EFFECT,Conjunctivitis
+Octreotide,HAS_SIDE_EFFECT,Contusion
+Octreotide,HAS_SIDE_EFFECT,Cough
+Octreotide,HAS_SIDE_EFFECT,Acne cystic
+Octreotide,HAS_SIDE_EFFECT,Cystitis noninfective
+Octreotide,HAS_SIDE_EFFECT,Cystitis
+Octreotide,HAS_SIDE_EFFECT,Bladder pain
+Octreotide,HAS_SIDE_EFFECT,Deafness
+Octreotide,HAS_SIDE_EFFECT,Depression
+Octreotide,HAS_SIDE_EFFECT,Diabetes insipidus
+Octreotide,HAS_SIDE_EFFECT,Diabetes mellitus
+Octreotide,HAS_SIDE_EFFECT,Somnolence
+Octreotide,HAS_SIDE_EFFECT,Dysuria
+Octreotide,HAS_SIDE_EFFECT,Ear disorder
+Octreotide,HAS_SIDE_EFFECT,Oedema
+Octreotide,HAS_SIDE_EFFECT,Epistaxis
+Octreotide,HAS_SIDE_EFFECT,Eructation
+Octreotide,HAS_SIDE_EFFECT,Extravasation
+Octreotide,HAS_SIDE_EFFECT,Fatigue
+Octreotide,HAS_SIDE_EFFECT,Hepatic steatosis
+Octreotide,HAS_SIDE_EFFECT,Body temperature increased
+Octreotide,HAS_SIDE_EFFECT,Flushing
+Octreotide,HAS_SIDE_EFFECT,Pain in extremity
+Octreotide,HAS_SIDE_EFFECT,Multiple fractures
+Octreotide,HAS_SIDE_EFFECT,Fracture
+Octreotide,HAS_SIDE_EFFECT,Gallbladder disorder
+Octreotide,HAS_SIDE_EFFECT,Gastritis
+Octreotide,HAS_SIDE_EFFECT,Gastroenteritis
+Octreotide,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Octreotide,HAS_SIDE_EFFECT,Goitre
+Octreotide,HAS_SIDE_EFFECT,Gynaecomastia
+Octreotide,HAS_SIDE_EFFECT,Cardiac failure congestive
+Octreotide,HAS_SIDE_EFFECT,Haematoma
+Octreotide,HAS_SIDE_EFFECT,Haematuria
+Octreotide,HAS_SIDE_EFFECT,Haemorrhoids
+Octreotide,HAS_SIDE_EFFECT,Hepatitis
+Octreotide,HAS_SIDE_EFFECT,Hernia
+Octreotide,HAS_SIDE_EFFECT,Herpes simplex
+Octreotide,HAS_SIDE_EFFECT,Herpes zoster
+Octreotide,HAS_SIDE_EFFECT,Hyperkalaemia
+Octreotide,HAS_SIDE_EFFECT,Hypertension
+Octreotide,HAS_SIDE_EFFECT,Hypogonadism
+Octreotide,HAS_SIDE_EFFECT,Irritability
+Octreotide,HAS_SIDE_EFFECT,Ischaemia
+Octreotide,HAS_SIDE_EFFECT,Osteoarthritis
+Octreotide,HAS_SIDE_EFFECT,Arthropathy
+Octreotide,HAS_SIDE_EFFECT,Muscle spasms
+Octreotide,HAS_SIDE_EFFECT,Breast mass
+Octreotide,HAS_SIDE_EFFECT,Malabsorption
+Octreotide,HAS_SIDE_EFFECT,Menstrual disorder
+Octreotide,HAS_SIDE_EFFECT,Metrorrhagia
+Octreotide,HAS_SIDE_EFFECT,Nail disorder
+Octreotide,HAS_SIDE_EFFECT,Nasal congestion
+Octreotide,HAS_SIDE_EFFECT,Nervousness
+Octreotide,HAS_SIDE_EFFECT,Tension
+Octreotide,HAS_SIDE_EFFECT,Neuralgia
+Octreotide,HAS_SIDE_EFFECT,Neuritis
+Octreotide,HAS_SIDE_EFFECT,Neuropathy peripheral
+Octreotide,HAS_SIDE_EFFECT,Sensory loss
+Octreotide,HAS_SIDE_EFFECT,Hypoaesthesia
+Octreotide,HAS_SIDE_EFFECT,Oligomenorrhoea
+Octreotide,HAS_SIDE_EFFECT,Osteonecrosis
+Octreotide,HAS_SIDE_EFFECT,Ear infection
+Octreotide,HAS_SIDE_EFFECT,Otitis media
+Octreotide,HAS_SIDE_EFFECT,Palpitations
+Octreotide,HAS_SIDE_EFFECT,Peptic ulcer
+Octreotide,HAS_SIDE_EFFECT,Petechiae
+Octreotide,HAS_SIDE_EFFECT,Pharyngitis
+Octreotide,HAS_SIDE_EFFECT,Phlebitis
+Octreotide,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Octreotide,HAS_SIDE_EFFECT,Pneumonia
+Octreotide,HAS_SIDE_EFFECT,Polymenorrhoea
+Octreotide,HAS_SIDE_EFFECT,Polyuria
+Octreotide,HAS_SIDE_EFFECT,Urine output increased
+Octreotide,HAS_SIDE_EFFECT,Prostatic disorder
+Octreotide,HAS_SIDE_EFFECT,Prostatitis
+Octreotide,HAS_SIDE_EFFECT,Pulmonary mass
+Octreotide,HAS_SIDE_EFFECT,Anorectal disorder
+Octreotide,HAS_SIDE_EFFECT,Rhinitis
+Octreotide,HAS_SIDE_EFFECT,Convulsion
+Octreotide,HAS_SIDE_EFFECT,Shock
+Octreotide,HAS_SIDE_EFFECT,Sinusitis
+Octreotide,HAS_SIDE_EFFECT,Status asthmaticus
+Octreotide,HAS_SIDE_EFFECT,Mouth ulceration
+Octreotide,HAS_SIDE_EFFECT,Loss of consciousness
+Octreotide,HAS_SIDE_EFFECT,Syncope
+Octreotide,HAS_SIDE_EFFECT,Thrombocytopenia
+Octreotide,HAS_SIDE_EFFECT,Thrombophlebitis
+Octreotide,HAS_SIDE_EFFECT,Tinnitus
+Octreotide,HAS_SIDE_EFFECT,Tremor
+Octreotide,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Octreotide,HAS_SIDE_EFFECT,Pollakiuria
+Octreotide,HAS_SIDE_EFFECT,Urinary tract infection
+Octreotide,HAS_SIDE_EFFECT,Vulvovaginal pruritus
+Octreotide,HAS_SIDE_EFFECT,Vaginal infection
+Octreotide,HAS_SIDE_EFFECT,Vaginal inflammation
+Octreotide,HAS_SIDE_EFFECT,Varicose vein
+Octreotide,HAS_SIDE_EFFECT,Vertigo
+Octreotide,HAS_SIDE_EFFECT,Viral infection
+Octreotide,HAS_SIDE_EFFECT,Weight increased
+Octreotide,HAS_SIDE_EFFECT,Weight decreased
+Octreotide,HAS_SIDE_EFFECT,Wheezing
+Octreotide,HAS_SIDE_EFFECT,Injury
+Octreotide,HAS_SIDE_EFFECT,Dry mouth
+Octreotide,HAS_SIDE_EFFECT,Sinus bradycardia
+Octreotide,HAS_SIDE_EFFECT,Burning sensation
+Octreotide,HAS_SIDE_EFFECT,Oedema peripheral
+Octreotide,HAS_SIDE_EFFECT,Blood creatine phosphokinase increased
+Octreotide,HAS_SIDE_EFFECT,Glucose tolerance decreased
+Octreotide,HAS_SIDE_EFFECT,Muscular weakness
+Octreotide,HAS_SIDE_EFFECT,Injection site pain
+Octreotide,HAS_SIDE_EFFECT,Dry skin
+Octreotide,HAS_SIDE_EFFECT,Otorrhoea
+Octreotide,HAS_SIDE_EFFECT,Abnormal faeces
+Octreotide,HAS_SIDE_EFFECT,Malaise
+Octreotide,HAS_SIDE_EFFECT,Discomfort
+Octreotide,HAS_SIDE_EFFECT,Feeling abnormal
+Octreotide,HAS_SIDE_EFFECT,Ill-defined disorder
+Octreotide,HAS_SIDE_EFFECT,Myalgia
+Octreotide,HAS_SIDE_EFFECT,Muscle twitching
+Octreotide,HAS_SIDE_EFFECT,Abdominal discomfort
+Octreotide,HAS_SIDE_EFFECT,Anorectal discomfort
+Octreotide,HAS_SIDE_EFFECT,Rectal tenesmus
+Octreotide,HAS_SIDE_EFFECT,Proctalgia
+Octreotide,HAS_SIDE_EFFECT,Intraocular pressure increased
+Octreotide,HAS_SIDE_EFFECT,Seborrhoeic dermatitis
+Octreotide,HAS_SIDE_EFFECT,Faeces discoloured
+Octreotide,HAS_SIDE_EFFECT,Galactorrhoea
+Octreotide,HAS_SIDE_EFFECT,Iron deficiency
+Octreotide,HAS_SIDE_EFFECT,Oropharyngeal discomfort
+Octreotide,HAS_SIDE_EFFECT,Oropharyngeal pain
+Octreotide,HAS_SIDE_EFFECT,Gallbladder polyp
+Octreotide,HAS_SIDE_EFFECT,Rectal haemorrhage
+Octreotide,HAS_SIDE_EFFECT,Blood growth hormone increased
+Octreotide,HAS_SIDE_EFFECT,Erythema
+Octreotide,HAS_SIDE_EFFECT,Anaphylactoid reaction
+Octreotide,HAS_SIDE_EFFECT,Vision blurred
+Octreotide,HAS_SIDE_EFFECT,VIIth nerve paralysis
+Octreotide,HAS_SIDE_EFFECT,Influenza like illness
+Octreotide,HAS_SIDE_EFFECT,Nephrolithiasis
+Octreotide,HAS_SIDE_EFFECT,Hyperkinesia
+Octreotide,HAS_SIDE_EFFECT,Agitation
+Octreotide,HAS_SIDE_EFFECT,Pruritus generalised
+Octreotide,HAS_SIDE_EFFECT,Injection site haematoma
+Octreotide,HAS_SIDE_EFFECT,Visual impairment
+Octreotide,HAS_SIDE_EFFECT,Breast pain
+Octreotide,HAS_SIDE_EFFECT,Renal pain
+Octreotide,HAS_SIDE_EFFECT,Hot flush
+Octreotide,HAS_SIDE_EFFECT,Menopausal symptoms
+Octreotide,HAS_SIDE_EFFECT,Hyperhidrosis
+Octreotide,HAS_SIDE_EFFECT,Acne
+Octreotide,HAS_SIDE_EFFECT,Sleep disorder
+Octreotide,HAS_SIDE_EFFECT,Local reaction
+Octreotide,HAS_SIDE_EFFECT,Nasopharyngitis
+Octreotide,HAS_SIDE_EFFECT,Insomnia
+Octreotide,HAS_SIDE_EFFECT,Influenza
+Octreotide,HAS_SIDE_EFFECT,Joint effusion
+Octreotide,HAS_SIDE_EFFECT,Hearing impaired
+Octreotide,HAS_SIDE_EFFECT,Psychotic disorder
+Octreotide,HAS_SIDE_EFFECT,Paranoia
+Octreotide,HAS_SIDE_EFFECT,Breast neoplasm
+Octreotide,HAS_SIDE_EFFECT,Paraesthesia
+Octreotide,HAS_SIDE_EFFECT,Loss of libido
+clarithromycin,HAS_SIDE_EFFECT,Abdominal distension
+clarithromycin,HAS_SIDE_EFFECT,Gastrointestinal pain
+clarithromycin,HAS_SIDE_EFFECT,Abdominal pain
+clarithromycin,HAS_SIDE_EFFECT,Acquired immunodeficiency syndrome
+clarithromycin,HAS_SIDE_EFFECT,Autoimmune disorder
+clarithromycin,HAS_SIDE_EFFECT,Pancreatitis acute
+clarithromycin,HAS_SIDE_EFFECT,Agranulocytosis
+clarithromycin,HAS_SIDE_EFFECT,Anaphylactic shock
+clarithromycin,HAS_SIDE_EFFECT,Anaemia
+clarithromycin,HAS_SIDE_EFFECT,Angioedema
+clarithromycin,HAS_SIDE_EFFECT,Decreased appetite
+clarithromycin,HAS_SIDE_EFFECT,Anosmia
+clarithromycin,HAS_SIDE_EFFECT,Anxiety
+clarithromycin,HAS_SIDE_EFFECT,Asthenia
+clarithromycin,HAS_SIDE_EFFECT,Asthma
+clarithromycin,HAS_SIDE_EFFECT,Atrial fibrillation
+clarithromycin,HAS_SIDE_EFFECT,Back pain
+clarithromycin,HAS_SIDE_EFFECT,Bacteraemia
+clarithromycin,HAS_SIDE_EFFECT,Mental disorder
+clarithromycin,HAS_SIDE_EFFECT,Breast disorder
+clarithromycin,HAS_SIDE_EFFECT,Candida infection
+clarithromycin,HAS_SIDE_EFFECT,Oral candidiasis
+clarithromycin,HAS_SIDE_EFFECT,Vulvovaginal candidiasis
+clarithromycin,HAS_SIDE_EFFECT,Vulvovaginal mycotic infection
+clarithromycin,HAS_SIDE_EFFECT,Cellulitis
+clarithromycin,HAS_SIDE_EFFECT,Chest pain
+clarithromycin,HAS_SIDE_EFFECT,Cholestasis
+clarithromycin,HAS_SIDE_EFFECT,Infection
+clarithromycin,HAS_SIDE_EFFECT,Confusional state
+clarithromycin,HAS_SIDE_EFFECT,Feeling abnormal
+clarithromycin,HAS_SIDE_EFFECT,Conjunctivitis
+clarithromycin,HAS_SIDE_EFFECT,Connective tissue disorder
+clarithromycin,HAS_SIDE_EFFECT,Constipation
+clarithromycin,HAS_SIDE_EFFECT,Corneal opacity
+clarithromycin,HAS_SIDE_EFFECT,Cough
+clarithromycin,HAS_SIDE_EFFECT,Cyst
+clarithromycin,HAS_SIDE_EFFECT,Deafness
+clarithromycin,HAS_SIDE_EFFECT,Depersonalisation
+clarithromycin,HAS_SIDE_EFFECT,Depression
+clarithromycin,HAS_SIDE_EFFECT,Drug eruption
+clarithromycin,HAS_SIDE_EFFECT,Dermatitis diaper
+clarithromycin,HAS_SIDE_EFFECT,Diarrhoea
+clarithromycin,HAS_SIDE_EFFECT,Dizziness
+clarithromycin,HAS_SIDE_EFFECT,Dysgeusia
+clarithromycin,HAS_SIDE_EFFECT,Dyskinesia
+clarithromycin,HAS_SIDE_EFFECT,Dysmenorrhoea
+clarithromycin,HAS_SIDE_EFFECT,Dyspepsia
+clarithromycin,HAS_SIDE_EFFECT,Dyspnoea
+clarithromycin,HAS_SIDE_EFFECT,Dysuria
+clarithromycin,HAS_SIDE_EFFECT,Ear disorder
+clarithromycin,HAS_SIDE_EFFECT,Enteritis
+clarithromycin,HAS_SIDE_EFFECT,Eosinophilia
+clarithromycin,HAS_SIDE_EFFECT,Toxic epidermal necrolysis
+clarithromycin,HAS_SIDE_EFFECT,Epistaxis
+clarithromycin,HAS_SIDE_EFFECT,Eructation
+clarithromycin,HAS_SIDE_EFFECT,Erysipelas
+clarithromycin,HAS_SIDE_EFFECT,Erythrasma
+clarithromycin,HAS_SIDE_EFFECT,Oesophagitis
+clarithromycin,HAS_SIDE_EFFECT,Rash
+clarithromycin,HAS_SIDE_EFFECT,Dermatitis
+clarithromycin,HAS_SIDE_EFFECT,Eye disorder
+clarithromycin,HAS_SIDE_EFFECT,Fatigue
+clarithromycin,HAS_SIDE_EFFECT,Body temperature increased
+clarithromycin,HAS_SIDE_EFFECT,Flatulence
+clarithromycin,HAS_SIDE_EFFECT,Flushing
+clarithromycin,HAS_SIDE_EFFECT,Gastritis
+clarithromycin,HAS_SIDE_EFFECT,Gastroenteritis
+clarithromycin,HAS_SIDE_EFFECT,Gastrooesophageal reflux disease
+clarithromycin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+clarithromycin,HAS_SIDE_EFFECT,Gingival bleeding
+clarithromycin,HAS_SIDE_EFFECT,Glossitis
+clarithromycin,HAS_SIDE_EFFECT,Hallucination
+clarithromycin,HAS_SIDE_EFFECT,Headache
+clarithromycin,HAS_SIDE_EFFECT,Cardiac arrest
+clarithromycin,HAS_SIDE_EFFECT,Cardiac disorder
+clarithromycin,HAS_SIDE_EFFECT,Blood disorder
+clarithromycin,HAS_SIDE_EFFECT,Haematuria
+clarithromycin,HAS_SIDE_EFFECT,Haemorrhage
+clarithromycin,HAS_SIDE_EFFECT,Haemoglobin
+clarithromycin,HAS_SIDE_EFFECT,Hepatitis
+clarithromycin,HAS_SIDE_EFFECT,Hepatomegaly
+clarithromycin,HAS_SIDE_EFFECT,Hyperhidrosis
+clarithromycin,HAS_SIDE_EFFECT,Hypersensitivity
+clarithromycin,HAS_SIDE_EFFECT,Hypoglycaemia
+clarithromycin,HAS_SIDE_EFFECT,Immune system disorder
+clarithromycin,HAS_SIDE_EFFECT,Influenza
+clarithromycin,HAS_SIDE_EFFECT,Jaundice
+clarithromycin,HAS_SIDE_EFFECT,Jaundice cholestatic
+clarithromycin,HAS_SIDE_EFFECT,Inner ear disorder
+clarithromycin,HAS_SIDE_EFFECT,Leukopenia
+clarithromycin,HAS_SIDE_EFFECT,Mediastinal disorder
+clarithromycin,HAS_SIDE_EFFECT,Myopathy
+clarithromycin,HAS_SIDE_EFFECT,Nausea
+clarithromycin,HAS_SIDE_EFFECT,Neoplasm
+clarithromycin,HAS_SIDE_EFFECT,Nephritis
+clarithromycin,HAS_SIDE_EFFECT,Tubulointerstitial nephritis
+clarithromycin,HAS_SIDE_EFFECT,Nervous system disorder
+clarithromycin,HAS_SIDE_EFFECT,Nervousness
+clarithromycin,HAS_SIDE_EFFECT,Tension
+clarithromycin,HAS_SIDE_EFFECT,Neutropenia
+clarithromycin,HAS_SIDE_EFFECT,Nightmare
+clarithromycin,HAS_SIDE_EFFECT,Otitis media
+clarithromycin,HAS_SIDE_EFFECT,Pain
+clarithromycin,HAS_SIDE_EFFECT,Palpitations
+clarithromycin,HAS_SIDE_EFFECT,Pancreatitis
+clarithromycin,HAS_SIDE_EFFECT,Paraesthesia
+clarithromycin,HAS_SIDE_EFFECT,Pharyngitis
+clarithromycin,HAS_SIDE_EFFECT,Pneumonia
+clarithromycin,HAS_SIDE_EFFECT,Polyp
+clarithromycin,HAS_SIDE_EFFECT,Pruritus
+clarithromycin,HAS_SIDE_EFFECT,Psychotic disorder
+clarithromycin,HAS_SIDE_EFFECT,Pulmonary embolism
+clarithromycin,HAS_SIDE_EFFECT,Henoch-Schonlein purpura
+clarithromycin,HAS_SIDE_EFFECT,Proctalgia
+clarithromycin,HAS_SIDE_EFFECT,Renal failure
+clarithromycin,HAS_SIDE_EFFECT,Rhabdomyolysis
+clarithromycin,HAS_SIDE_EFFECT,Rhinitis
+clarithromycin,HAS_SIDE_EFFECT,Convulsion
+clarithromycin,HAS_SIDE_EFFECT,Sleep disorder
+clarithromycin,HAS_SIDE_EFFECT,Muscle spasms
+clarithromycin,HAS_SIDE_EFFECT,Stevens-Johnson syndrome
+clarithromycin,HAS_SIDE_EFFECT,Erythema multiforme
+clarithromycin,HAS_SIDE_EFFECT,Stomatitis
+clarithromycin,HAS_SIDE_EFFECT,Thrombocytopenia
+clarithromycin,HAS_SIDE_EFFECT,Tinnitus
+clarithromycin,HAS_SIDE_EFFECT,Tooth discolouration
+clarithromycin,HAS_SIDE_EFFECT,Torsade de pointes
+clarithromycin,HAS_SIDE_EFFECT,Tremor
+clarithromycin,HAS_SIDE_EFFECT,Loss of consciousness
+clarithromycin,HAS_SIDE_EFFECT,Urethral disorder
+clarithromycin,HAS_SIDE_EFFECT,Urinary tract disorder
+clarithromycin,HAS_SIDE_EFFECT,Urticaria
+clarithromycin,HAS_SIDE_EFFECT,Angiopathy
+clarithromycin,HAS_SIDE_EFFECT,Ventricular tachycardia
+clarithromycin,HAS_SIDE_EFFECT,Vertigo
+clarithromycin,HAS_SIDE_EFFECT,Vomiting
+clarithromycin,HAS_SIDE_EFFECT,Dry mouth
+clarithromycin,HAS_SIDE_EFFECT,Immunodeficiency
+clarithromycin,HAS_SIDE_EFFECT,Chills
+clarithromycin,HAS_SIDE_EFFECT,Hepatic failure
+clarithromycin,HAS_SIDE_EFFECT,Ventricular arrhythmia
+clarithromycin,HAS_SIDE_EFFECT,Photophobia
+clarithromycin,HAS_SIDE_EFFECT,Rash pustular
+clarithromycin,HAS_SIDE_EFFECT,Dermatitis bullous
+clarithromycin,HAS_SIDE_EFFECT,Hepatic function abnormal
+clarithromycin,HAS_SIDE_EFFECT,Hepatitis cholestatic
+clarithromycin,HAS_SIDE_EFFECT,Albumin globulin ratio abnormal
+clarithromycin,HAS_SIDE_EFFECT,Amylase increased
+clarithromycin,HAS_SIDE_EFFECT,Blood urea increased
+clarithromycin,HAS_SIDE_EFFECT,Deafness transitory
+clarithromycin,HAS_SIDE_EFFECT,Tongue discolouration
+clarithromycin,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+clarithromycin,HAS_SIDE_EFFECT,Injury
+clarithromycin,HAS_SIDE_EFFECT,Liver function test abnormal
+clarithromycin,HAS_SIDE_EFFECT,Prothrombin level increased
+clarithromycin,HAS_SIDE_EFFECT,Electrocardiogram QT prolonged
+clarithromycin,HAS_SIDE_EFFECT,Purpura
+clarithromycin,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+clarithromycin,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+clarithromycin,HAS_SIDE_EFFECT,Testicular atrophy
+clarithromycin,HAS_SIDE_EFFECT,Haemoglobin decreased
+clarithromycin,HAS_SIDE_EFFECT,Malnutrition
+clarithromycin,HAS_SIDE_EFFECT,Skin disorder
+clarithromycin,HAS_SIDE_EFFECT,Malaise
+clarithromycin,HAS_SIDE_EFFECT,Discomfort
+clarithromycin,HAS_SIDE_EFFECT,Ill-defined disorder
+clarithromycin,HAS_SIDE_EFFECT,Myalgia
+clarithromycin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+clarithromycin,HAS_SIDE_EFFECT,Disorientation
+clarithromycin,HAS_SIDE_EFFECT,Abnormal behaviour
+clarithromycin,HAS_SIDE_EFFECT,Abnormal dreams
+clarithromycin,HAS_SIDE_EFFECT,Parosmia
+clarithromycin,HAS_SIDE_EFFECT,Hepatotoxicity
+clarithromycin,HAS_SIDE_EFFECT,Blood creatinine increased
+clarithromycin,HAS_SIDE_EFFECT,Hepatobiliary disease
+clarithromycin,HAS_SIDE_EFFECT,Blood bilirubin increased
+clarithromycin,HAS_SIDE_EFFECT,Mania
+clarithromycin,HAS_SIDE_EFFECT,Extrasystoles
+clarithromycin,HAS_SIDE_EFFECT,Anaphylactoid reaction
+clarithromycin,HAS_SIDE_EFFECT,Platelet count decreased
+clarithromycin,HAS_SIDE_EFFECT,Vaginal infection
+clarithromycin,HAS_SIDE_EFFECT,Rash maculo-papular
+clarithromycin,HAS_SIDE_EFFECT,Hyperkinesia
+clarithromycin,HAS_SIDE_EFFECT,Agitation
+clarithromycin,HAS_SIDE_EFFECT,Chromaturia
+clarithromycin,HAS_SIDE_EFFECT,Visual impairment
+clarithromycin,HAS_SIDE_EFFECT,Functional gastrointestinal disorder
+clarithromycin,HAS_SIDE_EFFECT,Drug interaction
+clarithromycin,HAS_SIDE_EFFECT,White blood cell count decreased
+clarithromycin,HAS_SIDE_EFFECT,Thrombocytosis
+clarithromycin,HAS_SIDE_EFFECT,Infestation
+clarithromycin,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+clarithromycin,HAS_SIDE_EFFECT,Blood lactate dehydrogenase increased
+clarithromycin,HAS_SIDE_EFFECT,International normalised ratio increased
+clarithromycin,HAS_SIDE_EFFECT,Insomnia
+clarithromycin,HAS_SIDE_EFFECT,Epidermal necrosis
+clarithromycin,HAS_SIDE_EFFECT,Pseudomembranous colitis
+clarithromycin,HAS_SIDE_EFFECT,Jaundice hepatocellular
+clarithromycin,HAS_SIDE_EFFECT,Nuchal rigidity
+clarithromycin,HAS_SIDE_EFFECT,Hearing impaired
+clarithromycin,HAS_SIDE_EFFECT,Renal impairment
+clarithromycin,HAS_SIDE_EFFECT,Ageusia
+clarithromycin,HAS_SIDE_EFFECT,Somnolence
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Photofrin,HAS_SIDE_EFFECT,Abdominal pain
+Photofrin,HAS_SIDE_EFFECT,Anaemia
+Photofrin,HAS_SIDE_EFFECT,Angina pectoris
+Photofrin,HAS_SIDE_EFFECT,Decreased appetite
+Photofrin,HAS_SIDE_EFFECT,Anxiety
+Photofrin,HAS_SIDE_EFFECT,Arthralgia
+Photofrin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Photofrin,HAS_SIDE_EFFECT,Asthenia
+Photofrin,HAS_SIDE_EFFECT,Atrial fibrillation
+Photofrin,HAS_SIDE_EFFECT,Back pain
+Photofrin,HAS_SIDE_EFFECT,Mental disorder
+Photofrin,HAS_SIDE_EFFECT,Blister
+Photofrin,HAS_SIDE_EFFECT,Dermatitis bullous
+Photofrin,HAS_SIDE_EFFECT,Bronchospasm
+Photofrin,HAS_SIDE_EFFECT,Bronchitis
+Photofrin,HAS_SIDE_EFFECT,Candida infection
+Photofrin,HAS_SIDE_EFFECT,Carcinoma in situ
+Photofrin,HAS_SIDE_EFFECT,Chest pain
+Photofrin,HAS_SIDE_EFFECT,Infection
+Photofrin,HAS_SIDE_EFFECT,Confusional state
+Photofrin,HAS_SIDE_EFFECT,Feeling abnormal
+Photofrin,HAS_SIDE_EFFECT,Connective tissue disorder
+Photofrin,HAS_SIDE_EFFECT,Constipation
+Photofrin,HAS_SIDE_EFFECT,Cough
+Photofrin,HAS_SIDE_EFFECT,Dysphagia
+Photofrin,HAS_SIDE_EFFECT,Dehydration
+Photofrin,HAS_SIDE_EFFECT,Depression
+Photofrin,HAS_SIDE_EFFECT,Diarrhoea
+Photofrin,HAS_SIDE_EFFECT,Diplopia
+Photofrin,HAS_SIDE_EFFECT,Dizziness
+Photofrin,HAS_SIDE_EFFECT,Dyspepsia
+Photofrin,HAS_SIDE_EFFECT,Dyspnoea
+Photofrin,HAS_SIDE_EFFECT,Oedema
+Photofrin,HAS_SIDE_EFFECT,Eructation
+Photofrin,HAS_SIDE_EFFECT,Oesophageal neoplasm
+Photofrin,HAS_SIDE_EFFECT,Oesophageal perforation
+Photofrin,HAS_SIDE_EFFECT,Oesophageal stenosis
+Photofrin,HAS_SIDE_EFFECT,Oesophagitis
+Photofrin,HAS_SIDE_EFFECT,Rash
+Photofrin,HAS_SIDE_EFFECT,Dermatitis
+Photofrin,HAS_SIDE_EFFECT,Fatigue
+Photofrin,HAS_SIDE_EFFECT,Body temperature increased
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Photofrin,HAS_SIDE_EFFECT,Headache
+Photofrin,HAS_SIDE_EFFECT,Cardiac disorder
+Photofrin,HAS_SIDE_EFFECT,Cardiac failure
+Photofrin,HAS_SIDE_EFFECT,Haematemesis
+Photofrin,HAS_SIDE_EFFECT,Haemoptysis
+Photofrin,HAS_SIDE_EFFECT,Haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Haemoglobin
+Photofrin,HAS_SIDE_EFFECT,Hiccups
+Photofrin,HAS_SIDE_EFFECT,Hypertension
+Photofrin,HAS_SIDE_EFFECT,Hypotension
+Photofrin,HAS_SIDE_EFFECT,Inflammation
+Photofrin,HAS_SIDE_EFFECT,Jaundice
+Photofrin,HAS_SIDE_EFFECT,Lung abscess
+Photofrin,HAS_SIDE_EFFECT,Mediastinal disorder
+Photofrin,HAS_SIDE_EFFECT,Melaena
+Photofrin,HAS_SIDE_EFFECT,Myocardial infarction
+Photofrin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Photofrin,HAS_SIDE_EFFECT,Nausea
+Photofrin,HAS_SIDE_EFFECT,Necrosis
+Photofrin,HAS_SIDE_EFFECT,Neoplasm
+Photofrin,HAS_SIDE_EFFECT,Nervous system disorder
+Photofrin,HAS_SIDE_EFFECT,Nodule
+Photofrin,HAS_SIDE_EFFECT,Obesity
+Photofrin,HAS_SIDE_EFFECT,Obstruction
+Photofrin,HAS_SIDE_EFFECT,Pain
+Photofrin,HAS_SIDE_EFFECT,Peritonitis
+Photofrin,HAS_SIDE_EFFECT,Pharyngitis
+Photofrin,HAS_SIDE_EFFECT,Pleural effusion
+Photofrin,HAS_SIDE_EFFECT,Pneumonia
+Photofrin,HAS_SIDE_EFFECT,Pneumothorax
+Photofrin,HAS_SIDE_EFFECT,Porphyrin metabolism disorder
+Photofrin,HAS_SIDE_EFFECT,Pruritus
+Photofrin,HAS_SIDE_EFFECT,Pulmonary oedema
+Photofrin,HAS_SIDE_EFFECT,Pulmonary embolism
+Photofrin,HAS_SIDE_EFFECT,Refraction disorder
+Photofrin,HAS_SIDE_EFFECT,Respiratory failure
+Photofrin,HAS_SIDE_EFFECT,Sick sinus syndrome
+Photofrin,HAS_SIDE_EFFECT,Sinusitis
+Photofrin,HAS_SIDE_EFFECT,Skin disorder
+Photofrin,HAS_SIDE_EFFECT,Skin mass
+Photofrin,HAS_SIDE_EFFECT,Skin wrinkling
+Photofrin,HAS_SIDE_EFFECT,Gastric ulcer
+Photofrin,HAS_SIDE_EFFECT,Stridor
+Photofrin,HAS_SIDE_EFFECT,Cerebrovascular accident
+Photofrin,HAS_SIDE_EFFECT,Sunburn
+Photofrin,HAS_SIDE_EFFECT,Photosensitivity reaction
+Photofrin,HAS_SIDE_EFFECT,Swelling
+Photofrin,HAS_SIDE_EFFECT,Tachycardia
+Photofrin,HAS_SIDE_EFFECT,Supraventricular tachycardia
+Photofrin,HAS_SIDE_EFFECT,Tracheo-oesophageal fistula
+Photofrin,HAS_SIDE_EFFECT,Ulcer
+Photofrin,HAS_SIDE_EFFECT,Erythema
+Photofrin,HAS_SIDE_EFFECT,Urinary tract infection
+Photofrin,HAS_SIDE_EFFECT,Urticaria
+Photofrin,HAS_SIDE_EFFECT,Angiopathy
+Photofrin,HAS_SIDE_EFFECT,Vomiting
+Photofrin,HAS_SIDE_EFFECT,Weight decreased
+Photofrin,HAS_SIDE_EFFECT,Burning sensation
+Photofrin,HAS_SIDE_EFFECT,Photophobia
+Photofrin,HAS_SIDE_EFFECT,Oedema peripheral
+Photofrin,HAS_SIDE_EFFECT,Bronchostenosis
+Photofrin,HAS_SIDE_EFFECT,Fluid retention
+Photofrin,HAS_SIDE_EFFECT,Generalised oedema
+Photofrin,HAS_SIDE_EFFECT,Pulmonary haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Eye pain
+Photofrin,HAS_SIDE_EFFECT,Skin discolouration
+Photofrin,HAS_SIDE_EFFECT,Pulmonary thrombosis
+Photofrin,HAS_SIDE_EFFECT,Oesophageal ulcer
+Photofrin,HAS_SIDE_EFFECT,Oesophageal carcinoma
+Photofrin,HAS_SIDE_EFFECT,Malnutrition
+Photofrin,HAS_SIDE_EFFECT,Odynophagia
+Photofrin,HAS_SIDE_EFFECT,Bronchial obstruction
+Photofrin,HAS_SIDE_EFFECT,Oesophageal pain
+Photofrin,HAS_SIDE_EFFECT,Laryngotracheal oedema
+Photofrin,HAS_SIDE_EFFECT,Increased bronchial secretion
+Photofrin,HAS_SIDE_EFFECT,Sputum increased
+Photofrin,HAS_SIDE_EFFECT,Chest discomfort
+Photofrin,HAS_SIDE_EFFECT,Productive cough
+Photofrin,HAS_SIDE_EFFECT,Sepsis
+Photofrin,HAS_SIDE_EFFECT,Bronchial ulceration
+Photofrin,HAS_SIDE_EFFECT,Mucosal inflammation
+Photofrin,HAS_SIDE_EFFECT,Bradycardia
+Photofrin,HAS_SIDE_EFFECT,Pseudoporphyria
+Photofrin,HAS_SIDE_EFFECT,Skin fragility
+Photofrin,HAS_SIDE_EFFECT,Infestation
+Photofrin,HAS_SIDE_EFFECT,Procedural pain
+Photofrin,HAS_SIDE_EFFECT,Tumour haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Insomnia
+Photofrin,HAS_SIDE_EFFECT,Bronchial secretion retention
+Photofrin,HAS_SIDE_EFFECT,Post procedural complication
+Photofrin,HAS_SIDE_EFFECT,Ileus
+Photofrin,HAS_SIDE_EFFECT,Dysphonia
+Photofrin,HAS_SIDE_EFFECT,Oesophageal oedema
+Photofrin,HAS_SIDE_EFFECT,Regurgitation
+Photofrin,HAS_SIDE_EFFECT,Fluid imbalance
+Photofrin,HAS_SIDE_EFFECT,Feeling hot
+Photofrin,HAS_SIDE_EFFECT,Injury
+Photofrin,HAS_SIDE_EFFECT,Visual impairment
+Meropenem,HAS_SIDE_EFFECT,Gastrointestinal pain
+Meropenem,HAS_SIDE_EFFECT,Abdominal pain
+Meropenem,HAS_SIDE_EFFECT,Agranulocytosis
+Meropenem,HAS_SIDE_EFFECT,Anaemia
+Meropenem,HAS_SIDE_EFFECT,Haemolytic anaemia
+Meropenem,HAS_SIDE_EFFECT,Hypochromic anaemia
+Meropenem,HAS_SIDE_EFFECT,Angioedema
+Meropenem,HAS_SIDE_EFFECT,Decreased appetite
+Meropenem,HAS_SIDE_EFFECT,Anxiety
+Meropenem,HAS_SIDE_EFFECT,Apnoea
+Meropenem,HAS_SIDE_EFFECT,Asthenia
+Meropenem,HAS_SIDE_EFFECT,Asthma
+Meropenem,HAS_SIDE_EFFECT,Back pain
+Meropenem,HAS_SIDE_EFFECT,Candida infection
+Meropenem,HAS_SIDE_EFFECT,Oral candidiasis
+Meropenem,HAS_SIDE_EFFECT,Vulvovaginal candidiasis
+Meropenem,HAS_SIDE_EFFECT,Vulvovaginal mycotic infection
+Meropenem,HAS_SIDE_EFFECT,Central nervous system infection
+Meropenem,HAS_SIDE_EFFECT,Chest pain
+Meropenem,HAS_SIDE_EFFECT,Confusional state
+Meropenem,HAS_SIDE_EFFECT,Feeling abnormal
+Meropenem,HAS_SIDE_EFFECT,Constipation
+Meropenem,HAS_SIDE_EFFECT,Delirium
+Meropenem,HAS_SIDE_EFFECT,Diarrhoea
+Meropenem,HAS_SIDE_EFFECT,Dizziness
+Meropenem,HAS_SIDE_EFFECT,Dyspepsia
+Meropenem,HAS_SIDE_EFFECT,Dyspnoea
+Meropenem,HAS_SIDE_EFFECT,Dysuria
+Meropenem,HAS_SIDE_EFFECT,Oedema
+Meropenem,HAS_SIDE_EFFECT,Eosinophilia
+Meropenem,HAS_SIDE_EFFECT,Toxic epidermal necrolysis
+Meropenem,HAS_SIDE_EFFECT,Epistaxis
+Meropenem,HAS_SIDE_EFFECT,Erythema multiforme
+Meropenem,HAS_SIDE_EFFECT,Rash
+Meropenem,HAS_SIDE_EFFECT,Dermatitis
+Meropenem,HAS_SIDE_EFFECT,Body temperature increased
+Meropenem,HAS_SIDE_EFFECT,Flatulence
+Meropenem,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Meropenem,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Meropenem,HAS_SIDE_EFFECT,Glossitis
+Meropenem,HAS_SIDE_EFFECT,Hallucination
+Meropenem,HAS_SIDE_EFFECT,Headache
+Meropenem,HAS_SIDE_EFFECT,Cardiac arrest
+Meropenem,HAS_SIDE_EFFECT,Cardiac failure
+Meropenem,HAS_SIDE_EFFECT,Peritoneal haemorrhage
+Meropenem,HAS_SIDE_EFFECT,Haemorrhage
+Meropenem,HAS_SIDE_EFFECT,Haemoglobin
+Meropenem,HAS_SIDE_EFFECT,Hypersensitivity
+Meropenem,HAS_SIDE_EFFECT,Hypertension
+Meropenem,HAS_SIDE_EFFECT,Hypoglycaemia
+Meropenem,HAS_SIDE_EFFECT,Hypokalaemia
+Meropenem,HAS_SIDE_EFFECT,Hypotension
+Meropenem,HAS_SIDE_EFFECT,Intestinal obstruction
+Meropenem,HAS_SIDE_EFFECT,Jaundice
+Meropenem,HAS_SIDE_EFFECT,Jaundice cholestatic
+Meropenem,HAS_SIDE_EFFECT,Leukocytosis
+Meropenem,HAS_SIDE_EFFECT,Leukopenia
+Meropenem,HAS_SIDE_EFFECT,Melaena
+Meropenem,HAS_SIDE_EFFECT,Myocardial infarction
+Meropenem,HAS_SIDE_EFFECT,Acute coronary syndrome
+Meropenem,HAS_SIDE_EFFECT,Nausea
+Meropenem,HAS_SIDE_EFFECT,Nervousness
+Meropenem,HAS_SIDE_EFFECT,Tension
+Meropenem,HAS_SIDE_EFFECT,Neutropenia
+Meropenem,HAS_SIDE_EFFECT,Pain
+Meropenem,HAS_SIDE_EFFECT,Paraesthesia
+Meropenem,HAS_SIDE_EFFECT,Pelvic pain
+Meropenem,HAS_SIDE_EFFECT,Pharyngitis
+Meropenem,HAS_SIDE_EFFECT,Phlebitis
+Meropenem,HAS_SIDE_EFFECT,Pleural effusion
+Meropenem,HAS_SIDE_EFFECT,Pneumonia
+Meropenem,HAS_SIDE_EFFECT,Pruritus
+Meropenem,HAS_SIDE_EFFECT,Pulmonary oedema
+Meropenem,HAS_SIDE_EFFECT,Pulmonary embolism
+Meropenem,HAS_SIDE_EFFECT,Renal failure
+Meropenem,HAS_SIDE_EFFECT,Shock
+Meropenem,HAS_SIDE_EFFECT,Skin ulcer
+Meropenem,HAS_SIDE_EFFECT,Stevens-Johnson syndrome
+Meropenem,HAS_SIDE_EFFECT,Hyperhidrosis
+Meropenem,HAS_SIDE_EFFECT,Loss of consciousness
+Meropenem,HAS_SIDE_EFFECT,Syncope
+Meropenem,HAS_SIDE_EFFECT,Tachycardia
+Meropenem,HAS_SIDE_EFFECT,Thrombophlebitis
+Meropenem,HAS_SIDE_EFFECT,Urinary incontinence
+Meropenem,HAS_SIDE_EFFECT,Urticaria
+Meropenem,HAS_SIDE_EFFECT,Vomiting
+Meropenem,HAS_SIDE_EFFECT,Peripheral vascular disorder
+Meropenem,HAS_SIDE_EFFECT,Chills
+Meropenem,HAS_SIDE_EFFECT,Hepatic failure
+Meropenem,HAS_SIDE_EFFECT,Agitation
+Meropenem,HAS_SIDE_EFFECT,Oedema peripheral
+Meropenem,HAS_SIDE_EFFECT,Blood urea increased
+Meropenem,HAS_SIDE_EFFECT,Blood creatinine increased
+Meropenem,HAS_SIDE_EFFECT,Injection site inflammation
+Meropenem,HAS_SIDE_EFFECT,Injection site reaction
+Meropenem,HAS_SIDE_EFFECT,Injury
+Meropenem,HAS_SIDE_EFFECT,Injection site pain
+Meropenem,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Meropenem,HAS_SIDE_EFFECT,Haemoglobin decreased
+Meropenem,HAS_SIDE_EFFECT,Sepsis
+Meropenem,HAS_SIDE_EFFECT,Abdominal distension
+Meropenem,HAS_SIDE_EFFECT,Platelet count decreased
+Meropenem,HAS_SIDE_EFFECT,Bradycardia
+Meropenem,HAS_SIDE_EFFECT,Instillation site pain
+Meropenem,HAS_SIDE_EFFECT,Application site pain
+Meropenem,HAS_SIDE_EFFECT,Fluid overload
+Meropenem,HAS_SIDE_EFFECT,Cough
+Meropenem,HAS_SIDE_EFFECT,Haematocrit decreased
+Meropenem,HAS_SIDE_EFFECT,White blood cell count decreased
+Meropenem,HAS_SIDE_EFFECT,Thrombocytosis
+Meropenem,HAS_SIDE_EFFECT,Insomnia
+Meropenem,HAS_SIDE_EFFECT,Ileus
+Meropenem,HAS_SIDE_EFFECT,Somnolence
+Terlipressin,HAS_SIDE_EFFECT,Abdominal pain
+Terlipressin,HAS_SIDE_EFFECT,Atrial fibrillation
+Terlipressin,HAS_SIDE_EFFECT,Chest pain
+Terlipressin,HAS_SIDE_EFFECT,Diarrhoea
+Terlipressin,HAS_SIDE_EFFECT,Dyspnoea
+Terlipressin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Terlipressin,HAS_SIDE_EFFECT,Headache
+Terlipressin,HAS_SIDE_EFFECT,Cardiac disorder
+Terlipressin,HAS_SIDE_EFFECT,Cardiac failure
+Terlipressin,HAS_SIDE_EFFECT,Hypertension
+Terlipressin,HAS_SIDE_EFFECT,Hyponatraemia
+Terlipressin,HAS_SIDE_EFFECT,Myocardial infarction
+Terlipressin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Terlipressin,HAS_SIDE_EFFECT,Nausea
+Terlipressin,HAS_SIDE_EFFECT,Nervous system disorder
+Terlipressin,HAS_SIDE_EFFECT,Pregnancy
+Terlipressin,HAS_SIDE_EFFECT,Pulmonary oedema
+Terlipressin,HAS_SIDE_EFFECT,Tachycardia
+Terlipressin,HAS_SIDE_EFFECT,Torsade de pointes
+Terlipressin,HAS_SIDE_EFFECT,Angiopathy
+Terlipressin,HAS_SIDE_EFFECT,Ventricular fibrillation
+Terlipressin,HAS_SIDE_EFFECT,Vomiting
+Terlipressin,HAS_SIDE_EFFECT,Ventricular extrasystoles
+Terlipressin,HAS_SIDE_EFFECT,Injection site necrosis
+Terlipressin,HAS_SIDE_EFFECT,Skin exfoliation
+Terlipressin,HAS_SIDE_EFFECT,Skin necrosis
+Terlipressin,HAS_SIDE_EFFECT,Malnutrition
+Terlipressin,HAS_SIDE_EFFECT,Skin disorder
+Terlipressin,HAS_SIDE_EFFECT,Vasoconstriction
+Terlipressin,HAS_SIDE_EFFECT,Peripheral ischaemia
+Terlipressin,HAS_SIDE_EFFECT,Cyanosis
+Terlipressin,HAS_SIDE_EFFECT,Pallor
+Terlipressin,HAS_SIDE_EFFECT,Uterine hypertonus
+Terlipressin,HAS_SIDE_EFFECT,Blood creatinine decreased
+Terlipressin,HAS_SIDE_EFFECT,Bradycardia
+Terlipressin,HAS_SIDE_EFFECT,Respiratory distress
+Terlipressin,HAS_SIDE_EFFECT,Fluid overload
+Terlipressin,HAS_SIDE_EFFECT,Hot flush
+Terlipressin,HAS_SIDE_EFFECT,Menopausal symptoms
+Terlipressin,HAS_SIDE_EFFECT,Respiratory failure
+Terlipressin,HAS_SIDE_EFFECT,Mesenteric vascular insufficiency
+Terlipressin,HAS_SIDE_EFFECT,Intestinal ischaemia
+Diane-35,HAS_SIDE_EFFECT,Gastrointestinal pain
+Diane-35,HAS_SIDE_EFFECT,Abdominal pain
+Diane-35,HAS_SIDE_EFFECT,Mental disorder
+Diane-35,HAS_SIDE_EFFECT,Breast disorder
+Diane-35,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Diane-35,HAS_SIDE_EFFECT,Libido decreased
+Diane-35,HAS_SIDE_EFFECT,Diarrhoea
+Diane-35,HAS_SIDE_EFFECT,Erythema multiforme
+Diane-35,HAS_SIDE_EFFECT,Erythema nodosum
+Diane-35,HAS_SIDE_EFFECT,Rash
+Diane-35,HAS_SIDE_EFFECT,Dermatitis
+Diane-35,HAS_SIDE_EFFECT,Eye disorder
+Diane-35,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Diane-35,HAS_SIDE_EFFECT,Headache
+Diane-35,HAS_SIDE_EFFECT,Hypersensitivity
+Diane-35,HAS_SIDE_EFFECT,Breast enlargement
+Diane-35,HAS_SIDE_EFFECT,Immune system disorder
+Diane-35,HAS_SIDE_EFFECT,Libido increased
+Diane-35,HAS_SIDE_EFFECT,Breast pain
+Diane-35,HAS_SIDE_EFFECT,Nausea
+Diane-35,HAS_SIDE_EFFECT,Nervous system disorder
+Diane-35,HAS_SIDE_EFFECT,Urticaria
+Diane-35,HAS_SIDE_EFFECT,Vomiting
+Diane-35,HAS_SIDE_EFFECT,Weight increased
+Diane-35,HAS_SIDE_EFFECT,Weight decreased
+Diane-35,HAS_SIDE_EFFECT,Mood swings
+Diane-35,HAS_SIDE_EFFECT,Affect lability
+Diane-35,HAS_SIDE_EFFECT,Breast discharge
+Diane-35,HAS_SIDE_EFFECT,Migraine
+Diane-35,HAS_SIDE_EFFECT,Malnutrition
+Diane-35,HAS_SIDE_EFFECT,Skin disorder
+Diane-35,HAS_SIDE_EFFECT,Contact lens intolerance
+Diane-35,HAS_SIDE_EFFECT,Vaginal discharge
+Diane-35,HAS_SIDE_EFFECT,Breast tenderness
+Diane-35,HAS_SIDE_EFFECT,Fluid retention
+Diane-35,HAS_SIDE_EFFECT,Depressed mood
+Eptifibatide,HAS_SIDE_EFFECT,Gastrointestinal pain
+Eptifibatide,HAS_SIDE_EFFECT,Abdominal pain
+Eptifibatide,HAS_SIDE_EFFECT,Anaphylactic shock
+Eptifibatide,HAS_SIDE_EFFECT,Atrial fibrillation
+Eptifibatide,HAS_SIDE_EFFECT,Atrioventricular block
+Eptifibatide,HAS_SIDE_EFFECT,Cerebral infarction
+Eptifibatide,HAS_SIDE_EFFECT,Chest pain
+Eptifibatide,HAS_SIDE_EFFECT,Infection
+Eptifibatide,HAS_SIDE_EFFECT,Dyspepsia
+Eptifibatide,HAS_SIDE_EFFECT,Dyspnoea
+Eptifibatide,HAS_SIDE_EFFECT,Epistaxis
+Eptifibatide,HAS_SIDE_EFFECT,Rash
+Eptifibatide,HAS_SIDE_EFFECT,Dermatitis
+Eptifibatide,HAS_SIDE_EFFECT,Body temperature increased
+Eptifibatide,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Eptifibatide,HAS_SIDE_EFFECT,Headache
+Eptifibatide,HAS_SIDE_EFFECT,Cardiac arrest
+Eptifibatide,HAS_SIDE_EFFECT,Cardiac failure
+Eptifibatide,HAS_SIDE_EFFECT,Cardiac failure congestive
+Eptifibatide,HAS_SIDE_EFFECT,Haematemesis
+Eptifibatide,HAS_SIDE_EFFECT,Haematoma
+Eptifibatide,HAS_SIDE_EFFECT,Haematuria
+Eptifibatide,HAS_SIDE_EFFECT,Haemorrhage
+Eptifibatide,HAS_SIDE_EFFECT,Haemoglobin
+Eptifibatide,HAS_SIDE_EFFECT,Hypersensitivity
+Eptifibatide,HAS_SIDE_EFFECT,Hypertension
+Eptifibatide,HAS_SIDE_EFFECT,Hypotension
+Eptifibatide,HAS_SIDE_EFFECT,Non-Hodgkin's lymphoma
+Eptifibatide,HAS_SIDE_EFFECT,Lymphoma
+Eptifibatide,HAS_SIDE_EFFECT,Myocardial infarction
+Eptifibatide,HAS_SIDE_EFFECT,Acute coronary syndrome
+Eptifibatide,HAS_SIDE_EFFECT,Nausea
+Eptifibatide,HAS_SIDE_EFFECT,Pain
+Eptifibatide,HAS_SIDE_EFFECT,Pericardial effusion
+Eptifibatide,HAS_SIDE_EFFECT,Phlebitis
+Eptifibatide,HAS_SIDE_EFFECT,Pneumonia
+Eptifibatide,HAS_SIDE_EFFECT,Shock
+Eptifibatide,HAS_SIDE_EFFECT,Cerebrovascular accident
+Eptifibatide,HAS_SIDE_EFFECT,Thrombocytopenia
+Eptifibatide,HAS_SIDE_EFFECT,Thrombophlebitis
+Eptifibatide,HAS_SIDE_EFFECT,Urticaria
+Eptifibatide,HAS_SIDE_EFFECT,Ventricular fibrillation
+Eptifibatide,HAS_SIDE_EFFECT,Ventricular tachycardia
+Eptifibatide,HAS_SIDE_EFFECT,Injury
+Eptifibatide,HAS_SIDE_EFFECT,Congenital arterial malformation
+Eptifibatide,HAS_SIDE_EFFECT,Haemorrhage intracranial
+Eptifibatide,HAS_SIDE_EFFECT,Pulmonary haemorrhage
+Eptifibatide,HAS_SIDE_EFFECT,Retroperitoneal haemorrhage
+Eptifibatide,HAS_SIDE_EFFECT,Injection site reaction
+Eptifibatide,HAS_SIDE_EFFECT,Coronary artery occlusion
+Eptifibatide,HAS_SIDE_EFFECT,Haemorrhagic stroke
+Eptifibatide,HAS_SIDE_EFFECT,Cerebral haemorrhage
+Eptifibatide,HAS_SIDE_EFFECT,Cerebral ischaemia
+Eptifibatide,HAS_SIDE_EFFECT,Coronary artery disease
+Eptifibatide,HAS_SIDE_EFFECT,Cardiac disorder
+Eptifibatide,HAS_SIDE_EFFECT,Blood disorder
+Eptifibatide,HAS_SIDE_EFFECT,Immune system disorder
+Eptifibatide,HAS_SIDE_EFFECT,Infarction
+Eptifibatide,HAS_SIDE_EFFECT,Nervous system disorder
+Eptifibatide,HAS_SIDE_EFFECT,Neuropathy peripheral
+Eptifibatide,HAS_SIDE_EFFECT,Angiopathy
+Eptifibatide,HAS_SIDE_EFFECT,Skin disorder
+Eptifibatide,HAS_SIDE_EFFECT,Haematocrit decreased
+Eptifibatide,HAS_SIDE_EFFECT,Liver disorder
+Eptifibatide,HAS_SIDE_EFFECT,Renal impairment
+Eptifibatide,HAS_SIDE_EFFECT,Renal failure
+Cancidas,HAS_SIDE_EFFECT,Abdominal distension
+Cancidas,HAS_SIDE_EFFECT,Gastrointestinal pain
+Cancidas,HAS_SIDE_EFFECT,Abdominal pain
+Cancidas,HAS_SIDE_EFFECT,Acquired immunodeficiency syndrome
+Cancidas,HAS_SIDE_EFFECT,Autoimmune disorder
+Cancidas,HAS_SIDE_EFFECT,Anaphylactic shock
+Cancidas,HAS_SIDE_EFFECT,Anaemia
+Cancidas,HAS_SIDE_EFFECT,Angioedema
+Cancidas,HAS_SIDE_EFFECT,Decreased appetite
+Cancidas,HAS_SIDE_EFFECT,Anxiety
+Cancidas,HAS_SIDE_EFFECT,Arrhythmia
+Cancidas,HAS_SIDE_EFFECT,Arthralgia
+Cancidas,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Cancidas,HAS_SIDE_EFFECT,Ascites
+Cancidas,HAS_SIDE_EFFECT,Aspergillus infection
+Cancidas,HAS_SIDE_EFFECT,Asthenia
+Cancidas,HAS_SIDE_EFFECT,Atrial fibrillation
+Cancidas,HAS_SIDE_EFFECT,Back pain
+Cancidas,HAS_SIDE_EFFECT,Bacteraemia
+Cancidas,HAS_SIDE_EFFECT,Mental disorder
+Cancidas,HAS_SIDE_EFFECT,Coagulopathy
+Cancidas,HAS_SIDE_EFFECT,Bone disorder
+Cancidas,HAS_SIDE_EFFECT,Bronchospasm
+Cancidas,HAS_SIDE_EFFECT,Neoplasm malignant
+Cancidas,HAS_SIDE_EFFECT,Chest pain
+Cancidas,HAS_SIDE_EFFECT,Cholestasis
+Cancidas,HAS_SIDE_EFFECT,Infection
+Cancidas,HAS_SIDE_EFFECT,Confusional state
+Cancidas,HAS_SIDE_EFFECT,Feeling abnormal
+Cancidas,HAS_SIDE_EFFECT,Connective tissue disorder
+Cancidas,HAS_SIDE_EFFECT,Constipation
+Cancidas,HAS_SIDE_EFFECT,Cough
+Cancidas,HAS_SIDE_EFFECT,Decubitus ulcer
+Cancidas,HAS_SIDE_EFFECT,Dysphagia
+Cancidas,HAS_SIDE_EFFECT,Dermatitis atopic
+Cancidas,HAS_SIDE_EFFECT,Diarrhoea
+Cancidas,HAS_SIDE_EFFECT,Dizziness
+Cancidas,HAS_SIDE_EFFECT,Dysgeusia
+Cancidas,HAS_SIDE_EFFECT,Dyspepsia
+Cancidas,HAS_SIDE_EFFECT,Dyspnoea
+Cancidas,HAS_SIDE_EFFECT,Oedema
+Cancidas,HAS_SIDE_EFFECT,Eosinophilia
+Cancidas,HAS_SIDE_EFFECT,Epistaxis
+Cancidas,HAS_SIDE_EFFECT,Erythema multiforme
+Cancidas,HAS_SIDE_EFFECT,Rash
+Cancidas,HAS_SIDE_EFFECT,Dermatitis
+Cancidas,HAS_SIDE_EFFECT,Eye disorder
+Cancidas,HAS_SIDE_EFFECT,Fatigue
+Cancidas,HAS_SIDE_EFFECT,Body temperature increased
+Cancidas,HAS_SIDE_EFFECT,Flatulence
+Cancidas,HAS_SIDE_EFFECT,Flushing
+Cancidas,HAS_SIDE_EFFECT,Gastritis
+Cancidas,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Cancidas,HAS_SIDE_EFFECT,Graft versus host disease
+Cancidas,HAS_SIDE_EFFECT,Headache
+Cancidas,HAS_SIDE_EFFECT,Cardiac arrest
+Cancidas,HAS_SIDE_EFFECT,Cardiac disorder
+Cancidas,HAS_SIDE_EFFECT,Cardiac failure congestive
+Cancidas,HAS_SIDE_EFFECT,Haematuria
+Cancidas,HAS_SIDE_EFFECT,Hepatitis
+Cancidas,HAS_SIDE_EFFECT,Hepatomegaly
+Cancidas,HAS_SIDE_EFFECT,Hyperbilirubinaemia
+Cancidas,HAS_SIDE_EFFECT,Hypercalcaemia
+Cancidas,HAS_SIDE_EFFECT,Hyperglycaemia
+Cancidas,HAS_SIDE_EFFECT,Hyperhidrosis
+Cancidas,HAS_SIDE_EFFECT,Hypersensitivity
+Cancidas,HAS_SIDE_EFFECT,Hypertension
+Cancidas,HAS_SIDE_EFFECT,Hypoaesthesia
+Cancidas,HAS_SIDE_EFFECT,Hypocalcaemia
+Cancidas,HAS_SIDE_EFFECT,Hypokalaemia
+Cancidas,HAS_SIDE_EFFECT,Hyponatraemia
+Cancidas,HAS_SIDE_EFFECT,Hypotension
+Cancidas,HAS_SIDE_EFFECT,Immune system disorder
+Cancidas,HAS_SIDE_EFFECT,Jaundice
+Cancidas,HAS_SIDE_EFFECT,Renal failure acute
+Cancidas,HAS_SIDE_EFFECT,Laryngospasm
+Cancidas,HAS_SIDE_EFFECT,Hepatocellular injury
+Cancidas,HAS_SIDE_EFFECT,Liver disorder
+Cancidas,HAS_SIDE_EFFECT,Foetor hepaticus
+Cancidas,HAS_SIDE_EFFECT,Mediastinal disorder
+Cancidas,HAS_SIDE_EFFECT,Myocardial infarction
+Cancidas,HAS_SIDE_EFFECT,Acute coronary syndrome
+Cancidas,HAS_SIDE_EFFECT,Nasal congestion
+Cancidas,HAS_SIDE_EFFECT,Nausea
+Cancidas,HAS_SIDE_EFFECT,Neoplasm
+Cancidas,HAS_SIDE_EFFECT,Nervous system disorder
+Cancidas,HAS_SIDE_EFFECT,Neutropenia
+Cancidas,HAS_SIDE_EFFECT,Opportunistic infection
+Cancidas,HAS_SIDE_EFFECT,Pain
+Cancidas,HAS_SIDE_EFFECT,Pain in extremity
+Cancidas,HAS_SIDE_EFFECT,Palpitations
+Cancidas,HAS_SIDE_EFFECT,Pancreatitis
+Cancidas,HAS_SIDE_EFFECT,Paraesthesia
+Cancidas,HAS_SIDE_EFFECT,Petechiae
+Cancidas,HAS_SIDE_EFFECT,Phlebitis
+Cancidas,HAS_SIDE_EFFECT,Pleural effusion
+Cancidas,HAS_SIDE_EFFECT,Pneumonia
+Cancidas,HAS_SIDE_EFFECT,Prurigo
+Cancidas,HAS_SIDE_EFFECT,Pruritus
+Cancidas,HAS_SIDE_EFFECT,Pulmonary oedema
+Cancidas,HAS_SIDE_EFFECT,Rales
+Cancidas,HAS_SIDE_EFFECT,Renal failure
+Cancidas,HAS_SIDE_EFFECT,Acute respiratory distress syndrome
+Cancidas,HAS_SIDE_EFFECT,Convulsion
+Cancidas,HAS_SIDE_EFFECT,Septic shock
+Cancidas,HAS_SIDE_EFFECT,Skin lesion
+Cancidas,HAS_SIDE_EFFECT,Stridor
+Cancidas,HAS_SIDE_EFFECT,Swelling
+Cancidas,HAS_SIDE_EFFECT,Tachycardia
+Cancidas,HAS_SIDE_EFFECT,Thrombocytopenia
+Cancidas,HAS_SIDE_EFFECT,Thrombophlebitis
+Cancidas,HAS_SIDE_EFFECT,Tremor
+Cancidas,HAS_SIDE_EFFECT,Erythema
+Cancidas,HAS_SIDE_EFFECT,Urinary tract infection
+Cancidas,HAS_SIDE_EFFECT,Urethral disorder
+Cancidas,HAS_SIDE_EFFECT,Urinary tract disorder
+Cancidas,HAS_SIDE_EFFECT,Urticaria
+Cancidas,HAS_SIDE_EFFECT,Angiopathy
+Cancidas,HAS_SIDE_EFFECT,Vasculitis
+Cancidas,HAS_SIDE_EFFECT,Vomiting
+Cancidas,HAS_SIDE_EFFECT,Wheezing
+Cancidas,HAS_SIDE_EFFECT,Dry mouth
+Cancidas,HAS_SIDE_EFFECT,Chills
+Cancidas,HAS_SIDE_EFFECT,Hepatic failure
+Cancidas,HAS_SIDE_EFFECT,Burning sensation
+Cancidas,HAS_SIDE_EFFECT,Oedema peripheral
+Cancidas,HAS_SIDE_EFFECT,Hepatic function abnormal
+Cancidas,HAS_SIDE_EFFECT,Blood urea increased
+Cancidas,HAS_SIDE_EFFECT,Swelling face
+Cancidas,HAS_SIDE_EFFECT,Injection site swelling
+Cancidas,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+Cancidas,HAS_SIDE_EFFECT,Hypomagnesaemia
+Cancidas,HAS_SIDE_EFFECT,Muscular weakness
+Cancidas,HAS_SIDE_EFFECT,Hepatic necrosis
+Cancidas,HAS_SIDE_EFFECT,Bone pain
+Cancidas,HAS_SIDE_EFFECT,Injection site pain
+Cancidas,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+Cancidas,HAS_SIDE_EFFECT,Prothrombin level increased
+Cancidas,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Cancidas,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Cancidas,HAS_SIDE_EFFECT,Lacrimation increased
+Cancidas,HAS_SIDE_EFFECT,Haemoglobin decreased
+Cancidas,HAS_SIDE_EFFECT,Eyelid oedema
+Cancidas,HAS_SIDE_EFFECT,Malnutrition
+Cancidas,HAS_SIDE_EFFECT,Skin disorder
+Cancidas,HAS_SIDE_EFFECT,Metabolic acidosis
+Cancidas,HAS_SIDE_EFFECT,Rash macular
+Cancidas,HAS_SIDE_EFFECT,Blood urine present
+Cancidas,HAS_SIDE_EFFECT,Blood urine
+Cancidas,HAS_SIDE_EFFECT,Malaise
+Cancidas,HAS_SIDE_EFFECT,Discomfort
+Cancidas,HAS_SIDE_EFFECT,Ill-defined disorder
+Cancidas,HAS_SIDE_EFFECT,Myalgia
+Cancidas,HAS_SIDE_EFFECT,Tachypnoea
+Cancidas,HAS_SIDE_EFFECT,Breath sounds abnormal
+Cancidas,HAS_SIDE_EFFECT,Abdominal pain upper
+Cancidas,HAS_SIDE_EFFECT,Disorientation
+Cancidas,HAS_SIDE_EFFECT,Tenderness
+Cancidas,HAS_SIDE_EFFECT,Rash erythematous
+Cancidas,HAS_SIDE_EFFECT,Rash morbilliform
+Cancidas,HAS_SIDE_EFFECT,Abdominal discomfort
+Cancidas,HAS_SIDE_EFFECT,Hepatotoxicity
+Cancidas,HAS_SIDE_EFFECT,Blood creatinine increased
+Cancidas,HAS_SIDE_EFFECT,Chest discomfort
+Cancidas,HAS_SIDE_EFFECT,Skin exfoliation
+Cancidas,HAS_SIDE_EFFECT,Circumoral oedema
+Cancidas,HAS_SIDE_EFFECT,Activated partial thromboplastin time prolonged
+Cancidas,HAS_SIDE_EFFECT,Sepsis
+Cancidas,HAS_SIDE_EFFECT,Hepatobiliary disease
+Cancidas,HAS_SIDE_EFFECT,Blood bilirubin increased
+Cancidas,HAS_SIDE_EFFECT,Induration
+Cancidas,HAS_SIDE_EFFECT,Mucosal inflammation
+Cancidas,HAS_SIDE_EFFECT,Electrolyte imbalance
+Cancidas,HAS_SIDE_EFFECT,Vision blurred
+Cancidas,HAS_SIDE_EFFECT,Haematological malignancy
+Cancidas,HAS_SIDE_EFFECT,Platelet count decreased
+Cancidas,HAS_SIDE_EFFECT,Rash maculo-papular
+Cancidas,HAS_SIDE_EFFECT,Bradycardia
+Cancidas,HAS_SIDE_EFFECT,Pruritus generalised
+Cancidas,HAS_SIDE_EFFECT,Respiratory distress
+Cancidas,HAS_SIDE_EFFECT,Blood pressure increased
+Cancidas,HAS_SIDE_EFFECT,Rash generalised
+Cancidas,HAS_SIDE_EFFECT,Influenza like illness
+Cancidas,HAS_SIDE_EFFECT,Blood bicarbonate decreased
+Cancidas,HAS_SIDE_EFFECT,Injection site phlebitis
+Cancidas,HAS_SIDE_EFFECT,Face oedema
+Cancidas,HAS_SIDE_EFFECT,Fluid overload
+Cancidas,HAS_SIDE_EFFECT,Feeling of body temperature change
+Cancidas,HAS_SIDE_EFFECT,Feeling hot
+Cancidas,HAS_SIDE_EFFECT,Blood potassium increased
+Cancidas,HAS_SIDE_EFFECT,Blood phosphorus increased
+Cancidas,HAS_SIDE_EFFECT,White blood cells urine positive
+Cancidas,HAS_SIDE_EFFECT,Prothrombin time shortened
+Cancidas,HAS_SIDE_EFFECT,Blood albumin decreased
+Cancidas,HAS_SIDE_EFFECT,Blood glucose increased
+Cancidas,HAS_SIDE_EFFECT,Blood sodium increased
+Cancidas,HAS_SIDE_EFFECT,Blood calcium decreased
+Cancidas,HAS_SIDE_EFFECT,Blood potassium decreased
+Cancidas,HAS_SIDE_EFFECT,Blood chloride increased
+Cancidas,HAS_SIDE_EFFECT,Blood chloride decreased
+Cancidas,HAS_SIDE_EFFECT,Nephropathy toxic
+Cancidas,HAS_SIDE_EFFECT,Hot flush
+Cancidas,HAS_SIDE_EFFECT,Menopausal symptoms
+Cancidas,HAS_SIDE_EFFECT,Bilirubin conjugated increased
+Cancidas,HAS_SIDE_EFFECT,Haematocrit decreased
+Cancidas,HAS_SIDE_EFFECT,Febrile neutropenia
+Cancidas,HAS_SIDE_EFFECT,White blood cell count decreased
+Cancidas,HAS_SIDE_EFFECT,White blood cell count increased
+Cancidas,HAS_SIDE_EFFECT,Thrombocytosis
+Cancidas,HAS_SIDE_EFFECT,Infestation
+Cancidas,HAS_SIDE_EFFECT,Injection site erythema
+Cancidas,HAS_SIDE_EFFECT,International normalised ratio increased
+Cancidas,HAS_SIDE_EFFECT,Neutrophil count decreased
+Cancidas,HAS_SIDE_EFFECT,Lymphocyte count increased
+Cancidas,HAS_SIDE_EFFECT,Blood magnesium decreased
+Cancidas,HAS_SIDE_EFFECT,Local reaction
+Cancidas,HAS_SIDE_EFFECT,Lymphocyte count decreased
+Cancidas,HAS_SIDE_EFFECT,pH urine increased
+Cancidas,HAS_SIDE_EFFECT,Blood uric acid decreased
+Cancidas,HAS_SIDE_EFFECT,Hepatic enzyme increased
+Cancidas,HAS_SIDE_EFFECT,Laryngeal pain
+Cancidas,HAS_SIDE_EFFECT,Protein urine present
+Cancidas,HAS_SIDE_EFFECT,Protein total decreased
+Cancidas,HAS_SIDE_EFFECT,Carbon dioxide decreased
+Cancidas,HAS_SIDE_EFFECT,Infusion site erythema
+Cancidas,HAS_SIDE_EFFECT,Blood phosphorus decreased
+Cancidas,HAS_SIDE_EFFECT,Insomnia
+Cancidas,HAS_SIDE_EFFECT,Immunosuppressant drug level increased
+Cancidas,HAS_SIDE_EFFECT,Catheter site pain
+Cancidas,HAS_SIDE_EFFECT,Infusion site induration
+Cancidas,HAS_SIDE_EFFECT,Infusion site pain
+Cancidas,HAS_SIDE_EFFECT,Infusion site swelling
+Cancidas,HAS_SIDE_EFFECT,Infusion site pruritus
+Cancidas,HAS_SIDE_EFFECT,Device related infection
+Cancidas,HAS_SIDE_EFFECT,Infusion site phlebitis
+Cancidas,HAS_SIDE_EFFECT,Ocular icterus
+Cancidas,HAS_SIDE_EFFECT,Respiratory failure
+Cancidas,HAS_SIDE_EFFECT,Infusion site rash
+Cancidas,HAS_SIDE_EFFECT,Renal impairment
+Cancidas,HAS_SIDE_EFFECT,Infusion site extravasation
+Cancidas,HAS_SIDE_EFFECT,Infusion site irritation
+Cancidas,HAS_SIDE_EFFECT,Infusion site urticaria
+Cancidas,HAS_SIDE_EFFECT,Blood uric acid increased
+Cancidas,HAS_SIDE_EFFECT,Dyspnoea paroxysmal nocturnal
+Cancidas,HAS_SIDE_EFFECT,Eosinophil count increased
+Cancidas,HAS_SIDE_EFFECT,Somnolence
+Anidulafungin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Anidulafungin,HAS_SIDE_EFFECT,Abdominal pain
+Anidulafungin,HAS_SIDE_EFFECT,Anaphylactic shock
+Anidulafungin,HAS_SIDE_EFFECT,Anaemia
+Anidulafungin,HAS_SIDE_EFFECT,Angioedema
+Anidulafungin,HAS_SIDE_EFFECT,Sinus arrhythmia
+Anidulafungin,HAS_SIDE_EFFECT,Atrial fibrillation
+Anidulafungin,HAS_SIDE_EFFECT,Back pain
+Anidulafungin,HAS_SIDE_EFFECT,Bacteraemia
+Anidulafungin,HAS_SIDE_EFFECT,Mental disorder
+Anidulafungin,HAS_SIDE_EFFECT,Coagulopathy
+Anidulafungin,HAS_SIDE_EFFECT,Bronchospasm
+Anidulafungin,HAS_SIDE_EFFECT,Bundle branch block
+Anidulafungin,HAS_SIDE_EFFECT,Oral candidiasis
+Anidulafungin,HAS_SIDE_EFFECT,Candida infection
+Anidulafungin,HAS_SIDE_EFFECT,Chest pain
+Anidulafungin,HAS_SIDE_EFFECT,Cholestasis
+Anidulafungin,HAS_SIDE_EFFECT,Clostridial infection
+Anidulafungin,HAS_SIDE_EFFECT,Infection
+Anidulafungin,HAS_SIDE_EFFECT,Confusional state
+Anidulafungin,HAS_SIDE_EFFECT,Feeling abnormal
+Anidulafungin,HAS_SIDE_EFFECT,Connective tissue disorder
+Anidulafungin,HAS_SIDE_EFFECT,Constipation
+Anidulafungin,HAS_SIDE_EFFECT,Cough
+Anidulafungin,HAS_SIDE_EFFECT,Decubitus ulcer
+Anidulafungin,HAS_SIDE_EFFECT,Dehydration
+Anidulafungin,HAS_SIDE_EFFECT,Depression
+Anidulafungin,HAS_SIDE_EFFECT,Diarrhoea
+Anidulafungin,HAS_SIDE_EFFECT,Dizziness
+Anidulafungin,HAS_SIDE_EFFECT,Dyspepsia
+Anidulafungin,HAS_SIDE_EFFECT,Dyspnoea
+Anidulafungin,HAS_SIDE_EFFECT,Rash
+Anidulafungin,HAS_SIDE_EFFECT,Dermatitis
+Anidulafungin,HAS_SIDE_EFFECT,Eye disorder
+Anidulafungin,HAS_SIDE_EFFECT,Faecal incontinence
+Anidulafungin,HAS_SIDE_EFFECT,Body temperature increased
+Anidulafungin,HAS_SIDE_EFFECT,Flushing
+Anidulafungin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Anidulafungin,HAS_SIDE_EFFECT,Headache
+Anidulafungin,HAS_SIDE_EFFECT,Cardiac disorder
+Anidulafungin,HAS_SIDE_EFFECT,Hypercalcaemia
+Anidulafungin,HAS_SIDE_EFFECT,Hyperglycaemia
+Anidulafungin,HAS_SIDE_EFFECT,Hyperkalaemia
+Anidulafungin,HAS_SIDE_EFFECT,Hypernatraemia
+Anidulafungin,HAS_SIDE_EFFECT,Hypersensitivity
+Anidulafungin,HAS_SIDE_EFFECT,Hypertension
+Anidulafungin,HAS_SIDE_EFFECT,Hypoglycaemia
+Anidulafungin,HAS_SIDE_EFFECT,Hypokalaemia
+Anidulafungin,HAS_SIDE_EFFECT,Hypotension
+Anidulafungin,HAS_SIDE_EFFECT,Immune system disorder
+Anidulafungin,HAS_SIDE_EFFECT,Leukocytosis
+Anidulafungin,HAS_SIDE_EFFECT,Leukopenia
+Anidulafungin,HAS_SIDE_EFFECT,Mediastinal disorder
+Anidulafungin,HAS_SIDE_EFFECT,Multi-organ failure
+Anidulafungin,HAS_SIDE_EFFECT,Nausea
+Anidulafungin,HAS_SIDE_EFFECT,Nervous system disorder
+Anidulafungin,HAS_SIDE_EFFECT,Neutropenia
+Anidulafungin,HAS_SIDE_EFFECT,Phlebitis
+Anidulafungin,HAS_SIDE_EFFECT,Pleural effusion
+Anidulafungin,HAS_SIDE_EFFECT,Pneumonia
+Anidulafungin,HAS_SIDE_EFFECT,Pruritus
+Anidulafungin,HAS_SIDE_EFFECT,Convulsion
+Anidulafungin,HAS_SIDE_EFFECT,Cerebrovascular accident
+Anidulafungin,HAS_SIDE_EFFECT,Thrombocytopenia
+Anidulafungin,HAS_SIDE_EFFECT,Erythema
+Anidulafungin,HAS_SIDE_EFFECT,Urinary tract infection
+Anidulafungin,HAS_SIDE_EFFECT,Urethral disorder
+Anidulafungin,HAS_SIDE_EFFECT,Urinary tract disorder
+Anidulafungin,HAS_SIDE_EFFECT,Urticaria
+Anidulafungin,HAS_SIDE_EFFECT,Angiopathy
+Anidulafungin,HAS_SIDE_EFFECT,Vomiting
+Anidulafungin,HAS_SIDE_EFFECT,Fungaemia
+Anidulafungin,HAS_SIDE_EFFECT,Bundle branch block right
+Anidulafungin,HAS_SIDE_EFFECT,Oedema peripheral
+Anidulafungin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Anidulafungin,HAS_SIDE_EFFECT,Amylase increased
+Anidulafungin,HAS_SIDE_EFFECT,Blood urea increased
+Anidulafungin,HAS_SIDE_EFFECT,Blood creatine phosphokinase increased
+Anidulafungin,HAS_SIDE_EFFECT,Drug level decreased
+Anidulafungin,HAS_SIDE_EFFECT,Ventricular extrasystoles
+Anidulafungin,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+Anidulafungin,HAS_SIDE_EFFECT,Hypomagnesaemia
+Anidulafungin,HAS_SIDE_EFFECT,Injection site reaction
+Anidulafungin,HAS_SIDE_EFFECT,Liver function test abnormal
+Anidulafungin,HAS_SIDE_EFFECT,Hepatic necrosis
+Anidulafungin,HAS_SIDE_EFFECT,Eye pain
+Anidulafungin,HAS_SIDE_EFFECT,Prothrombin level increased
+Anidulafungin,HAS_SIDE_EFFECT,Electrocardiogram QT prolonged
+Anidulafungin,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Anidulafungin,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Anidulafungin,HAS_SIDE_EFFECT,Systemic candida
+Anidulafungin,HAS_SIDE_EFFECT,Malnutrition
+Anidulafungin,HAS_SIDE_EFFECT,Skin disorder
+Anidulafungin,HAS_SIDE_EFFECT,Abdominal pain upper
+Anidulafungin,HAS_SIDE_EFFECT,Blood creatinine increased
+Anidulafungin,HAS_SIDE_EFFECT,Hepatic enzyme increased
+Anidulafungin,HAS_SIDE_EFFECT,Sepsis
+Anidulafungin,HAS_SIDE_EFFECT,Hepatobiliary disease
+Anidulafungin,HAS_SIDE_EFFECT,Blood bilirubin increased
+Anidulafungin,HAS_SIDE_EFFECT,Vision blurred
+Anidulafungin,HAS_SIDE_EFFECT,Rash maculo-papular
+Anidulafungin,HAS_SIDE_EFFECT,Chills
+Anidulafungin,HAS_SIDE_EFFECT,Pruritus generalised
+Anidulafungin,HAS_SIDE_EFFECT,Respiratory distress
+Anidulafungin,HAS_SIDE_EFFECT,Visual impairment
+Anidulafungin,HAS_SIDE_EFFECT,Lipase increased
+Anidulafungin,HAS_SIDE_EFFECT,Hot flush
+Anidulafungin,HAS_SIDE_EFFECT,Menopausal symptoms
+Anidulafungin,HAS_SIDE_EFFECT,Hyperhidrosis
+Anidulafungin,HAS_SIDE_EFFECT,White blood cell count decreased
+Anidulafungin,HAS_SIDE_EFFECT,White blood cell count increased
+Anidulafungin,HAS_SIDE_EFFECT,Thrombocytosis
+Anidulafungin,HAS_SIDE_EFFECT,Infestation
+Anidulafungin,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+Anidulafungin,HAS_SIDE_EFFECT,Blood potassium decreased
+Anidulafungin,HAS_SIDE_EFFECT,Insomnia
+Anidulafungin,HAS_SIDE_EFFECT,Infusion related reaction
+Anidulafungin,HAS_SIDE_EFFECT,Infusion site pain
+Anidulafungin,HAS_SIDE_EFFECT,Thrombophlebitis superficial
+Anidulafungin,HAS_SIDE_EFFECT,Rash papular
+NuvaRing,HAS_SIDE_EFFECT,Abdominal distension
+NuvaRing,HAS_SIDE_EFFECT,Gastrointestinal pain
+NuvaRing,HAS_SIDE_EFFECT,Abdominal pain
+NuvaRing,HAS_SIDE_EFFECT,Alopecia
+NuvaRing,HAS_SIDE_EFFECT,Amenorrhoea
+NuvaRing,HAS_SIDE_EFFECT,Anxiety
+NuvaRing,HAS_SIDE_EFFECT,Back pain
+NuvaRing,HAS_SIDE_EFFECT,Mental disorder
+NuvaRing,HAS_SIDE_EFFECT,Breast disorder
+NuvaRing,HAS_SIDE_EFFECT,Bronchitis
+NuvaRing,HAS_SIDE_EFFECT,Cervical polyp
+NuvaRing,HAS_SIDE_EFFECT,Cervicitis
+NuvaRing,HAS_SIDE_EFFECT,Infection
+NuvaRing,HAS_SIDE_EFFECT,Connective tissue disorder
+NuvaRing,HAS_SIDE_EFFECT,Constipation
+NuvaRing,HAS_SIDE_EFFECT,Cough
+NuvaRing,HAS_SIDE_EFFECT,Cystitis noninfective
+NuvaRing,HAS_SIDE_EFFECT,Cystitis
+NuvaRing,HAS_SIDE_EFFECT,Bladder pain
+NuvaRing,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+NuvaRing,HAS_SIDE_EFFECT,Libido decreased
+NuvaRing,HAS_SIDE_EFFECT,Depression
+NuvaRing,HAS_SIDE_EFFECT,Diarrhoea
+NuvaRing,HAS_SIDE_EFFECT,Dizziness
+NuvaRing,HAS_SIDE_EFFECT,Dysmenorrhoea
+NuvaRing,HAS_SIDE_EFFECT,Dysuria
+NuvaRing,HAS_SIDE_EFFECT,Eczema
+NuvaRing,HAS_SIDE_EFFECT,Oedema
+NuvaRing,HAS_SIDE_EFFECT,Rash
+NuvaRing,HAS_SIDE_EFFECT,Dermatitis
+NuvaRing,HAS_SIDE_EFFECT,Eye disorder
+NuvaRing,HAS_SIDE_EFFECT,Fatigue
+NuvaRing,HAS_SIDE_EFFECT,Asthenia
+NuvaRing,HAS_SIDE_EFFECT,Body temperature increased
+NuvaRing,HAS_SIDE_EFFECT,Fibrocystic breast disease
+NuvaRing,HAS_SIDE_EFFECT,Foreign body
+NuvaRing,HAS_SIDE_EFFECT,Gastrointestinal disorder
+NuvaRing,HAS_SIDE_EFFECT,Headache
+NuvaRing,HAS_SIDE_EFFECT,Herpes simplex
+NuvaRing,HAS_SIDE_EFFECT,Hypersensitivity
+NuvaRing,HAS_SIDE_EFFECT,Hypoaesthesia
+NuvaRing,HAS_SIDE_EFFECT,Immune system disorder
+NuvaRing,HAS_SIDE_EFFECT,Irritability
+NuvaRing,HAS_SIDE_EFFECT,Vaginal discharge
+NuvaRing,HAS_SIDE_EFFECT,Breast mass
+NuvaRing,HAS_SIDE_EFFECT,Breast pain
+NuvaRing,HAS_SIDE_EFFECT,Menorrhagia
+NuvaRing,HAS_SIDE_EFFECT,Metrorrhagia
+NuvaRing,HAS_SIDE_EFFECT,Nausea
+NuvaRing,HAS_SIDE_EFFECT,Neoplasm
+NuvaRing,HAS_SIDE_EFFECT,Nervous system disorder
+NuvaRing,HAS_SIDE_EFFECT,Pain in extremity
+NuvaRing,HAS_SIDE_EFFECT,Pelvic pain
+NuvaRing,HAS_SIDE_EFFECT,Penis disorder
+NuvaRing,HAS_SIDE_EFFECT,Neuropathy peripheral
+NuvaRing,HAS_SIDE_EFFECT,Pharyngitis
+NuvaRing,HAS_SIDE_EFFECT,Premenstrual syndrome
+NuvaRing,HAS_SIDE_EFFECT,Pruritus
+NuvaRing,HAS_SIDE_EFFECT,Rhinitis
+NuvaRing,HAS_SIDE_EFFECT,Sinusitis
+NuvaRing,HAS_SIDE_EFFECT,Muscle spasms
+NuvaRing,HAS_SIDE_EFFECT,Toothache
+NuvaRing,HAS_SIDE_EFFECT,Upper respiratory tract infection
+NuvaRing,HAS_SIDE_EFFECT,Pollakiuria
+NuvaRing,HAS_SIDE_EFFECT,Urinary tract infection
+NuvaRing,HAS_SIDE_EFFECT,Urethral disorder
+NuvaRing,HAS_SIDE_EFFECT,Urinary tract disorder
+NuvaRing,HAS_SIDE_EFFECT,Urticaria
+NuvaRing,HAS_SIDE_EFFECT,Vaginal infection
+NuvaRing,HAS_SIDE_EFFECT,Vaginal inflammation
+NuvaRing,HAS_SIDE_EFFECT,Angiopathy
+NuvaRing,HAS_SIDE_EFFECT,Vomiting
+NuvaRing,HAS_SIDE_EFFECT,Weight increased
+NuvaRing,HAS_SIDE_EFFECT,Micturition urgency
+NuvaRing,HAS_SIDE_EFFECT,Mood swings
+NuvaRing,HAS_SIDE_EFFECT,Affect lability
+NuvaRing,HAS_SIDE_EFFECT,Migraine
+NuvaRing,HAS_SIDE_EFFECT,Uterine spasm
+NuvaRing,HAS_SIDE_EFFECT,Malnutrition
+NuvaRing,HAS_SIDE_EFFECT,Skin disorder
+NuvaRing,HAS_SIDE_EFFECT,Malaise
+NuvaRing,HAS_SIDE_EFFECT,Discomfort
+NuvaRing,HAS_SIDE_EFFECT,Feeling abnormal
+NuvaRing,HAS_SIDE_EFFECT,Ill-defined disorder
+NuvaRing,HAS_SIDE_EFFECT,Increased appetite
+NuvaRing,HAS_SIDE_EFFECT,Galactorrhoea
+NuvaRing,HAS_SIDE_EFFECT,Vaginal odour
+NuvaRing,HAS_SIDE_EFFECT,Vulvovaginal discomfort
+NuvaRing,HAS_SIDE_EFFECT,Vulvovaginal pain
+NuvaRing,HAS_SIDE_EFFECT,Vulvovaginal burning sensation
+NuvaRing,HAS_SIDE_EFFECT,Breast tenderness
+NuvaRing,HAS_SIDE_EFFECT,Ectropion of cervix
+NuvaRing,HAS_SIDE_EFFECT,Influenza like illness
+NuvaRing,HAS_SIDE_EFFECT,Sensation of foreign body
+NuvaRing,HAS_SIDE_EFFECT,Blood pressure increased
+NuvaRing,HAS_SIDE_EFFECT,Vulvovaginal dryness
+NuvaRing,HAS_SIDE_EFFECT,Pruritus genital
+NuvaRing,HAS_SIDE_EFFECT,Visual impairment
+NuvaRing,HAS_SIDE_EFFECT,Hot flush
+NuvaRing,HAS_SIDE_EFFECT,Menopausal symptoms
+NuvaRing,HAS_SIDE_EFFECT,Acne
+NuvaRing,HAS_SIDE_EFFECT,Infestation
+NuvaRing,HAS_SIDE_EFFECT,Local reaction
+NuvaRing,HAS_SIDE_EFFECT,Device breakage
+NuvaRing,HAS_SIDE_EFFECT,Breast discomfort
+NuvaRing,HAS_SIDE_EFFECT,Medical device discomfort
+NuvaRing,HAS_SIDE_EFFECT,Fibroadenoma of breast
+NuvaRing,HAS_SIDE_EFFECT,Device expulsion
+NuvaRing,HAS_SIDE_EFFECT,Dyspareunia
+NuvaRing,HAS_SIDE_EFFECT,Medical device complication
+NuvaRing,HAS_SIDE_EFFECT,Pelvic discomfort
+NuvaRing,HAS_SIDE_EFFECT,Coital bleeding
+NuvaRing,HAS_SIDE_EFFECT,Embolism venous
+NuvaRing,HAS_SIDE_EFFECT,Breast enlargement
+Photofrin,HAS_SIDE_EFFECT,Abdominal distension
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Photofrin,HAS_SIDE_EFFECT,Abdominal pain
+Photofrin,HAS_SIDE_EFFECT,Anaemia
+Photofrin,HAS_SIDE_EFFECT,Angina pectoris
+Photofrin,HAS_SIDE_EFFECT,Anxiety
+Photofrin,HAS_SIDE_EFFECT,Asthenia
+Photofrin,HAS_SIDE_EFFECT,Pneumothorax
+Photofrin,HAS_SIDE_EFFECT,Atelectasis
+Photofrin,HAS_SIDE_EFFECT,Atrial fibrillation
+Photofrin,HAS_SIDE_EFFECT,Atrial flutter
+Photofrin,HAS_SIDE_EFFECT,Back pain
+Photofrin,HAS_SIDE_EFFECT,Mental disorder
+Photofrin,HAS_SIDE_EFFECT,Blister
+Photofrin,HAS_SIDE_EFFECT,Dermatitis bullous
+Photofrin,HAS_SIDE_EFFECT,Breast disorder
+Photofrin,HAS_SIDE_EFFECT,Bronchitis
+Photofrin,HAS_SIDE_EFFECT,Basal cell carcinoma
+Photofrin,HAS_SIDE_EFFECT,Chest pain
+Photofrin,HAS_SIDE_EFFECT,Choking
+Photofrin,HAS_SIDE_EFFECT,Colitis
+Photofrin,HAS_SIDE_EFFECT,Infection
+Photofrin,HAS_SIDE_EFFECT,Connective tissue disorder
+Photofrin,HAS_SIDE_EFFECT,Constipation
+Photofrin,HAS_SIDE_EFFECT,Joint contracture
+Photofrin,HAS_SIDE_EFFECT,Cyst
+Photofrin,HAS_SIDE_EFFECT,Deafness
+Photofrin,HAS_SIDE_EFFECT,Dysphagia
+Photofrin,HAS_SIDE_EFFECT,Dehydration
+Photofrin,HAS_SIDE_EFFECT,Dermatitis
+Photofrin,HAS_SIDE_EFFECT,Dermatitis exfoliative
+Photofrin,HAS_SIDE_EFFECT,Diarrhoea
+Photofrin,HAS_SIDE_EFFECT,Dizziness
+Photofrin,HAS_SIDE_EFFECT,Dysgeusia
+Photofrin,HAS_SIDE_EFFECT,Dyspepsia
+Photofrin,HAS_SIDE_EFFECT,Dyspnoea
+Photofrin,HAS_SIDE_EFFECT,Oedema
+Photofrin,HAS_SIDE_EFFECT,Embolism
+Photofrin,HAS_SIDE_EFFECT,Eructation
+Photofrin,HAS_SIDE_EFFECT,Oesophageal disorder
+Photofrin,HAS_SIDE_EFFECT,Oesophageal perforation
+Photofrin,HAS_SIDE_EFFECT,Oesophageal spasm
+Photofrin,HAS_SIDE_EFFECT,Oesophageal stenosis
+Photofrin,HAS_SIDE_EFFECT,Oesophagitis
+Photofrin,HAS_SIDE_EFFECT,Rash
+Photofrin,HAS_SIDE_EFFECT,Eye disorder
+Photofrin,HAS_SIDE_EFFECT,Fasciitis
+Photofrin,HAS_SIDE_EFFECT,Fatigue
+Photofrin,HAS_SIDE_EFFECT,Body temperature increased
+Photofrin,HAS_SIDE_EFFECT,Flatulence
+Photofrin,HAS_SIDE_EFFECT,Gastritis
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Gynaecomastia
+Photofrin,HAS_SIDE_EFFECT,Breath odour
+Photofrin,HAS_SIDE_EFFECT,Headache
+Photofrin,HAS_SIDE_EFFECT,Cardiac disorder
+Photofrin,HAS_SIDE_EFFECT,Haematemesis
+Photofrin,HAS_SIDE_EFFECT,Haemoptysis
+Photofrin,HAS_SIDE_EFFECT,Haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Haemoglobin
+Photofrin,HAS_SIDE_EFFECT,Hiccups
+Photofrin,HAS_SIDE_EFFECT,Hypersensitivity
+Photofrin,HAS_SIDE_EFFECT,Hypertension
+Photofrin,HAS_SIDE_EFFECT,Hypoaesthesia
+Photofrin,HAS_SIDE_EFFECT,Hypokalaemia
+Photofrin,HAS_SIDE_EFFECT,Hypotension
+Photofrin,HAS_SIDE_EFFECT,Orthostatic hypotension
+Photofrin,HAS_SIDE_EFFECT,Immune system disorder
+Photofrin,HAS_SIDE_EFFECT,Keloid scar
+Photofrin,HAS_SIDE_EFFECT,Lentigo
+Photofrin,HAS_SIDE_EFFECT,Lethargy
+Photofrin,HAS_SIDE_EFFECT,Leukocytosis
+Photofrin,HAS_SIDE_EFFECT,Mediastinal disorder
+Photofrin,HAS_SIDE_EFFECT,Melaena
+Photofrin,HAS_SIDE_EFFECT,Fungal infection
+Photofrin,HAS_SIDE_EFFECT,Nasal congestion
+Photofrin,HAS_SIDE_EFFECT,Nausea
+Photofrin,HAS_SIDE_EFFECT,Neoplasm
+Photofrin,HAS_SIDE_EFFECT,Nervous system disorder
+Photofrin,HAS_SIDE_EFFECT,Melanocytic naevus
+Photofrin,HAS_SIDE_EFFECT,Night sweats
+Photofrin,HAS_SIDE_EFFECT,Nodule
+Photofrin,HAS_SIDE_EFFECT,Pain
+Photofrin,HAS_SIDE_EFFECT,Paraesthesia
+Photofrin,HAS_SIDE_EFFECT,Pharyngitis
+Photofrin,HAS_SIDE_EFFECT,Phlebitis
+Photofrin,HAS_SIDE_EFFECT,Pleural effusion
+Photofrin,HAS_SIDE_EFFECT,Pneumonia
+Photofrin,HAS_SIDE_EFFECT,Pneumonia aspiration
+Photofrin,HAS_SIDE_EFFECT,Polyp
+Photofrin,HAS_SIDE_EFFECT,Porphyrin metabolism disorder
+Photofrin,HAS_SIDE_EFFECT,Pruritus
+Photofrin,HAS_SIDE_EFFECT,Sinusitis
+Photofrin,HAS_SIDE_EFFECT,Skin infection
+Photofrin,HAS_SIDE_EFFECT,Skin lesion
+Photofrin,HAS_SIDE_EFFECT,Skin mass
+Photofrin,HAS_SIDE_EFFECT,Skin ulcer
+Photofrin,HAS_SIDE_EFFECT,Skin wrinkling
+Photofrin,HAS_SIDE_EFFECT,Tachycardia
+Photofrin,HAS_SIDE_EFFECT,Tinnitus
+Photofrin,HAS_SIDE_EFFECT,Tracheo-oesophageal fistula
+Photofrin,HAS_SIDE_EFFECT,Tremor
+Photofrin,HAS_SIDE_EFFECT,Urethral disorder
+Photofrin,HAS_SIDE_EFFECT,Urinary tract disorder
+Photofrin,HAS_SIDE_EFFECT,Urticaria
+Photofrin,HAS_SIDE_EFFECT,Angiopathy
+Photofrin,HAS_SIDE_EFFECT,Vitiligo
+Photofrin,HAS_SIDE_EFFECT,Vomiting
+Photofrin,HAS_SIDE_EFFECT,Weight decreased
+Photofrin,HAS_SIDE_EFFECT,Wheezing
+Photofrin,HAS_SIDE_EFFECT,Urinary retention
+Photofrin,HAS_SIDE_EFFECT,Agitation
+Photofrin,HAS_SIDE_EFFECT,Oedema peripheral
+Photofrin,HAS_SIDE_EFFECT,Cataract
+Photofrin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Photofrin,HAS_SIDE_EFFECT,Blood urea increased
+Photofrin,HAS_SIDE_EFFECT,Skin discolouration
+Photofrin,HAS_SIDE_EFFECT,Dry skin
+Photofrin,HAS_SIDE_EFFECT,Oesophageal ulcer
+Photofrin,HAS_SIDE_EFFECT,Abdominal rigidity
+Photofrin,HAS_SIDE_EFFECT,Haemoglobin decreased
+Photofrin,HAS_SIDE_EFFECT,Malnutrition
+Photofrin,HAS_SIDE_EFFECT,Photosensitivity reaction
+Photofrin,HAS_SIDE_EFFECT,Skin hyperpigmentation
+Photofrin,HAS_SIDE_EFFECT,Skin disorder
+Photofrin,HAS_SIDE_EFFECT,Scab
+Photofrin,HAS_SIDE_EFFECT,Odynophagia
+Photofrin,HAS_SIDE_EFFECT,Rash macular
+Photofrin,HAS_SIDE_EFFECT,Oesophageal pain
+Photofrin,HAS_SIDE_EFFECT,Malaise
+Photofrin,HAS_SIDE_EFFECT,Discomfort
+Photofrin,HAS_SIDE_EFFECT,Feeling abnormal
+Photofrin,HAS_SIDE_EFFECT,Ill-defined disorder
+Photofrin,HAS_SIDE_EFFECT,Dyspnoea exertional
+Photofrin,HAS_SIDE_EFFECT,Hair growth abnormal
+Photofrin,HAS_SIDE_EFFECT,Cold sweat
+Photofrin,HAS_SIDE_EFFECT,Decreased appetite
+Photofrin,HAS_SIDE_EFFECT,Abdominal discomfort
+Photofrin,HAS_SIDE_EFFECT,Abdominal pain upper
+Photofrin,HAS_SIDE_EFFECT,Abdominal pain lower
+Photofrin,HAS_SIDE_EFFECT,Rash erythematous
+Photofrin,HAS_SIDE_EFFECT,Exfoliative rash
+Photofrin,HAS_SIDE_EFFECT,Pulmonary function test decreased
+Photofrin,HAS_SIDE_EFFECT,Respiratory depression
+Photofrin,HAS_SIDE_EFFECT,Eye irritation
+Photofrin,HAS_SIDE_EFFECT,Chest discomfort
+Photofrin,HAS_SIDE_EFFECT,Productive cough
+Photofrin,HAS_SIDE_EFFECT,Oesophageal haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Electrolyte imbalance
+Photofrin,HAS_SIDE_EFFECT,Milia
+Photofrin,HAS_SIDE_EFFECT,Rash maculo-papular
+Photofrin,HAS_SIDE_EFFECT,Increased tendency to bruise
+Photofrin,HAS_SIDE_EFFECT,Chapped lips
+Photofrin,HAS_SIDE_EFFECT,Chills
+Photofrin,HAS_SIDE_EFFECT,Musculoskeletal chest pain
+Photofrin,HAS_SIDE_EFFECT,Pseudoporphyria
+Photofrin,HAS_SIDE_EFFECT,Regurgitation
+Photofrin,HAS_SIDE_EFFECT,Skin fragility
+Photofrin,HAS_SIDE_EFFECT,Blood chloride increased
+Photofrin,HAS_SIDE_EFFECT,Hot flush
+Photofrin,HAS_SIDE_EFFECT,Menopausal symptoms
+Photofrin,HAS_SIDE_EFFECT,Eye oedema
+Photofrin,HAS_SIDE_EFFECT,Haematocrit decreased
+Photofrin,HAS_SIDE_EFFECT,Oxygen saturation decreased
+Photofrin,HAS_SIDE_EFFECT,Infestation
+Photofrin,HAS_SIDE_EFFECT,Injection site erythema
+Photofrin,HAS_SIDE_EFFECT,Gastrointestinal necrosis
+Photofrin,HAS_SIDE_EFFECT,Blood albumin decreased
+Photofrin,HAS_SIDE_EFFECT,Protein total decreased
+Photofrin,HAS_SIDE_EFFECT,Joint range of motion decreased
+Photofrin,HAS_SIDE_EFFECT,Scar pain
+Photofrin,HAS_SIDE_EFFECT,Procedural pain
+Photofrin,HAS_SIDE_EFFECT,Insomnia
+Photofrin,HAS_SIDE_EFFECT,Post procedural haemorrhage
+Photofrin,HAS_SIDE_EFFECT,Respiratory tract congestion
+Photofrin,HAS_SIDE_EFFECT,Temperature intolerance
+Photofrin,HAS_SIDE_EFFECT,Severe acute respiratory syndrome
+Photofrin,HAS_SIDE_EFFECT,Excoriation
+Photofrin,HAS_SIDE_EFFECT,Rash papular
+Photofrin,HAS_SIDE_EFFECT,Oesophagitis ulcerative
+Photofrin,HAS_SIDE_EFFECT,Feeling hot
+Timentin,HAS_SIDE_EFFECT,Anaphylactic shock
+Timentin,HAS_SIDE_EFFECT,Diarrhoea
+Timentin,HAS_SIDE_EFFECT,Eosinophilia
+Timentin,HAS_SIDE_EFFECT,Toxic epidermal necrolysis
+Timentin,HAS_SIDE_EFFECT,Erythema multiforme
+Timentin,HAS_SIDE_EFFECT,Rash
+Timentin,HAS_SIDE_EFFECT,Dermatitis
+Timentin,HAS_SIDE_EFFECT,Haemorrhage
+Timentin,HAS_SIDE_EFFECT,Haemoglobin
+Timentin,HAS_SIDE_EFFECT,Hepatitis
+Timentin,HAS_SIDE_EFFECT,Hypersensitivity
+Timentin,HAS_SIDE_EFFECT,Hypokalaemia
+Timentin,HAS_SIDE_EFFECT,Jaundice cholestatic
+Timentin,HAS_SIDE_EFFECT,Leukopenia
+Timentin,HAS_SIDE_EFFECT,Nausea
+Timentin,HAS_SIDE_EFFECT,Pain
+Timentin,HAS_SIDE_EFFECT,Pruritus
+Timentin,HAS_SIDE_EFFECT,Convulsion
+Timentin,HAS_SIDE_EFFECT,Stevens-Johnson syndrome
+Timentin,HAS_SIDE_EFFECT,Swelling
+Timentin,HAS_SIDE_EFFECT,Thrombocytopenia
+Timentin,HAS_SIDE_EFFECT,Thrombophlebitis
+Timentin,HAS_SIDE_EFFECT,Urticaria
+Timentin,HAS_SIDE_EFFECT,Vomiting
+Timentin,HAS_SIDE_EFFECT,Cystitis haemorrhagic
+Timentin,HAS_SIDE_EFFECT,Induration
+Timentin,HAS_SIDE_EFFECT,Pseudomembranous colitis
+Sativex,HAS_SIDE_EFFECT,Gastrointestinal pain
+Sativex,HAS_SIDE_EFFECT,Abdominal pain
+Sativex,HAS_SIDE_EFFECT,Amnesia
+Sativex,HAS_SIDE_EFFECT,Decreased appetite
+Sativex,HAS_SIDE_EFFECT,Anxiety
+Sativex,HAS_SIDE_EFFECT,Asthenia
+Sativex,HAS_SIDE_EFFECT,Mental disorder
+Sativex,HAS_SIDE_EFFECT,Infection
+Sativex,HAS_SIDE_EFFECT,Confusional state
+Sativex,HAS_SIDE_EFFECT,Feeling abnormal
+Sativex,HAS_SIDE_EFFECT,Constipation
+Sativex,HAS_SIDE_EFFECT,Diarrhoea
+Sativex,HAS_SIDE_EFFECT,Dizziness
+Sativex,HAS_SIDE_EFFECT,Osteoarthritis
+Sativex,HAS_SIDE_EFFECT,Dysarthria
+Sativex,HAS_SIDE_EFFECT,Dysgeusia
+Sativex,HAS_SIDE_EFFECT,Eye disorder
+Sativex,HAS_SIDE_EFFECT,Fatigue
+Sativex,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Sativex,HAS_SIDE_EFFECT,Glossodynia
+Sativex,HAS_SIDE_EFFECT,Hallucination
+Sativex,HAS_SIDE_EFFECT,Cardiac disorder
+Sativex,HAS_SIDE_EFFECT,Hypertension
+Sativex,HAS_SIDE_EFFECT,Illusion
+Sativex,HAS_SIDE_EFFECT,Lethargy
+Sativex,HAS_SIDE_EFFECT,Mediastinal disorder
+Sativex,HAS_SIDE_EFFECT,Nausea
+Sativex,HAS_SIDE_EFFECT,Nervous system disorder
+Sativex,HAS_SIDE_EFFECT,Palpitations
+Sativex,HAS_SIDE_EFFECT,Pharyngitis
+Sativex,HAS_SIDE_EFFECT,Psychotic disorder
+Sativex,HAS_SIDE_EFFECT,Stomatitis
+Sativex,HAS_SIDE_EFFECT,Loss of consciousness
+Sativex,HAS_SIDE_EFFECT,Shock
+Sativex,HAS_SIDE_EFFECT,Syncope
+Sativex,HAS_SIDE_EFFECT,Tachycardia
+Sativex,HAS_SIDE_EFFECT,Tooth discolouration
+Sativex,HAS_SIDE_EFFECT,Ulcer
+Sativex,HAS_SIDE_EFFECT,Angiopathy
+Sativex,HAS_SIDE_EFFECT,Vertigo
+Sativex,HAS_SIDE_EFFECT,Vomiting
+Sativex,HAS_SIDE_EFFECT,Dry mouth
+Sativex,HAS_SIDE_EFFECT,Mood swings
+Sativex,HAS_SIDE_EFFECT,Affect lability
+Sativex,HAS_SIDE_EFFECT,Dissociation
+Sativex,HAS_SIDE_EFFECT,Mouth ulceration
+Sativex,HAS_SIDE_EFFECT,Malnutrition
+Sativex,HAS_SIDE_EFFECT,Oral pain
+Sativex,HAS_SIDE_EFFECT,Malaise
+Sativex,HAS_SIDE_EFFECT,Discomfort
+Sativex,HAS_SIDE_EFFECT,Ill-defined disorder
+Sativex,HAS_SIDE_EFFECT,Increased appetite
+Sativex,HAS_SIDE_EFFECT,Psychiatric symptom
+Sativex,HAS_SIDE_EFFECT,Disorientation
+Sativex,HAS_SIDE_EFFECT,Disturbance in attention
+Sativex,HAS_SIDE_EFFECT,Memory impairment
+Sativex,HAS_SIDE_EFFECT,Tenderness
+Sativex,HAS_SIDE_EFFECT,Euphoric mood
+Sativex,HAS_SIDE_EFFECT,Extrasystoles
+Sativex,HAS_SIDE_EFFECT,Ventricular extrasystoles
+Sativex,HAS_SIDE_EFFECT,Vision blurred
+Sativex,HAS_SIDE_EFFECT,Oral discomfort
+Sativex,HAS_SIDE_EFFECT,Suicidal ideation
+Sativex,HAS_SIDE_EFFECT,Delusional perception
+Sativex,HAS_SIDE_EFFECT,Application site irritation
+Sativex,HAS_SIDE_EFFECT,Instillation site pain
+Sativex,HAS_SIDE_EFFECT,Application site pain
+Sativex,HAS_SIDE_EFFECT,Feeling drunk
+Sativex,HAS_SIDE_EFFECT,Balance disorder
+Sativex,HAS_SIDE_EFFECT,Food allergy
+Sativex,HAS_SIDE_EFFECT,Pain
+Sativex,HAS_SIDE_EFFECT,Throat irritation
+Sativex,HAS_SIDE_EFFECT,Infestation
+Sativex,HAS_SIDE_EFFECT,Oral mucosal discolouration
+Sativex,HAS_SIDE_EFFECT,Oral disorder
+Sativex,HAS_SIDE_EFFECT,Paranoia
+Sativex,HAS_SIDE_EFFECT,Oral mucosal exfoliation
+Sativex,HAS_SIDE_EFFECT,Somnolence
+Lovaza,HAS_SIDE_EFFECT,Alopecia
+Lovaza,HAS_SIDE_EFFECT,Anaphylactic shock
+Lovaza,HAS_SIDE_EFFECT,Angina pectoris
+Lovaza,HAS_SIDE_EFFECT,Decreased appetite
+Lovaza,HAS_SIDE_EFFECT,Arrhythmia
+Lovaza,HAS_SIDE_EFFECT,Arthralgia
+Lovaza,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Lovaza,HAS_SIDE_EFFECT,Arthritis
+Lovaza,HAS_SIDE_EFFECT,Rheumatoid arthritis
+Lovaza,HAS_SIDE_EFFECT,Asthenia
+Lovaza,HAS_SIDE_EFFECT,Asthma
+Lovaza,HAS_SIDE_EFFECT,Back pain
+Lovaza,HAS_SIDE_EFFECT,Bronchitis
+Lovaza,HAS_SIDE_EFFECT,Neck pain
+Lovaza,HAS_SIDE_EFFECT,Cervix disorder
+Lovaza,HAS_SIDE_EFFECT,Chest pain
+Lovaza,HAS_SIDE_EFFECT,Colitis
+Lovaza,HAS_SIDE_EFFECT,Large intestine polyp
+Lovaza,HAS_SIDE_EFFECT,Infection
+Lovaza,HAS_SIDE_EFFECT,Constipation
+Lovaza,HAS_SIDE_EFFECT,Cyst
+Lovaza,HAS_SIDE_EFFECT,Sudden death
+Lovaza,HAS_SIDE_EFFECT,Dysphagia
+Lovaza,HAS_SIDE_EFFECT,Dizziness
+Lovaza,HAS_SIDE_EFFECT,Dysgeusia
+Lovaza,HAS_SIDE_EFFECT,Dyspepsia
+Lovaza,HAS_SIDE_EFFECT,Dyspnoea
+Lovaza,HAS_SIDE_EFFECT,Eczema
+Lovaza,HAS_SIDE_EFFECT,Oedema
+Lovaza,HAS_SIDE_EFFECT,Epididymitis
+Lovaza,HAS_SIDE_EFFECT,Epistaxis
+Lovaza,HAS_SIDE_EFFECT,Eructation
+Lovaza,HAS_SIDE_EFFECT,Rash
+Lovaza,HAS_SIDE_EFFECT,Dermatitis
+Lovaza,HAS_SIDE_EFFECT,VIIth nerve paralysis
+Lovaza,HAS_SIDE_EFFECT,Faecal incontinence
+Lovaza,HAS_SIDE_EFFECT,Body temperature increased
+Lovaza,HAS_SIDE_EFFECT,Gastritis
+Lovaza,HAS_SIDE_EFFECT,Gastroenteritis
+Lovaza,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Lovaza,HAS_SIDE_EFFECT,Cardiac arrest
+Lovaza,HAS_SIDE_EFFECT,Haemorrhagic disorder
+Lovaza,HAS_SIDE_EFFECT,Hyperglycaemia
+Lovaza,HAS_SIDE_EFFECT,Hyperlipidaemia
+Lovaza,HAS_SIDE_EFFECT,Hypertension
+Lovaza,HAS_SIDE_EFFECT,Influenza
+Lovaza,HAS_SIDE_EFFECT,Intestinal obstruction
+Lovaza,HAS_SIDE_EFFECT,Laryngitis
+Lovaza,HAS_SIDE_EFFECT,Melaena
+Lovaza,HAS_SIDE_EFFECT,Fungal infection
+Lovaza,HAS_SIDE_EFFECT,Myocardial infarction
+Lovaza,HAS_SIDE_EFFECT,Acute coronary syndrome
+Lovaza,HAS_SIDE_EFFECT,Neoplasm
+Lovaza,HAS_SIDE_EFFECT,Pain
+Lovaza,HAS_SIDE_EFFECT,Pancreatitis
+Lovaza,HAS_SIDE_EFFECT,Pharyngitis
+Lovaza,HAS_SIDE_EFFECT,Pneumonia
+Lovaza,HAS_SIDE_EFFECT,Polyp
+Lovaza,HAS_SIDE_EFFECT,Pruritus
+Lovaza,HAS_SIDE_EFFECT,Rhinitis
+Lovaza,HAS_SIDE_EFFECT,Sinusitis
+Lovaza,HAS_SIDE_EFFECT,Completed suicide
+Lovaza,HAS_SIDE_EFFECT,Hyperhidrosis
+Lovaza,HAS_SIDE_EFFECT,Loss of consciousness
+Lovaza,HAS_SIDE_EFFECT,Shock
+Lovaza,HAS_SIDE_EFFECT,Syncope
+Lovaza,HAS_SIDE_EFFECT,Tachycardia
+Lovaza,HAS_SIDE_EFFECT,Vertigo
+Lovaza,HAS_SIDE_EFFECT,Viral infection
+Lovaza,HAS_SIDE_EFFECT,Vomiting
+Lovaza,HAS_SIDE_EFFECT,Dry mouth
+Lovaza,HAS_SIDE_EFFECT,Peripheral vascular disorder
+Lovaza,HAS_SIDE_EFFECT,Central nervous system neoplasm
+Lovaza,HAS_SIDE_EFFECT,Chills
+Lovaza,HAS_SIDE_EFFECT,Skin odour abnormal
+Lovaza,HAS_SIDE_EFFECT,Mood swings
+Lovaza,HAS_SIDE_EFFECT,Affect lability
+Lovaza,HAS_SIDE_EFFECT,Cataract
+Lovaza,HAS_SIDE_EFFECT,Migraine
+Lovaza,HAS_SIDE_EFFECT,Fluid retention
+Lovaza,HAS_SIDE_EFFECT,Generalised oedema
+Lovaza,HAS_SIDE_EFFECT,Myocardial ischaemia
+Lovaza,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Lovaza,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Lovaza,HAS_SIDE_EFFECT,Tendon disorder
+Lovaza,HAS_SIDE_EFFECT,Malnutrition
+Lovaza,HAS_SIDE_EFFECT,Malaise
+Lovaza,HAS_SIDE_EFFECT,Discomfort
+Lovaza,HAS_SIDE_EFFECT,Feeling abnormal
+Lovaza,HAS_SIDE_EFFECT,Ill-defined disorder
+Lovaza,HAS_SIDE_EFFECT,Myalgia
+Lovaza,HAS_SIDE_EFFECT,Increased appetite
+Lovaza,HAS_SIDE_EFFECT,Anorectal discomfort
+Lovaza,HAS_SIDE_EFFECT,Rectal tenesmus
+Lovaza,HAS_SIDE_EFFECT,Proctalgia
+Lovaza,HAS_SIDE_EFFECT,Erectile dysfunction
+Lovaza,HAS_SIDE_EFFECT,Abdominal distension
+Lovaza,HAS_SIDE_EFFECT,Endometrial cancer
+Lovaza,HAS_SIDE_EFFECT,Lymphadenopathy
+Lovaza,HAS_SIDE_EFFECT,Cough
+Lovaza,HAS_SIDE_EFFECT,Infestation
+Lovaza,HAS_SIDE_EFFECT,Insomnia
+Lovaza,HAS_SIDE_EFFECT,Renal cyst
+Saxagliptin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Saxagliptin,HAS_SIDE_EFFECT,Abdominal pain
+Saxagliptin,HAS_SIDE_EFFECT,Pancreatitis acute
+Saxagliptin,HAS_SIDE_EFFECT,Anaphylactic shock
+Saxagliptin,HAS_SIDE_EFFECT,Angioedema
+Saxagliptin,HAS_SIDE_EFFECT,Arthralgia
+Saxagliptin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Saxagliptin,HAS_SIDE_EFFECT,Infection
+Saxagliptin,HAS_SIDE_EFFECT,Dermatitis
+Saxagliptin,HAS_SIDE_EFFECT,Dizziness
+Saxagliptin,HAS_SIDE_EFFECT,Dyspepsia
+Saxagliptin,HAS_SIDE_EFFECT,Rash
+Saxagliptin,HAS_SIDE_EFFECT,Fatigue
+Saxagliptin,HAS_SIDE_EFFECT,Asthenia
+Saxagliptin,HAS_SIDE_EFFECT,Flatulence
+Saxagliptin,HAS_SIDE_EFFECT,Multiple fractures
+Saxagliptin,HAS_SIDE_EFFECT,Fracture
+Saxagliptin,HAS_SIDE_EFFECT,Gastritis
+Saxagliptin,HAS_SIDE_EFFECT,Gastroenteritis
+Saxagliptin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Saxagliptin,HAS_SIDE_EFFECT,Headache
+Saxagliptin,HAS_SIDE_EFFECT,Hypersensitivity
+Saxagliptin,HAS_SIDE_EFFECT,Hypertriglyceridaemia
+Saxagliptin,HAS_SIDE_EFFECT,Blood triglycerides increased
+Saxagliptin,HAS_SIDE_EFFECT,Hypoglycaemia
+Saxagliptin,HAS_SIDE_EFFECT,Immunodeficiency
+Saxagliptin,HAS_SIDE_EFFECT,Immune system disorder
+Saxagliptin,HAS_SIDE_EFFECT,Renal failure chronic
+Saxagliptin,HAS_SIDE_EFFECT,Lymphopenia
+Saxagliptin,HAS_SIDE_EFFECT,Nasopharyngitis
+Saxagliptin,HAS_SIDE_EFFECT,Nausea
+Saxagliptin,HAS_SIDE_EFFECT,Opportunistic infection
+Saxagliptin,HAS_SIDE_EFFECT,Pancreatitis
+Saxagliptin,HAS_SIDE_EFFECT,Pruritus
+Saxagliptin,HAS_SIDE_EFFECT,Sinusitis
+Saxagliptin,HAS_SIDE_EFFECT,Skin disorder
+Saxagliptin,HAS_SIDE_EFFECT,Thrombocytopenia
+Saxagliptin,HAS_SIDE_EFFECT,Tuberculosis
+Saxagliptin,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Saxagliptin,HAS_SIDE_EFFECT,Urinary tract infection
+Saxagliptin,HAS_SIDE_EFFECT,Urticaria
+Saxagliptin,HAS_SIDE_EFFECT,Vomiting
+Saxagliptin,HAS_SIDE_EFFECT,Purpura
+Saxagliptin,HAS_SIDE_EFFECT,Idiopathic thrombocytopenic purpura
+Saxagliptin,HAS_SIDE_EFFECT,Oedema peripheral
+Saxagliptin,HAS_SIDE_EFFECT,Salmonella sepsis
+Saxagliptin,HAS_SIDE_EFFECT,Malnutrition
+Saxagliptin,HAS_SIDE_EFFECT,Myalgia
+Saxagliptin,HAS_SIDE_EFFECT,Blood creatinine increased
+Saxagliptin,HAS_SIDE_EFFECT,Dyslipidaemia
+Saxagliptin,HAS_SIDE_EFFECT,Erectile dysfunction
+Saxagliptin,HAS_SIDE_EFFECT,Face oedema
+Saxagliptin,HAS_SIDE_EFFECT,Infestation
+Saxagliptin,HAS_SIDE_EFFECT,Blood creatine phosphokinase increased
+Zyprexa,HAS_SIDE_EFFECT,Abdominal distension
+Zyprexa,HAS_SIDE_EFFECT,Aggression
+Zyprexa,HAS_SIDE_EFFECT,Alopecia
+Zyprexa,HAS_SIDE_EFFECT,Amenorrhoea
+Zyprexa,HAS_SIDE_EFFECT,Amnesia
+Zyprexa,HAS_SIDE_EFFECT,Angioedema
+Zyprexa,HAS_SIDE_EFFECT,Anxiety
+Zyprexa,HAS_SIDE_EFFECT,Arthralgia
+Zyprexa,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Zyprexa,HAS_SIDE_EFFECT,Asthenia
+Zyprexa,HAS_SIDE_EFFECT,Ataxia
+Zyprexa,HAS_SIDE_EFFECT,Coma
+Zyprexa,HAS_SIDE_EFFECT,Confusional state
+Zyprexa,HAS_SIDE_EFFECT,Feeling abnormal
+Zyprexa,HAS_SIDE_EFFECT,Constipation
+Zyprexa,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Zyprexa,HAS_SIDE_EFFECT,Libido decreased
+Zyprexa,HAS_SIDE_EFFECT,Delirium
+Zyprexa,HAS_SIDE_EFFECT,Diabetes mellitus
+Zyprexa,HAS_SIDE_EFFECT,Diabetic ketoacidosis
+Zyprexa,HAS_SIDE_EFFECT,Dizziness
+Zyprexa,HAS_SIDE_EFFECT,Osteoarthritis
+Zyprexa,HAS_SIDE_EFFECT,Dysarthria
+Zyprexa,HAS_SIDE_EFFECT,Dyskinesia
+Zyprexa,HAS_SIDE_EFFECT,Eosinophilia
+Zyprexa,HAS_SIDE_EFFECT,Epistaxis
+Zyprexa,HAS_SIDE_EFFECT,Rash
+Zyprexa,HAS_SIDE_EFFECT,Dermatitis
+Zyprexa,HAS_SIDE_EFFECT,Extrapyramidal disorder
+Zyprexa,HAS_SIDE_EFFECT,Fatigue
+Zyprexa,HAS_SIDE_EFFECT,Body temperature increased
+Zyprexa,HAS_SIDE_EFFECT,Glycosuria
+Zyprexa,HAS_SIDE_EFFECT,Gynaecomastia
+Zyprexa,HAS_SIDE_EFFECT,Hallucination
+Zyprexa,HAS_SIDE_EFFECT,Cardiac arrest
+Zyprexa,HAS_SIDE_EFFECT,Hepatitis
+Zyprexa,HAS_SIDE_EFFECT,Hypercholesterolaemia
+Zyprexa,HAS_SIDE_EFFECT,Hyperglycaemia
+Zyprexa,HAS_SIDE_EFFECT,Hypersensitivity
+Zyprexa,HAS_SIDE_EFFECT,Hypertension
+Zyprexa,HAS_SIDE_EFFECT,Hypertriglyceridaemia
+Zyprexa,HAS_SIDE_EFFECT,Blood triglycerides increased
+Zyprexa,HAS_SIDE_EFFECT,Hypotension
+Zyprexa,HAS_SIDE_EFFECT,Orthostatic hypotension
+Zyprexa,HAS_SIDE_EFFECT,Jaundice
+Zyprexa,HAS_SIDE_EFFECT,Lethargy
+Zyprexa,HAS_SIDE_EFFECT,Leukopenia
+Zyprexa,HAS_SIDE_EFFECT,Nausea
+Zyprexa,HAS_SIDE_EFFECT,Neuroleptic malignant syndrome
+Zyprexa,HAS_SIDE_EFFECT,Neutropenia
+Zyprexa,HAS_SIDE_EFFECT,Obesity
+Zyprexa,HAS_SIDE_EFFECT,Pancreatitis
+Zyprexa,HAS_SIDE_EFFECT,Parkinsonism
+Zyprexa,HAS_SIDE_EFFECT,Parkinson's disease
+Zyprexa,HAS_SIDE_EFFECT,Pneumonia
+Zyprexa,HAS_SIDE_EFFECT,Priapism
+Zyprexa,HAS_SIDE_EFFECT,Pruritus
+Zyprexa,HAS_SIDE_EFFECT,Pulmonary embolism
+Zyprexa,HAS_SIDE_EFFECT,Rhabdomyolysis
+Zyprexa,HAS_SIDE_EFFECT,Convulsion
+Zyprexa,HAS_SIDE_EFFECT,Speech disorder
+Zyprexa,HAS_SIDE_EFFECT,Hyperhidrosis
+Zyprexa,HAS_SIDE_EFFECT,Loss of consciousness
+Zyprexa,HAS_SIDE_EFFECT,Shock
+Zyprexa,HAS_SIDE_EFFECT,Syncope
+Zyprexa,HAS_SIDE_EFFECT,Tachycardia
+Zyprexa,HAS_SIDE_EFFECT,Thrombocytopenia
+Zyprexa,HAS_SIDE_EFFECT,Torsade de pointes
+Zyprexa,HAS_SIDE_EFFECT,Tremor
+Zyprexa,HAS_SIDE_EFFECT,Urinary incontinence
+Zyprexa,HAS_SIDE_EFFECT,Urticaria
+Zyprexa,HAS_SIDE_EFFECT,Vomiting
+Zyprexa,HAS_SIDE_EFFECT,Weight increased
+Zyprexa,HAS_SIDE_EFFECT,Weight decreased
+Zyprexa,HAS_SIDE_EFFECT,Dry mouth
+Zyprexa,HAS_SIDE_EFFECT,Urinary retention
+Zyprexa,HAS_SIDE_EFFECT,Ventricular arrhythmia
+Zyprexa,HAS_SIDE_EFFECT,Agitation
+Zyprexa,HAS_SIDE_EFFECT,Oedema peripheral
+Zyprexa,HAS_SIDE_EFFECT,Deep vein thrombosis
+Zyprexa,HAS_SIDE_EFFECT,Injection site abscess
+Zyprexa,HAS_SIDE_EFFECT,Blood creatine phosphokinase increased
+Zyprexa,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+Zyprexa,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+Zyprexa,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Zyprexa,HAS_SIDE_EFFECT,Urinary hesitation
+Zyprexa,HAS_SIDE_EFFECT,Photosensitivity reaction
+Zyprexa,HAS_SIDE_EFFECT,Increased appetite
+Zyprexa,HAS_SIDE_EFFECT,Galactorrhoea
+Zyprexa,HAS_SIDE_EFFECT,Erectile dysfunction
+Zyprexa,HAS_SIDE_EFFECT,Hepatobiliary disease
+Zyprexa,HAS_SIDE_EFFECT,Cognitive disorder
+Zyprexa,HAS_SIDE_EFFECT,Anaphylactic shock
+Zyprexa,HAS_SIDE_EFFECT,Anaphylactoid reaction
+Zyprexa,HAS_SIDE_EFFECT,Akathisia
+Zyprexa,HAS_SIDE_EFFECT,Bradycardia
+Zyprexa,HAS_SIDE_EFFECT,Dementia
+Zyprexa,HAS_SIDE_EFFECT,Sudden death
+Zyprexa,HAS_SIDE_EFFECT,Blood prolactin increased
+Zyprexa,HAS_SIDE_EFFECT,Gait disturbance
+Zyprexa,HAS_SIDE_EFFECT,Tardive dyskinesia
+Zyprexa,HAS_SIDE_EFFECT,Blood bilirubin increased
+Zyprexa,HAS_SIDE_EFFECT,Blood glucose increased
+Zyprexa,HAS_SIDE_EFFECT,Hypersomnia
+Zyprexa,HAS_SIDE_EFFECT,Insomnia
+Zyprexa,HAS_SIDE_EFFECT,Blood uric acid increased
+Zyprexa,HAS_SIDE_EFFECT,Diabetic coma
+Zyprexa,HAS_SIDE_EFFECT,Diabetic hyperglycaemic coma
+Zyprexa,HAS_SIDE_EFFECT,Embolism venous
+Zyprexa,HAS_SIDE_EFFECT,Breast enlargement
+Zyprexa,HAS_SIDE_EFFECT,Somnolence
+Zyprexa,HAS_SIDE_EFFECT,Blood bilirubin decreased
+Carfilzomib,HAS_SIDE_EFFECT,Anaemia
+Carfilzomib,HAS_SIDE_EFFECT,Decreased appetite
+Carfilzomib,HAS_SIDE_EFFECT,Arthralgia
+Carfilzomib,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Carfilzomib,HAS_SIDE_EFFECT,Asthenia
+Carfilzomib,HAS_SIDE_EFFECT,Back pain
+Carfilzomib,HAS_SIDE_EFFECT,Bacterial infection
+Carfilzomib,HAS_SIDE_EFFECT,Musculoskeletal chest pain
+Carfilzomib,HAS_SIDE_EFFECT,Infection
+Carfilzomib,HAS_SIDE_EFFECT,Constipation
+Carfilzomib,HAS_SIDE_EFFECT,Cough
+Carfilzomib,HAS_SIDE_EFFECT,Diarrhoea
+Carfilzomib,HAS_SIDE_EFFECT,Dizziness
+Carfilzomib,HAS_SIDE_EFFECT,Dyspnoea
+Carfilzomib,HAS_SIDE_EFFECT,Fatigue
+Carfilzomib,HAS_SIDE_EFFECT,Body temperature increased
+Carfilzomib,HAS_SIDE_EFFECT,Headache
+Carfilzomib,HAS_SIDE_EFFECT,Cardiac arrest
+Carfilzomib,HAS_SIDE_EFFECT,Cardiac disorder
+Carfilzomib,HAS_SIDE_EFFECT,Cardiac failure congestive
+Carfilzomib,HAS_SIDE_EFFECT,Herpes virus infection
+Carfilzomib,HAS_SIDE_EFFECT,Hypercalcaemia
+Carfilzomib,HAS_SIDE_EFFECT,Hyperglycaemia
+Carfilzomib,HAS_SIDE_EFFECT,Hypertension
+Carfilzomib,HAS_SIDE_EFFECT,Pulmonary hypertension
+Carfilzomib,HAS_SIDE_EFFECT,Hypoaesthesia
+Carfilzomib,HAS_SIDE_EFFECT,Hypokalaemia
+Carfilzomib,HAS_SIDE_EFFECT,Hyponatraemia
+Carfilzomib,HAS_SIDE_EFFECT,Renal failure acute
+Carfilzomib,HAS_SIDE_EFFECT,Leukopenia
+Carfilzomib,HAS_SIDE_EFFECT,Lymphopenia
+Carfilzomib,HAS_SIDE_EFFECT,Multi-organ failure
+Carfilzomib,HAS_SIDE_EFFECT,Nausea
+Carfilzomib,HAS_SIDE_EFFECT,Neutropenia
+Carfilzomib,HAS_SIDE_EFFECT,Pain
+Carfilzomib,HAS_SIDE_EFFECT,Pain in extremity
+Carfilzomib,HAS_SIDE_EFFECT,Neuropathy peripheral
+Carfilzomib,HAS_SIDE_EFFECT,Pneumonia
+Carfilzomib,HAS_SIDE_EFFECT,Renal failure
+Carfilzomib,HAS_SIDE_EFFECT,Muscle spasms
+Carfilzomib,HAS_SIDE_EFFECT,Thrombocytopenia
+Carfilzomib,HAS_SIDE_EFFECT,Tumour lysis syndrome
+Carfilzomib,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Carfilzomib,HAS_SIDE_EFFECT,Vomiting
+Carfilzomib,HAS_SIDE_EFFECT,Chills
+Carfilzomib,HAS_SIDE_EFFECT,Hepatic failure
+Carfilzomib,HAS_SIDE_EFFECT,Oedema peripheral
+Carfilzomib,HAS_SIDE_EFFECT,Hypophosphataemia
+Carfilzomib,HAS_SIDE_EFFECT,Peripheral sensory neuropathy
+Carfilzomib,HAS_SIDE_EFFECT,Haemorrhage intracranial
+Carfilzomib,HAS_SIDE_EFFECT,Hypomagnesaemia
+Carfilzomib,HAS_SIDE_EFFECT,Myocardial ischaemia
+Carfilzomib,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Carfilzomib,HAS_SIDE_EFFECT,Neuritis
+Carfilzomib,HAS_SIDE_EFFECT,Peripheral motor neuropathy
+Carfilzomib,HAS_SIDE_EFFECT,Blood creatinine increased
+Carfilzomib,HAS_SIDE_EFFECT,Disease progression
+Carfilzomib,HAS_SIDE_EFFECT,Sepsis
+Carfilzomib,HAS_SIDE_EFFECT,Organ failure
+Carfilzomib,HAS_SIDE_EFFECT,Death
+Carfilzomib,HAS_SIDE_EFFECT,Insomnia
+Carfilzomib,HAS_SIDE_EFFECT,Acute coronary syndrome
+Forteo,HAS_SIDE_EFFECT,Anaphylactic shock
+Forteo,HAS_SIDE_EFFECT,Anaemia
+Forteo,HAS_SIDE_EFFECT,Angina pectoris
+Forteo,HAS_SIDE_EFFECT,Angioedema
+Forteo,HAS_SIDE_EFFECT,Anxiety
+Forteo,HAS_SIDE_EFFECT,Arthralgia
+Forteo,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Forteo,HAS_SIDE_EFFECT,Asthenia
+Forteo,HAS_SIDE_EFFECT,Mental disorder
+Forteo,HAS_SIDE_EFFECT,Bone disorder
+Forteo,HAS_SIDE_EFFECT,Bone neoplasm
+Forteo,HAS_SIDE_EFFECT,Neck pain
+Forteo,HAS_SIDE_EFFECT,Chest pain
+Forteo,HAS_SIDE_EFFECT,Connective tissue disorder
+Forteo,HAS_SIDE_EFFECT,Constipation
+Forteo,HAS_SIDE_EFFECT,Contusion
+Forteo,HAS_SIDE_EFFECT,Depression
+Forteo,HAS_SIDE_EFFECT,Diarrhoea
+Forteo,HAS_SIDE_EFFECT,Dizziness
+Forteo,HAS_SIDE_EFFECT,Drug hypersensitivity
+Forteo,HAS_SIDE_EFFECT,Dyspepsia
+Forteo,HAS_SIDE_EFFECT,Dyspnoea
+Forteo,HAS_SIDE_EFFECT,Oedema
+Forteo,HAS_SIDE_EFFECT,Rash
+Forteo,HAS_SIDE_EFFECT,Dermatitis
+Forteo,HAS_SIDE_EFFECT,Fatigue
+Forteo,HAS_SIDE_EFFECT,Gastritis
+Forteo,HAS_SIDE_EFFECT,Gastrooesophageal reflux disease
+Forteo,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Forteo,HAS_SIDE_EFFECT,Gout
+Forteo,HAS_SIDE_EFFECT,Headache
+Forteo,HAS_SIDE_EFFECT,Cardiac disorder
+Forteo,HAS_SIDE_EFFECT,Cardiac murmur
+Forteo,HAS_SIDE_EFFECT,Haemorrhage
+Forteo,HAS_SIDE_EFFECT,Haemoglobin
+Forteo,HAS_SIDE_EFFECT,Haemorrhoids
+Forteo,HAS_SIDE_EFFECT,Herpes zoster
+Forteo,HAS_SIDE_EFFECT,Hypercalcaemia
+Forteo,HAS_SIDE_EFFECT,Hypercalciuria
+Forteo,HAS_SIDE_EFFECT,Hypercholesterolaemia
+Forteo,HAS_SIDE_EFFECT,Hypersensitivity
+Forteo,HAS_SIDE_EFFECT,Hypertension
+Forteo,HAS_SIDE_EFFECT,Hypotension
+Forteo,HAS_SIDE_EFFECT,Muscle spasms
+Forteo,HAS_SIDE_EFFECT,Back pain
+Forteo,HAS_SIDE_EFFECT,Mediastinal disorder
+Forteo,HAS_SIDE_EFFECT,Nausea
+Forteo,HAS_SIDE_EFFECT,Nervous system disorder
+Forteo,HAS_SIDE_EFFECT,Osteosarcoma
+Forteo,HAS_SIDE_EFFECT,Pain
+Forteo,HAS_SIDE_EFFECT,Pain in extremity
+Forteo,HAS_SIDE_EFFECT,Palpitations
+Forteo,HAS_SIDE_EFFECT,Pharyngitis
+Forteo,HAS_SIDE_EFFECT,Pneumonia
+Forteo,HAS_SIDE_EFFECT,Polyuria
+Forteo,HAS_SIDE_EFFECT,Urine output increased
+Forteo,HAS_SIDE_EFFECT,Pruritus
+Forteo,HAS_SIDE_EFFECT,Emphysema
+Forteo,HAS_SIDE_EFFECT,Renal failure
+Forteo,HAS_SIDE_EFFECT,Rhinitis
+Forteo,HAS_SIDE_EFFECT,Sciatica
+Forteo,HAS_SIDE_EFFECT,Hyperhidrosis
+Forteo,HAS_SIDE_EFFECT,Swelling
+Forteo,HAS_SIDE_EFFECT,Loss of consciousness
+Forteo,HAS_SIDE_EFFECT,Shock
+Forteo,HAS_SIDE_EFFECT,Syncope
+Forteo,HAS_SIDE_EFFECT,Tachycardia
+Forteo,HAS_SIDE_EFFECT,Tooth disorder
+Forteo,HAS_SIDE_EFFECT,Erythema
+Forteo,HAS_SIDE_EFFECT,Urinary incontinence
+Forteo,HAS_SIDE_EFFECT,Urethral disorder
+Forteo,HAS_SIDE_EFFECT,Urinary tract disorder
+Forteo,HAS_SIDE_EFFECT,Urticaria
+Forteo,HAS_SIDE_EFFECT,Angiopathy
+Forteo,HAS_SIDE_EFFECT,Vertigo
+Forteo,HAS_SIDE_EFFECT,Vomiting
+Forteo,HAS_SIDE_EFFECT,Weight increased
+Forteo,HAS_SIDE_EFFECT,Pollakiuria
+Forteo,HAS_SIDE_EFFECT,Micturition urgency
+Forteo,HAS_SIDE_EFFECT,Injection site haemorrhage
+Forteo,HAS_SIDE_EFFECT,Injection site reaction
+Forteo,HAS_SIDE_EFFECT,Injection site pain
+Forteo,HAS_SIDE_EFFECT,Malnutrition
+Forteo,HAS_SIDE_EFFECT,Skin disorder
+Forteo,HAS_SIDE_EFFECT,Myalgia
+Forteo,HAS_SIDE_EFFECT,Osteosarcoma metastatic
+Forteo,HAS_SIDE_EFFECT,Nephrolithiasis
+Forteo,HAS_SIDE_EFFECT,Calculus urinary
+Forteo,HAS_SIDE_EFFECT,Face oedema
+Forteo,HAS_SIDE_EFFECT,Cough
+Forteo,HAS_SIDE_EFFECT,Blood uric acid increased
+Forteo,HAS_SIDE_EFFECT,Hyperuricaemia
+Forteo,HAS_SIDE_EFFECT,Injection site erythema
+Forteo,HAS_SIDE_EFFECT,Insomnia
+Forteo,HAS_SIDE_EFFECT,Hiatus hernia
+Bivalirudin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Bivalirudin,HAS_SIDE_EFFECT,Abdominal pain
+Bivalirudin,HAS_SIDE_EFFECT,Anaphylactic shock
+Bivalirudin,HAS_SIDE_EFFECT,Anaemia
+Bivalirudin,HAS_SIDE_EFFECT,Angina pectoris
+Bivalirudin,HAS_SIDE_EFFECT,Anxiety
+Bivalirudin,HAS_SIDE_EFFECT,Arteriovenous fistula
+Bivalirudin,HAS_SIDE_EFFECT,Pneumothorax
+Bivalirudin,HAS_SIDE_EFFECT,Atelectasis
+Bivalirudin,HAS_SIDE_EFFECT,Atrial fibrillation
+Bivalirudin,HAS_SIDE_EFFECT,Back pain
+Bivalirudin,HAS_SIDE_EFFECT,Coagulopathy
+Bivalirudin,HAS_SIDE_EFFECT,Cardiac tamponade
+Bivalirudin,HAS_SIDE_EFFECT,Chest pain
+Bivalirudin,HAS_SIDE_EFFECT,Infection
+Bivalirudin,HAS_SIDE_EFFECT,Compartment syndrome
+Bivalirudin,HAS_SIDE_EFFECT,Confusional state
+Bivalirudin,HAS_SIDE_EFFECT,Feeling abnormal
+Bivalirudin,HAS_SIDE_EFFECT,Connective tissue disorder
+Bivalirudin,HAS_SIDE_EFFECT,Contusion
+Bivalirudin,HAS_SIDE_EFFECT,Coronary artery thrombosis
+Bivalirudin,HAS_SIDE_EFFECT,Dyspepsia
+Bivalirudin,HAS_SIDE_EFFECT,Dyspnoea
+Bivalirudin,HAS_SIDE_EFFECT,Ecchymosis
+Bivalirudin,HAS_SIDE_EFFECT,Epistaxis
+Bivalirudin,HAS_SIDE_EFFECT,Rash
+Bivalirudin,HAS_SIDE_EFFECT,Dermatitis
+Bivalirudin,HAS_SIDE_EFFECT,Eye disorder
+Bivalirudin,HAS_SIDE_EFFECT,Eye haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,VIIth nerve paralysis
+Bivalirudin,HAS_SIDE_EFFECT,Body temperature increased
+Bivalirudin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Bivalirudin,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Gingival bleeding
+Bivalirudin,HAS_SIDE_EFFECT,Headache
+Bivalirudin,HAS_SIDE_EFFECT,Cardiac disorder
+Bivalirudin,HAS_SIDE_EFFECT,Haematemesis
+Bivalirudin,HAS_SIDE_EFFECT,Haematoma
+Bivalirudin,HAS_SIDE_EFFECT,Haematuria
+Bivalirudin,HAS_SIDE_EFFECT,Pericardial haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Peritoneal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Haemoptysis
+Bivalirudin,HAS_SIDE_EFFECT,Haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Haemoglobin
+Bivalirudin,HAS_SIDE_EFFECT,Hypersensitivity
+Bivalirudin,HAS_SIDE_EFFECT,Hypertension
+Bivalirudin,HAS_SIDE_EFFECT,Hypotension
+Bivalirudin,HAS_SIDE_EFFECT,Immune system disorder
+Bivalirudin,HAS_SIDE_EFFECT,Mediastinal disorder
+Bivalirudin,HAS_SIDE_EFFECT,Melaena
+Bivalirudin,HAS_SIDE_EFFECT,Myocardial infarction
+Bivalirudin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Bivalirudin,HAS_SIDE_EFFECT,Nausea
+Bivalirudin,HAS_SIDE_EFFECT,Nervous system disorder
+Bivalirudin,HAS_SIDE_EFFECT,Nervousness
+Bivalirudin,HAS_SIDE_EFFECT,Tension
+Bivalirudin,HAS_SIDE_EFFECT,Oliguria
+Bivalirudin,HAS_SIDE_EFFECT,Pain
+Bivalirudin,HAS_SIDE_EFFECT,Pelvic pain
+Bivalirudin,HAS_SIDE_EFFECT,Petechiae
+Bivalirudin,HAS_SIDE_EFFECT,Pleural effusion
+Bivalirudin,HAS_SIDE_EFFECT,Post procedural haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Pulmonary oedema
+Bivalirudin,HAS_SIDE_EFFECT,Renal failure
+Bivalirudin,HAS_SIDE_EFFECT,Reperfusion injury
+Bivalirudin,HAS_SIDE_EFFECT,Shock
+Bivalirudin,HAS_SIDE_EFFECT,Dizziness
+Bivalirudin,HAS_SIDE_EFFECT,Loss of consciousness
+Bivalirudin,HAS_SIDE_EFFECT,Syncope
+Bivalirudin,HAS_SIDE_EFFECT,Thrombocytopenia
+Bivalirudin,HAS_SIDE_EFFECT,Thrombosis
+Bivalirudin,HAS_SIDE_EFFECT,Urethral disorder
+Bivalirudin,HAS_SIDE_EFFECT,Urinary tract disorder
+Bivalirudin,HAS_SIDE_EFFECT,Urticaria
+Bivalirudin,HAS_SIDE_EFFECT,Angiopathy
+Bivalirudin,HAS_SIDE_EFFECT,Ventricular fibrillation
+Bivalirudin,HAS_SIDE_EFFECT,Ventricular tachycardia
+Bivalirudin,HAS_SIDE_EFFECT,Vomiting
+Bivalirudin,HAS_SIDE_EFFECT,Urinary retention
+Bivalirudin,HAS_SIDE_EFFECT,Injection site haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Haemorrhage intracranial
+Bivalirudin,HAS_SIDE_EFFECT,Pulmonary haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Retroperitoneal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Injection site reaction
+Bivalirudin,HAS_SIDE_EFFECT,Injection site pain
+Bivalirudin,HAS_SIDE_EFFECT,Vascular anomaly
+Bivalirudin,HAS_SIDE_EFFECT,Haemoglobin decreased
+Bivalirudin,HAS_SIDE_EFFECT,Skin disorder
+Bivalirudin,HAS_SIDE_EFFECT,Oesophageal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Groin pain
+Bivalirudin,HAS_SIDE_EFFECT,Sepsis
+Bivalirudin,HAS_SIDE_EFFECT,Ear haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Retroperitoneal haematoma
+Bivalirudin,HAS_SIDE_EFFECT,Increased tendency to bruise
+Bivalirudin,HAS_SIDE_EFFECT,Anal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Bradycardia
+Bivalirudin,HAS_SIDE_EFFECT,Electrocardiogram ST segment elevation
+Bivalirudin,HAS_SIDE_EFFECT,Surgery
+Bivalirudin,HAS_SIDE_EFFECT,Pharyngeal haemorrhage
+Bivalirudin,HAS_SIDE_EFFECT,Drug interaction
+Bivalirudin,HAS_SIDE_EFFECT,International normalised ratio increased
+Bivalirudin,HAS_SIDE_EFFECT,Cerebral ischaemia
+Bivalirudin,HAS_SIDE_EFFECT,Insomnia
+Bivalirudin,HAS_SIDE_EFFECT,Puncture site reaction
+Bivalirudin,HAS_SIDE_EFFECT,Injection site discomfort
+Bivalirudin,HAS_SIDE_EFFECT,Vascular pseudoaneurysm
+Bivalirudin,HAS_SIDE_EFFECT,Thrombosis in device
+Bivalirudin,HAS_SIDE_EFFECT,Vessel puncture site haematoma
+Enfuvirtide,HAS_SIDE_EFFECT,Gastrointestinal pain
+Enfuvirtide,HAS_SIDE_EFFECT,Abdominal pain
+Enfuvirtide,HAS_SIDE_EFFECT,Abscess
+Enfuvirtide,HAS_SIDE_EFFECT,Acquired immunodeficiency syndrome
+Enfuvirtide,HAS_SIDE_EFFECT,Autoimmune disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Anaphylactic shock
+Enfuvirtide,HAS_SIDE_EFFECT,Angina unstable
+Enfuvirtide,HAS_SIDE_EFFECT,Angina pectoris
+Enfuvirtide,HAS_SIDE_EFFECT,Decreased appetite
+Enfuvirtide,HAS_SIDE_EFFECT,Anxiety
+Enfuvirtide,HAS_SIDE_EFFECT,Arthralgia
+Enfuvirtide,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Enfuvirtide,HAS_SIDE_EFFECT,Asthenia
+Enfuvirtide,HAS_SIDE_EFFECT,Back pain
+Enfuvirtide,HAS_SIDE_EFFECT,Pneumonia bacterial
+Enfuvirtide,HAS_SIDE_EFFECT,Mental disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Bone disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Bronchopneumonia
+Enfuvirtide,HAS_SIDE_EFFECT,Oral candidiasis
+Enfuvirtide,HAS_SIDE_EFFECT,Candida infection
+Enfuvirtide,HAS_SIDE_EFFECT,Cellulitis
+Enfuvirtide,HAS_SIDE_EFFECT,Infection
+Enfuvirtide,HAS_SIDE_EFFECT,Conjunctivitis
+Enfuvirtide,HAS_SIDE_EFFECT,Constipation
+Enfuvirtide,HAS_SIDE_EFFECT,Contusion
+Enfuvirtide,HAS_SIDE_EFFECT,Cough
+Enfuvirtide,HAS_SIDE_EFFECT,Cyst
+Enfuvirtide,HAS_SIDE_EFFECT,Depression
+Enfuvirtide,HAS_SIDE_EFFECT,Diabetes mellitus
+Enfuvirtide,HAS_SIDE_EFFECT,Diarrhoea
+Enfuvirtide,HAS_SIDE_EFFECT,Dizziness
+Enfuvirtide,HAS_SIDE_EFFECT,Dysgeusia
+Enfuvirtide,HAS_SIDE_EFFECT,Ecchymosis
+Enfuvirtide,HAS_SIDE_EFFECT,Eosinophilia
+Enfuvirtide,HAS_SIDE_EFFECT,Rash
+Enfuvirtide,HAS_SIDE_EFFECT,Dermatitis
+Enfuvirtide,HAS_SIDE_EFFECT,Eye disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Fatigue
+Enfuvirtide,HAS_SIDE_EFFECT,Body temperature increased
+Enfuvirtide,HAS_SIDE_EFFECT,Folliculitis
+Enfuvirtide,HAS_SIDE_EFFECT,Gastrooesophageal reflux disease
+Enfuvirtide,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Glomerulonephritis
+Enfuvirtide,HAS_SIDE_EFFECT,Guillain-Barre syndrome
+Enfuvirtide,HAS_SIDE_EFFECT,Headache
+Enfuvirtide,HAS_SIDE_EFFECT,Cardiac disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Blood disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Haematoma
+Enfuvirtide,HAS_SIDE_EFFECT,Haematuria
+Enfuvirtide,HAS_SIDE_EFFECT,Hepatitis toxic
+Enfuvirtide,HAS_SIDE_EFFECT,Herpes simplex
+Enfuvirtide,HAS_SIDE_EFFECT,Hyperglycaemia
+Enfuvirtide,HAS_SIDE_EFFECT,Hypersensitivity
+Enfuvirtide,HAS_SIDE_EFFECT,Hypertriglyceridaemia
+Enfuvirtide,HAS_SIDE_EFFECT,Blood triglycerides increased
+Enfuvirtide,HAS_SIDE_EFFECT,Hypoaesthesia
+Enfuvirtide,HAS_SIDE_EFFECT,Hypotension
+Enfuvirtide,HAS_SIDE_EFFECT,Immune system disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Inflammation
+Enfuvirtide,HAS_SIDE_EFFECT,Influenza
+Enfuvirtide,HAS_SIDE_EFFECT,Irritability
+Enfuvirtide,HAS_SIDE_EFFECT,Nephrolithiasis
+Enfuvirtide,HAS_SIDE_EFFECT,Mediastinal disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Muscle spasms
+Enfuvirtide,HAS_SIDE_EFFECT,Nasal congestion
+Enfuvirtide,HAS_SIDE_EFFECT,Nausea
+Enfuvirtide,HAS_SIDE_EFFECT,Nervous system disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Neuralgia
+Enfuvirtide,HAS_SIDE_EFFECT,Neutropenia
+Enfuvirtide,HAS_SIDE_EFFECT,Night sweats
+Enfuvirtide,HAS_SIDE_EFFECT,Nightmare
+Enfuvirtide,HAS_SIDE_EFFECT,Nodule
+Enfuvirtide,HAS_SIDE_EFFECT,Opportunistic infection
+Enfuvirtide,HAS_SIDE_EFFECT,Pain
+Enfuvirtide,HAS_SIDE_EFFECT,Pain in extremity
+Enfuvirtide,HAS_SIDE_EFFECT,Pancreatitis
+Enfuvirtide,HAS_SIDE_EFFECT,Paraesthesia
+Enfuvirtide,HAS_SIDE_EFFECT,Neuropathy peripheral
+Enfuvirtide,HAS_SIDE_EFFECT,Pneumonia
+Enfuvirtide,HAS_SIDE_EFFECT,Pruritus
+Enfuvirtide,HAS_SIDE_EFFECT,Renal failure
+Enfuvirtide,HAS_SIDE_EFFECT,Seborrhoeic dermatitis
+Enfuvirtide,HAS_SIDE_EFFECT,Sinusitis
+Enfuvirtide,HAS_SIDE_EFFECT,Suicide attempt
+Enfuvirtide,HAS_SIDE_EFFECT,Thrombocytopenia
+Enfuvirtide,HAS_SIDE_EFFECT,Tremor
+Enfuvirtide,HAS_SIDE_EFFECT,Erythema
+Enfuvirtide,HAS_SIDE_EFFECT,Urethral disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Urinary tract disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Vertigo
+Enfuvirtide,HAS_SIDE_EFFECT,Vomiting
+Enfuvirtide,HAS_SIDE_EFFECT,Weight decreased
+Enfuvirtide,HAS_SIDE_EFFECT,Dry mouth
+Enfuvirtide,HAS_SIDE_EFFECT,Chills
+Enfuvirtide,HAS_SIDE_EFFECT,Amylase increased
+Enfuvirtide,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+Enfuvirtide,HAS_SIDE_EFFECT,Injection site reaction
+Enfuvirtide,HAS_SIDE_EFFECT,Injection site pain
+Enfuvirtide,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Enfuvirtide,HAS_SIDE_EFFECT,Dry skin
+Enfuvirtide,HAS_SIDE_EFFECT,Malnutrition
+Enfuvirtide,HAS_SIDE_EFFECT,Skin disorder
+Enfuvirtide,HAS_SIDE_EFFECT,Malaise
+Enfuvirtide,HAS_SIDE_EFFECT,Injection site infection
+Enfuvirtide,HAS_SIDE_EFFECT,Disability
+Enfuvirtide,HAS_SIDE_EFFECT,Myalgia
+Enfuvirtide,HAS_SIDE_EFFECT,Abdominal pain upper
+Enfuvirtide,HAS_SIDE_EFFECT,Disturbance in attention
+Enfuvirtide,HAS_SIDE_EFFECT,Discomfort
+Enfuvirtide,HAS_SIDE_EFFECT,Tenderness
+Enfuvirtide,HAS_SIDE_EFFECT,Oropharyngeal discomfort
+Enfuvirtide,HAS_SIDE_EFFECT,Oropharyngeal pain
+Enfuvirtide,HAS_SIDE_EFFECT,Sepsis
+Enfuvirtide,HAS_SIDE_EFFECT,Hepatobiliary disease
+Enfuvirtide,HAS_SIDE_EFFECT,VIth nerve paralysis
+Enfuvirtide,HAS_SIDE_EFFECT,Induration
+Enfuvirtide,HAS_SIDE_EFFECT,Skin papilloma
+Enfuvirtide,HAS_SIDE_EFFECT,Respiratory distress
+Enfuvirtide,HAS_SIDE_EFFECT,Lymphadenopathy
+Enfuvirtide,HAS_SIDE_EFFECT,Instillation site pain
+Enfuvirtide,HAS_SIDE_EFFECT,Application site pain
+Enfuvirtide,HAS_SIDE_EFFECT,Influenza like illness
+Enfuvirtide,HAS_SIDE_EFFECT,Lipase increased
+Enfuvirtide,HAS_SIDE_EFFECT,Ear infection
+Enfuvirtide,HAS_SIDE_EFFECT,Hyperhidrosis
+Enfuvirtide,HAS_SIDE_EFFECT,Acne
+Enfuvirtide,HAS_SIDE_EFFECT,Infestation
+Enfuvirtide,HAS_SIDE_EFFECT,Insomnia
+Enfuvirtide,HAS_SIDE_EFFECT,Renal impairment
+Enfuvirtide,HAS_SIDE_EFFECT,Renal tubular necrosis
+Enfuvirtide,HAS_SIDE_EFFECT,Administration site infection
+Enfuvirtide,HAS_SIDE_EFFECT,Type III immune complex mediated reaction
+Enfuvirtide,HAS_SIDE_EFFECT,Hepatic steatosis
+hepatitis,HAS_SIDE_EFFECT,Gastrointestinal pain
+hepatitis,HAS_SIDE_EFFECT,Abdominal pain
+hepatitis,HAS_SIDE_EFFECT,Alopecia
+hepatitis,HAS_SIDE_EFFECT,Anaphylactic shock
+hepatitis,HAS_SIDE_EFFECT,Angioedema
+hepatitis,HAS_SIDE_EFFECT,Decreased appetite
+hepatitis,HAS_SIDE_EFFECT,Apnoea
+hepatitis,HAS_SIDE_EFFECT,Arthralgia
+hepatitis,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+hepatitis,HAS_SIDE_EFFECT,Arthritis
+hepatitis,HAS_SIDE_EFFECT,Mental disorder
+hepatitis,HAS_SIDE_EFFECT,Coagulopathy
+hepatitis,HAS_SIDE_EFFECT,Bone disorder
+hepatitis,HAS_SIDE_EFFECT,Bronchospasm
+hepatitis,HAS_SIDE_EFFECT,Connective tissue disorder
+hepatitis,HAS_SIDE_EFFECT,Cough
+hepatitis,HAS_SIDE_EFFECT,Demyelination
+hepatitis,HAS_SIDE_EFFECT,Diarrhoea
+hepatitis,HAS_SIDE_EFFECT,Dizziness
+hepatitis,HAS_SIDE_EFFECT,Somnolence
+hepatitis,HAS_SIDE_EFFECT,Dysuria
+hepatitis,HAS_SIDE_EFFECT,Ecchymosis
+hepatitis,HAS_SIDE_EFFECT,Eczema
+hepatitis,HAS_SIDE_EFFECT,Encephalitis
+hepatitis,HAS_SIDE_EFFECT,Erythema multiforme
+hepatitis,HAS_SIDE_EFFECT,Rash
+hepatitis,HAS_SIDE_EFFECT,Dermatitis
+hepatitis,HAS_SIDE_EFFECT,Eye disorder
+hepatitis,HAS_SIDE_EFFECT,VIIth nerve paralysis
+hepatitis,HAS_SIDE_EFFECT,Fatigue
+hepatitis,HAS_SIDE_EFFECT,Asthenia
+hepatitis,HAS_SIDE_EFFECT,Body temperature increased
+hepatitis,HAS_SIDE_EFFECT,Flushing
+hepatitis,HAS_SIDE_EFFECT,Gastrointestinal disorder
+hepatitis,HAS_SIDE_EFFECT,Guillain-Barre syndrome
+hepatitis,HAS_SIDE_EFFECT,Headache
+hepatitis,HAS_SIDE_EFFECT,Blood disorder
+hepatitis,HAS_SIDE_EFFECT,Haemorrhage
+hepatitis,HAS_SIDE_EFFECT,Haemoglobin
+hepatitis,HAS_SIDE_EFFECT,Hypersensitivity
+hepatitis,HAS_SIDE_EFFECT,Type IV hypersensitivity reaction
+hepatitis,HAS_SIDE_EFFECT,Hypoaesthesia
+hepatitis,HAS_SIDE_EFFECT,Hypotension
+hepatitis,HAS_SIDE_EFFECT,Immune system disorder
+hepatitis,HAS_SIDE_EFFECT,Irritability
+hepatitis,HAS_SIDE_EFFECT,Lichen planus
+hepatitis,HAS_SIDE_EFFECT,Mediastinal disorder
+hepatitis,HAS_SIDE_EFFECT,Meningitis
+hepatitis,HAS_SIDE_EFFECT,Multiple sclerosis
+hepatitis,HAS_SIDE_EFFECT,Myelitis
+hepatitis,HAS_SIDE_EFFECT,Myelitis transverse
+hepatitis,HAS_SIDE_EFFECT,Nausea
+hepatitis,HAS_SIDE_EFFECT,Nervous system disorder
+hepatitis,HAS_SIDE_EFFECT,Neuritis
+hepatitis,HAS_SIDE_EFFECT,Neuropathy peripheral
+hepatitis,HAS_SIDE_EFFECT,Optic neuritis
+hepatitis,HAS_SIDE_EFFECT,Pain
+hepatitis,HAS_SIDE_EFFECT,Pain in extremity
+hepatitis,HAS_SIDE_EFFECT,Paraesthesia
+hepatitis,HAS_SIDE_EFFECT,Polyarteritis nodosa
+hepatitis,HAS_SIDE_EFFECT,Pharyngitis
+hepatitis,HAS_SIDE_EFFECT,Pregnancy
+hepatitis,HAS_SIDE_EFFECT,Pruritus
+hepatitis,HAS_SIDE_EFFECT,Convulsion
+hepatitis,HAS_SIDE_EFFECT,Serum sickness
+hepatitis,HAS_SIDE_EFFECT,Skin disorder
+hepatitis,HAS_SIDE_EFFECT,Hyperhidrosis
+hepatitis,HAS_SIDE_EFFECT,Swelling
+hepatitis,HAS_SIDE_EFFECT,Loss of consciousness
+hepatitis,HAS_SIDE_EFFECT,Shock
+hepatitis,HAS_SIDE_EFFECT,Syncope
+hepatitis,HAS_SIDE_EFFECT,Thrombocytopenia
+hepatitis,HAS_SIDE_EFFECT,Tinnitus
+hepatitis,HAS_SIDE_EFFECT,Erythema
+hepatitis,HAS_SIDE_EFFECT,Upper respiratory tract infection
+hepatitis,HAS_SIDE_EFFECT,Urticaria
+hepatitis,HAS_SIDE_EFFECT,Uveitis
+hepatitis,HAS_SIDE_EFFECT,Angiopathy
+hepatitis,HAS_SIDE_EFFECT,Vasculitis
+hepatitis,HAS_SIDE_EFFECT,Vertigo
+hepatitis,HAS_SIDE_EFFECT,Vomiting
+hepatitis,HAS_SIDE_EFFECT,Encephalopathy
+hepatitis,HAS_SIDE_EFFECT,Chills
+hepatitis,HAS_SIDE_EFFECT,Musculoskeletal stiffness
+hepatitis,HAS_SIDE_EFFECT,Nuchal rigidity
+hepatitis,HAS_SIDE_EFFECT,Injection site swelling
+hepatitis,HAS_SIDE_EFFECT,Injection site reaction
+hepatitis,HAS_SIDE_EFFECT,Liver function test abnormal
+hepatitis,HAS_SIDE_EFFECT,Muscular weakness
+hepatitis,HAS_SIDE_EFFECT,General symptom
+hepatitis,HAS_SIDE_EFFECT,Malnutrition
+hepatitis,HAS_SIDE_EFFECT,Malaise
+hepatitis,HAS_SIDE_EFFECT,Discomfort
+hepatitis,HAS_SIDE_EFFECT,Feeling abnormal
+hepatitis,HAS_SIDE_EFFECT,Ill-defined disorder
+hepatitis,HAS_SIDE_EFFECT,Myalgia
+hepatitis,HAS_SIDE_EFFECT,Tenderness
+hepatitis,HAS_SIDE_EFFECT,Induration
+hepatitis,HAS_SIDE_EFFECT,Anaphylactoid reaction
+hepatitis,HAS_SIDE_EFFECT,Influenza like illness
+hepatitis,HAS_SIDE_EFFECT,Lymphadenopathy
+hepatitis,HAS_SIDE_EFFECT,Paralysis
+hepatitis,HAS_SIDE_EFFECT,Visual impairment
+hepatitis,HAS_SIDE_EFFECT,Multiple sclerosis relapse
+hepatitis,HAS_SIDE_EFFECT,Infestation
+hepatitis,HAS_SIDE_EFFECT,Local reaction
+hepatitis,HAS_SIDE_EFFECT,Polyneuropathy
+NovoLog,HAS_SIDE_EFFECT,Gastrointestinal pain
+NovoLog,HAS_SIDE_EFFECT,Abdominal pain
+NovoLog,HAS_SIDE_EFFECT,Abortion spontaneous
+NovoLog,HAS_SIDE_EFFECT,Abortion missed
+NovoLog,HAS_SIDE_EFFECT,Anaphylactic shock
+NovoLog,HAS_SIDE_EFFECT,Angioedema
+NovoLog,HAS_SIDE_EFFECT,Anxiety
+NovoLog,HAS_SIDE_EFFECT,Arthralgia
+NovoLog,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+NovoLog,HAS_SIDE_EFFECT,Asthenia
+NovoLog,HAS_SIDE_EFFECT,Back pain
+NovoLog,HAS_SIDE_EFFECT,Breech presentation
+NovoLog,HAS_SIDE_EFFECT,Bronchitis
+NovoLog,HAS_SIDE_EFFECT,Chest pain
+NovoLog,HAS_SIDE_EFFECT,Infection
+NovoLog,HAS_SIDE_EFFECT,Confusional state
+NovoLog,HAS_SIDE_EFFECT,Feeling abnormal
+NovoLog,HAS_SIDE_EFFECT,Connective tissue disorder
+NovoLog,HAS_SIDE_EFFECT,Contusion
+NovoLog,HAS_SIDE_EFFECT,Diabetes mellitus
+NovoLog,HAS_SIDE_EFFECT,Type 2 diabetes mellitus
+NovoLog,HAS_SIDE_EFFECT,Diabetic ketoacidosis
+NovoLog,HAS_SIDE_EFFECT,Diabetic retinopathy
+NovoLog,HAS_SIDE_EFFECT,Diarrhoea
+NovoLog,HAS_SIDE_EFFECT,Somnolence
+NovoLog,HAS_SIDE_EFFECT,Dyspepsia
+NovoLog,HAS_SIDE_EFFECT,Oedema
+NovoLog,HAS_SIDE_EFFECT,Rash
+NovoLog,HAS_SIDE_EFFECT,Dermatitis
+NovoLog,HAS_SIDE_EFFECT,Eye disorder
+NovoLog,HAS_SIDE_EFFECT,Fatigue
+NovoLog,HAS_SIDE_EFFECT,Foetal death
+NovoLog,HAS_SIDE_EFFECT,Gastrointestinal disorder
+NovoLog,HAS_SIDE_EFFECT,Glycosuria
+NovoLog,HAS_SIDE_EFFECT,Headache
+NovoLog,HAS_SIDE_EFFECT,Hepatitis C
+NovoLog,HAS_SIDE_EFFECT,Hunger
+NovoLog,HAS_SIDE_EFFECT,Hyperemesis gravidarum
+NovoLog,HAS_SIDE_EFFECT,Hypernatraemia
+NovoLog,HAS_SIDE_EFFECT,Hypersensitivity
+NovoLog,HAS_SIDE_EFFECT,Hypoglycaemia
+NovoLog,HAS_SIDE_EFFECT,Hypoglycaemic coma
+NovoLog,HAS_SIDE_EFFECT,Immune system disorder
+NovoLog,HAS_SIDE_EFFECT,Inflammation
+NovoLog,HAS_SIDE_EFFECT,Ketosis
+NovoLog,HAS_SIDE_EFFECT,Premature labour
+NovoLog,HAS_SIDE_EFFECT,Lipodystrophy acquired
+NovoLog,HAS_SIDE_EFFECT,Mediastinal disorder
+NovoLog,HAS_SIDE_EFFECT,Nasal congestion
+NovoLog,HAS_SIDE_EFFECT,Nasopharyngitis
+NovoLog,HAS_SIDE_EFFECT,Nausea
+NovoLog,HAS_SIDE_EFFECT,Nervous system disorder
+NovoLog,HAS_SIDE_EFFECT,Nervousness
+NovoLog,HAS_SIDE_EFFECT,Tension
+NovoLog,HAS_SIDE_EFFECT,Pain
+NovoLog,HAS_SIDE_EFFECT,Pain in extremity
+NovoLog,HAS_SIDE_EFFECT,Palpitations
+NovoLog,HAS_SIDE_EFFECT,Neuropathy peripheral
+NovoLog,HAS_SIDE_EFFECT,Pharyngitis
+NovoLog,HAS_SIDE_EFFECT,Pneumothorax
+NovoLog,HAS_SIDE_EFFECT,Pregnancy
+NovoLog,HAS_SIDE_EFFECT,Pruritus
+NovoLog,HAS_SIDE_EFFECT,Refraction disorder
+NovoLog,HAS_SIDE_EFFECT,Retinal disorder
+NovoLog,HAS_SIDE_EFFECT,Rhinitis
+NovoLog,HAS_SIDE_EFFECT,Convulsion
+NovoLog,HAS_SIDE_EFFECT,Sinusitis
+NovoLog,HAS_SIDE_EFFECT,Skin disorder
+NovoLog,HAS_SIDE_EFFECT,Hyperhidrosis
+NovoLog,HAS_SIDE_EFFECT,Swelling
+NovoLog,HAS_SIDE_EFFECT,Onychomycosis
+NovoLog,HAS_SIDE_EFFECT,Tonsillitis
+NovoLog,HAS_SIDE_EFFECT,Tracheitis
+NovoLog,HAS_SIDE_EFFECT,Tremor
+NovoLog,HAS_SIDE_EFFECT,Loss of consciousness
+NovoLog,HAS_SIDE_EFFECT,Upper respiratory tract infection
+NovoLog,HAS_SIDE_EFFECT,Urinary tract infection
+NovoLog,HAS_SIDE_EFFECT,Urticaria
+NovoLog,HAS_SIDE_EFFECT,Uterine atony
+NovoLog,HAS_SIDE_EFFECT,Uterine hypotonus
+NovoLog,HAS_SIDE_EFFECT,Viral infection
+NovoLog,HAS_SIDE_EFFECT,Vomiting
+NovoLog,HAS_SIDE_EFFECT,Weight increased
+NovoLog,HAS_SIDE_EFFECT,Gestational diabetes
+NovoLog,HAS_SIDE_EFFECT,Oedema peripheral
+NovoLog,HAS_SIDE_EFFECT,Tracheobronchitis
+NovoLog,HAS_SIDE_EFFECT,Fluid retention
+NovoLog,HAS_SIDE_EFFECT,Generalised oedema
+NovoLog,HAS_SIDE_EFFECT,Injection site swelling
+NovoLog,HAS_SIDE_EFFECT,Injection site reaction
+NovoLog,HAS_SIDE_EFFECT,Bone pain
+NovoLog,HAS_SIDE_EFFECT,Hyporeflexia
+NovoLog,HAS_SIDE_EFFECT,Sensory disturbance
+NovoLog,HAS_SIDE_EFFECT,Ketonuria
+NovoLog,HAS_SIDE_EFFECT,Malnutrition
+NovoLog,HAS_SIDE_EFFECT,HELLP syndrome
+NovoLog,HAS_SIDE_EFFECT,Ketoacidosis
+NovoLog,HAS_SIDE_EFFECT,Tachypnoea
+NovoLog,HAS_SIDE_EFFECT,Cold sweat
+NovoLog,HAS_SIDE_EFFECT,Mental disability
+NovoLog,HAS_SIDE_EFFECT,Disturbance in attention
+NovoLog,HAS_SIDE_EFFECT,Pallor
+NovoLog,HAS_SIDE_EFFECT,Asphyxia
+NovoLog,HAS_SIDE_EFFECT,Erythema
+NovoLog,HAS_SIDE_EFFECT,Influenza like illness
+NovoLog,HAS_SIDE_EFFECT,Obstetric procedure complication
+NovoLog,HAS_SIDE_EFFECT,Infestation
+NovoLog,HAS_SIDE_EFFECT,Complication of delivery
+NovoLog,HAS_SIDE_EFFECT,Dermatitis atopic
+NovoLog,HAS_SIDE_EFFECT,Lipohypertrophy
+NovoLog,HAS_SIDE_EFFECT,Lipoatrophy
+NovoLog,HAS_SIDE_EFFECT,Abdominal discomfort
+NovoLog,HAS_SIDE_EFFECT,Gastrointestinal tract irritation
+Humalog,HAS_SIDE_EFFECT,Gastrointestinal pain
+Humalog,HAS_SIDE_EFFECT,Abdominal pain
+Humalog,HAS_SIDE_EFFECT,Anaphylactic shock
+Humalog,HAS_SIDE_EFFECT,Asthenia
+Humalog,HAS_SIDE_EFFECT,Bronchitis
+Humalog,HAS_SIDE_EFFECT,Infection
+Humalog,HAS_SIDE_EFFECT,Diarrhoea
+Humalog,HAS_SIDE_EFFECT,Dysmenorrhoea
+Humalog,HAS_SIDE_EFFECT,Dyspnoea
+Humalog,HAS_SIDE_EFFECT,Oedema
+Humalog,HAS_SIDE_EFFECT,Rash
+Humalog,HAS_SIDE_EFFECT,Dermatitis
+Humalog,HAS_SIDE_EFFECT,Body temperature increased
+Humalog,HAS_SIDE_EFFECT,Glycosuria
+Humalog,HAS_SIDE_EFFECT,Headache
+Humalog,HAS_SIDE_EFFECT,Hypernatraemia
+Humalog,HAS_SIDE_EFFECT,Hypersensitivity
+Humalog,HAS_SIDE_EFFECT,Hypoglycaemia
+Humalog,HAS_SIDE_EFFECT,Hypokalaemia
+Humalog,HAS_SIDE_EFFECT,Hypotension
+Humalog,HAS_SIDE_EFFECT,Influenza
+Humalog,HAS_SIDE_EFFECT,Lipodystrophy acquired
+Humalog,HAS_SIDE_EFFECT,Nausea
+Humalog,HAS_SIDE_EFFECT,Obstruction
+Humalog,HAS_SIDE_EFFECT,Pain
+Humalog,HAS_SIDE_EFFECT,Neuropathy peripheral
+Humalog,HAS_SIDE_EFFECT,Pharyngitis
+Humalog,HAS_SIDE_EFFECT,Pruritus
+Humalog,HAS_SIDE_EFFECT,Refraction disorder
+Humalog,HAS_SIDE_EFFECT,Retinal disorder
+Humalog,HAS_SIDE_EFFECT,Rhinitis
+Humalog,HAS_SIDE_EFFECT,Hyperhidrosis
+Humalog,HAS_SIDE_EFFECT,Swelling
+Humalog,HAS_SIDE_EFFECT,Tachycardia
+Humalog,HAS_SIDE_EFFECT,Loss of consciousness
+Humalog,HAS_SIDE_EFFECT,Urinary tract infection
+Humalog,HAS_SIDE_EFFECT,Weight increased
+Humalog,HAS_SIDE_EFFECT,Wheezing
+Humalog,HAS_SIDE_EFFECT,Oedema peripheral
+Humalog,HAS_SIDE_EFFECT,Injection site reaction
+Humalog,HAS_SIDE_EFFECT,Injury
+Humalog,HAS_SIDE_EFFECT,Myalgia
+Humalog,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Humalog,HAS_SIDE_EFFECT,Erythema
+Humalog,HAS_SIDE_EFFECT,Rash generalised
+Humalog,HAS_SIDE_EFFECT,Cough
+Humalog,HAS_SIDE_EFFECT,Diabetes mellitus
+Humalog,HAS_SIDE_EFFECT,Infusion site erythema
+Humalog,HAS_SIDE_EFFECT,Infusion site reaction
+Humalog,HAS_SIDE_EFFECT,Lipohypertrophy
+Humalog,HAS_SIDE_EFFECT,Lipoatrophy
+Refludan,HAS_SIDE_EFFECT,Abscess
+Refludan,HAS_SIDE_EFFECT,Anaphylactic shock
+Refludan,HAS_SIDE_EFFECT,Anaemia
+Refludan,HAS_SIDE_EFFECT,Angioedema
+Refludan,HAS_SIDE_EFFECT,Bronchospasm
+Refludan,HAS_SIDE_EFFECT,Infection
+Refludan,HAS_SIDE_EFFECT,Confusional state
+Refludan,HAS_SIDE_EFFECT,Feeling abnormal
+Refludan,HAS_SIDE_EFFECT,Coronary artery thrombosis
+Refludan,HAS_SIDE_EFFECT,Cough
+Refludan,HAS_SIDE_EFFECT,Diarrhoea
+Refludan,HAS_SIDE_EFFECT,Dyspepsia
+Refludan,HAS_SIDE_EFFECT,Dyspnoea
+Refludan,HAS_SIDE_EFFECT,Eczema
+Refludan,HAS_SIDE_EFFECT,Oedema
+Refludan,HAS_SIDE_EFFECT,Epistaxis
+Refludan,HAS_SIDE_EFFECT,Rash
+Refludan,HAS_SIDE_EFFECT,Dermatitis
+Refludan,HAS_SIDE_EFFECT,Body temperature increased
+Refludan,HAS_SIDE_EFFECT,Flushing
+Refludan,HAS_SIDE_EFFECT,Gastritis
+Refludan,HAS_SIDE_EFFECT,Gastrointestinal haemorrhage
+Refludan,HAS_SIDE_EFFECT,Gingival bleeding
+Refludan,HAS_SIDE_EFFECT,Headache
+Refludan,HAS_SIDE_EFFECT,Cardiac arrest
+Refludan,HAS_SIDE_EFFECT,Cardiac failure
+Refludan,HAS_SIDE_EFFECT,Haematemesis
+Refludan,HAS_SIDE_EFFECT,Haematoma
+Refludan,HAS_SIDE_EFFECT,Haematuria
+Refludan,HAS_SIDE_EFFECT,Pericardial haemorrhage
+Refludan,HAS_SIDE_EFFECT,Peritoneal haemorrhage
+Refludan,HAS_SIDE_EFFECT,Haemoptysis
+Refludan,HAS_SIDE_EFFECT,Haemorrhage
+Refludan,HAS_SIDE_EFFECT,Haemoglobin
+Refludan,HAS_SIDE_EFFECT,Haemothorax
+Refludan,HAS_SIDE_EFFECT,Hypersensitivity
+Refludan,HAS_SIDE_EFFECT,Hypotension
+Refludan,HAS_SIDE_EFFECT,Immune system disorder
+Refludan,HAS_SIDE_EFFECT,Laryngeal oedema
+Refludan,HAS_SIDE_EFFECT,Mediastinal disorder
+Refludan,HAS_SIDE_EFFECT,Multi-organ failure
+Refludan,HAS_SIDE_EFFECT,Nausea
+Refludan,HAS_SIDE_EFFECT,Mouth haemorrhage
+Refludan,HAS_SIDE_EFFECT,Pain
+Refludan,HAS_SIDE_EFFECT,Pericardial effusion
+Refludan,HAS_SIDE_EFFECT,Pneumonia
+Refludan,HAS_SIDE_EFFECT,Pruritus
+Refludan,HAS_SIDE_EFFECT,Pulmonary embolism
+Refludan,HAS_SIDE_EFFECT,Convulsion
+Refludan,HAS_SIDE_EFFECT,Shock
+Refludan,HAS_SIDE_EFFECT,Stridor
+Refludan,HAS_SIDE_EFFECT,Superinfection
+Refludan,HAS_SIDE_EFFECT,Thrombophlebitis
+Refludan,HAS_SIDE_EFFECT,Urticaria
+Refludan,HAS_SIDE_EFFECT,Angiopathy
+Refludan,HAS_SIDE_EFFECT,Vasodilation procedure
+Refludan,HAS_SIDE_EFFECT,Ventricular fibrillation
+Refludan,HAS_SIDE_EFFECT,Ventricular tachycardia
+Refludan,HAS_SIDE_EFFECT,Vomiting
+Refludan,HAS_SIDE_EFFECT,Wound
+Refludan,HAS_SIDE_EFFECT,Chills
+Refludan,HAS_SIDE_EFFECT,Agitation
+Refludan,HAS_SIDE_EFFECT,Hepatic function abnormal
+Refludan,HAS_SIDE_EFFECT,Antinuclear antibody positive
+Refludan,HAS_SIDE_EFFECT,Tongue oedema
+Refludan,HAS_SIDE_EFFECT,Tongue disorder
+Refludan,HAS_SIDE_EFFECT,Injection site haemorrhage
+Refludan,HAS_SIDE_EFFECT,Haemorrhage intracranial
+Refludan,HAS_SIDE_EFFECT,Pulmonary haemorrhage
+Refludan,HAS_SIDE_EFFECT,Retroperitoneal haemorrhage
+Refludan,HAS_SIDE_EFFECT,Injection site reaction
+Refludan,HAS_SIDE_EFFECT,Renal impairment
+Refludan,HAS_SIDE_EFFECT,Liver function test abnormal
+Refludan,HAS_SIDE_EFFECT,Skin exfoliation
+Refludan,HAS_SIDE_EFFECT,Skin necrosis
+Refludan,HAS_SIDE_EFFECT,Injection site pain
+Refludan,HAS_SIDE_EFFECT,Prothrombin level increased
+Refludan,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Refludan,HAS_SIDE_EFFECT,Arterial thrombosis
+Refludan,HAS_SIDE_EFFECT,Acute myocardial infarction
+Refludan,HAS_SIDE_EFFECT,Haemoglobin decreased
+Refludan,HAS_SIDE_EFFECT,Skin disorder
+Refludan,HAS_SIDE_EFFECT,Sepsis
+Refludan,HAS_SIDE_EFFECT,Rectal haemorrhage
+Refludan,HAS_SIDE_EFFECT,Bradycardia
+Refludan,HAS_SIDE_EFFECT,Subcutaneous haematoma
+Refludan,HAS_SIDE_EFFECT,Face oedema
+Refludan,HAS_SIDE_EFFECT,Hypovolaemia
+Refludan,HAS_SIDE_EFFECT,Surgery
+Refludan,HAS_SIDE_EFFECT,Hot flush
+Refludan,HAS_SIDE_EFFECT,Menopausal symptoms
+Refludan,HAS_SIDE_EFFECT,Blood creatinine increased
+Refludan,HAS_SIDE_EFFECT,Hyperhidrosis
+Refludan,HAS_SIDE_EFFECT,Skin haemorrhage
+Refludan,HAS_SIDE_EFFECT,Insomnia
+Refludan,HAS_SIDE_EFFECT,Gastritis haemorrhagic
+Refludan,HAS_SIDE_EFFECT,Vaginal haemorrhage
+Symlin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Symlin,HAS_SIDE_EFFECT,Abdominal pain
+Symlin,HAS_SIDE_EFFECT,Decreased appetite
+Symlin,HAS_SIDE_EFFECT,Arthralgia
+Symlin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Symlin,HAS_SIDE_EFFECT,Cough
+Symlin,HAS_SIDE_EFFECT,Dizziness
+Symlin,HAS_SIDE_EFFECT,Fatigue
+Symlin,HAS_SIDE_EFFECT,Asthenia
+Symlin,HAS_SIDE_EFFECT,Headache
+Symlin,HAS_SIDE_EFFECT,Hypersensitivity
+Symlin,HAS_SIDE_EFFECT,Hypoglycaemia
+Symlin,HAS_SIDE_EFFECT,Nausea
+Symlin,HAS_SIDE_EFFECT,Pancreatitis
+Symlin,HAS_SIDE_EFFECT,Pharyngitis
+Symlin,HAS_SIDE_EFFECT,Vomiting
+Symlin,HAS_SIDE_EFFECT,Injection site reaction
+Symlin,HAS_SIDE_EFFECT,Injury
+Lyxumia,HAS_SIDE_EFFECT,Anaphylactic shock
+Lyxumia,HAS_SIDE_EFFECT,Angioedema
+Lyxumia,HAS_SIDE_EFFECT,Arrhythmia
+Lyxumia,HAS_SIDE_EFFECT,Back pain
+Lyxumia,HAS_SIDE_EFFECT,Infection
+Lyxumia,HAS_SIDE_EFFECT,Connective tissue disorder
+Lyxumia,HAS_SIDE_EFFECT,Diarrhoea
+Lyxumia,HAS_SIDE_EFFECT,Dizziness
+Lyxumia,HAS_SIDE_EFFECT,Dyspepsia
+Lyxumia,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Lyxumia,HAS_SIDE_EFFECT,Headache
+Lyxumia,HAS_SIDE_EFFECT,Hypersensitivity
+Lyxumia,HAS_SIDE_EFFECT,Hypoglycaemia
+Lyxumia,HAS_SIDE_EFFECT,Immune system disorder
+Lyxumia,HAS_SIDE_EFFECT,Influenza
+Lyxumia,HAS_SIDE_EFFECT,Nausea
+Lyxumia,HAS_SIDE_EFFECT,Nervous system disorder
+Lyxumia,HAS_SIDE_EFFECT,Palpitations
+Lyxumia,HAS_SIDE_EFFECT,Tachycardia
+Lyxumia,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Lyxumia,HAS_SIDE_EFFECT,Urticaria
+Lyxumia,HAS_SIDE_EFFECT,Vomiting
+Lyxumia,HAS_SIDE_EFFECT,Injection site reaction
+Lyxumia,HAS_SIDE_EFFECT,Malnutrition
+Lyxumia,HAS_SIDE_EFFECT,Skin disorder
+Lyxumia,HAS_SIDE_EFFECT,Anaphylactoid reaction
+Lyxumia,HAS_SIDE_EFFECT,Infestation
+Lyxumia,HAS_SIDE_EFFECT,Injection site pruritus
+Lyxumia,HAS_SIDE_EFFECT,Cystitis viral
+Lyxumia,HAS_SIDE_EFFECT,Somnolence
+Azarga,HAS_SIDE_EFFECT,Alopecia
+Azarga,HAS_SIDE_EFFECT,Asthenopia
+Azarga,HAS_SIDE_EFFECT,Mental disorder
+Azarga,HAS_SIDE_EFFECT,Blepharitis
+Azarga,HAS_SIDE_EFFECT,Chest pain
+Azarga,HAS_SIDE_EFFECT,Conjunctivitis allergic
+Azarga,HAS_SIDE_EFFECT,Connective tissue disorder
+Azarga,HAS_SIDE_EFFECT,Corneal disorder
+Azarga,HAS_SIDE_EFFECT,Cough
+Azarga,HAS_SIDE_EFFECT,Depression
+Azarga,HAS_SIDE_EFFECT,Diarrhoea
+Azarga,HAS_SIDE_EFFECT,Dizziness
+Azarga,HAS_SIDE_EFFECT,Dysgeusia
+Azarga,HAS_SIDE_EFFECT,Dyspnoea
+Azarga,HAS_SIDE_EFFECT,Epistaxis
+Azarga,HAS_SIDE_EFFECT,Rash
+Azarga,HAS_SIDE_EFFECT,Dermatitis
+Azarga,HAS_SIDE_EFFECT,Eye disorder
+Azarga,HAS_SIDE_EFFECT,Fatigue
+Azarga,HAS_SIDE_EFFECT,Asthenia
+Azarga,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Azarga,HAS_SIDE_EFFECT,Hair disorder
+Azarga,HAS_SIDE_EFFECT,Headache
+Azarga,HAS_SIDE_EFFECT,Hypersensitivity
+Azarga,HAS_SIDE_EFFECT,Hypotension
+Azarga,HAS_SIDE_EFFECT,Immune system disorder
+Azarga,HAS_SIDE_EFFECT,Eye pruritus
+Azarga,HAS_SIDE_EFFECT,Lichen planus
+Azarga,HAS_SIDE_EFFECT,Chronic obstructive pulmonary disease
+Azarga,HAS_SIDE_EFFECT,Bronchial hyperreactivity
+Azarga,HAS_SIDE_EFFECT,Mediastinal disorder
+Azarga,HAS_SIDE_EFFECT,Nausea
+Azarga,HAS_SIDE_EFFECT,Nervous system disorder
+Azarga,HAS_SIDE_EFFECT,Erythema
+Azarga,HAS_SIDE_EFFECT,Angiopathy
+Azarga,HAS_SIDE_EFFECT,Dry mouth
+Azarga,HAS_SIDE_EFFECT,Photophobia
+Azarga,HAS_SIDE_EFFECT,Eye pain
+Azarga,HAS_SIDE_EFFECT,Lacrimation increased
+Azarga,HAS_SIDE_EFFECT,Endophthalmitis
+Azarga,HAS_SIDE_EFFECT,Ocular hyperaemia
+Azarga,HAS_SIDE_EFFECT,Eyelid oedema
+Azarga,HAS_SIDE_EFFECT,Skin disorder
+Azarga,HAS_SIDE_EFFECT,Myalgia
+Azarga,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Azarga,HAS_SIDE_EFFECT,Abdominal pain upper
+Azarga,HAS_SIDE_EFFECT,Eye irritation
+Azarga,HAS_SIDE_EFFECT,Erythema of eyelid
+Azarga,HAS_SIDE_EFFECT,Punctate keratitis
+Azarga,HAS_SIDE_EFFECT,Eczema eyelids
+Azarga,HAS_SIDE_EFFECT,Blepharitis allergic
+Azarga,HAS_SIDE_EFFECT,Dry eye
+Azarga,HAS_SIDE_EFFECT,Vision blurred
+Azarga,HAS_SIDE_EFFECT,Corneal erosion
+Azarga,HAS_SIDE_EFFECT,Eye discharge
+Azarga,HAS_SIDE_EFFECT,Scleral hyperaemia
+Azarga,HAS_SIDE_EFFECT,Anterior chamber flare
+Azarga,HAS_SIDE_EFFECT,Abnormal sensation in eye
+Azarga,HAS_SIDE_EFFECT,Blood pressure increased
+Azarga,HAS_SIDE_EFFECT,Eyelids pruritus
+Azarga,HAS_SIDE_EFFECT,Laryngeal pain
+Azarga,HAS_SIDE_EFFECT,Insomnia
+Azarga,HAS_SIDE_EFFECT,Foreign body sensation in eyes
+Azarga,HAS_SIDE_EFFECT,Eyelid margin crusting
+Azarga,HAS_SIDE_EFFECT,Nasopharyngitis
+Azarga,HAS_SIDE_EFFECT,Rhinorrhoea
+Azarga,HAS_SIDE_EFFECT,Conjunctival hyperaemia
+Azarga,HAS_SIDE_EFFECT,Visual impairment
+Triptorelin,HAS_SIDE_EFFECT,Gastrointestinal pain
+Triptorelin,HAS_SIDE_EFFECT,Abdominal pain
+Triptorelin,HAS_SIDE_EFFECT,Anaphylactic shock
+Triptorelin,HAS_SIDE_EFFECT,Anaemia
+Triptorelin,HAS_SIDE_EFFECT,Angioedema
+Triptorelin,HAS_SIDE_EFFECT,Decreased appetite
+Triptorelin,HAS_SIDE_EFFECT,Arthralgia
+Triptorelin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Triptorelin,HAS_SIDE_EFFECT,Asthenia
+Triptorelin,HAS_SIDE_EFFECT,Back pain
+Triptorelin,HAS_SIDE_EFFECT,Mental disorder
+Triptorelin,HAS_SIDE_EFFECT,Bladder neck obstruction
+Triptorelin,HAS_SIDE_EFFECT,Breast disorder
+Triptorelin,HAS_SIDE_EFFECT,Bronchitis
+Triptorelin,HAS_SIDE_EFFECT,Cardiovascular disorder
+Triptorelin,HAS_SIDE_EFFECT,Transient ischaemic attack
+Triptorelin,HAS_SIDE_EFFECT,Chest pain
+Triptorelin,HAS_SIDE_EFFECT,Infection
+Triptorelin,HAS_SIDE_EFFECT,Conjunctivitis
+Triptorelin,HAS_SIDE_EFFECT,Connective tissue disorder
+Triptorelin,HAS_SIDE_EFFECT,Constipation
+Triptorelin,HAS_SIDE_EFFECT,Cough
+Triptorelin,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Triptorelin,HAS_SIDE_EFFECT,Libido decreased
+Triptorelin,HAS_SIDE_EFFECT,Depression
+Triptorelin,HAS_SIDE_EFFECT,Diabetes mellitus
+Triptorelin,HAS_SIDE_EFFECT,Diarrhoea
+Triptorelin,HAS_SIDE_EFFECT,Dizziness
+Triptorelin,HAS_SIDE_EFFECT,Dyspepsia
+Triptorelin,HAS_SIDE_EFFECT,Dyspnoea
+Triptorelin,HAS_SIDE_EFFECT,Dysuria
+Triptorelin,HAS_SIDE_EFFECT,Oedema
+Triptorelin,HAS_SIDE_EFFECT,Endocrine disorder
+Triptorelin,HAS_SIDE_EFFECT,Rash
+Triptorelin,HAS_SIDE_EFFECT,Dermatitis
+Triptorelin,HAS_SIDE_EFFECT,Fatigue
+Triptorelin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Triptorelin,HAS_SIDE_EFFECT,Gynaecomastia
+Triptorelin,HAS_SIDE_EFFECT,Headache
+Triptorelin,HAS_SIDE_EFFECT,Hyperglycaemia
+Triptorelin,HAS_SIDE_EFFECT,Hypersensitivity
+Triptorelin,HAS_SIDE_EFFECT,Hypertension
+Triptorelin,HAS_SIDE_EFFECT,Influenza
+Triptorelin,HAS_SIDE_EFFECT,Muscle spasms
+Triptorelin,HAS_SIDE_EFFECT,Pain in extremity
+Triptorelin,HAS_SIDE_EFFECT,Breast pain
+Triptorelin,HAS_SIDE_EFFECT,Musculoskeletal disorder
+Triptorelin,HAS_SIDE_EFFECT,Myocardial infarction
+Triptorelin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Triptorelin,HAS_SIDE_EFFECT,Nausea
+Triptorelin,HAS_SIDE_EFFECT,Nervous system disorder
+Triptorelin,HAS_SIDE_EFFECT,Ophthalmoplegia
+Triptorelin,HAS_SIDE_EFFECT,IIIrd nerve paralysis
+Triptorelin,HAS_SIDE_EFFECT,Pain
+Triptorelin,HAS_SIDE_EFFECT,Palpitations
+Triptorelin,HAS_SIDE_EFFECT,Neuropathy peripheral
+Triptorelin,HAS_SIDE_EFFECT,Pharyngitis
+Triptorelin,HAS_SIDE_EFFECT,Pituitary tumour benign
+Triptorelin,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Triptorelin,HAS_SIDE_EFFECT,Pruritus
+Triptorelin,HAS_SIDE_EFFECT,Rhinitis
+Triptorelin,HAS_SIDE_EFFECT,Convulsion
+Triptorelin,HAS_SIDE_EFFECT,Shock
+Triptorelin,HAS_SIDE_EFFECT,Skin disorder
+Triptorelin,HAS_SIDE_EFFECT,Spinal cord compression
+Triptorelin,HAS_SIDE_EFFECT,Cerebrovascular accident
+Triptorelin,HAS_SIDE_EFFECT,Thrombophlebitis
+Triptorelin,HAS_SIDE_EFFECT,Urinary tract infection
+Triptorelin,HAS_SIDE_EFFECT,Urethral disorder
+Triptorelin,HAS_SIDE_EFFECT,Urinary tract disorder
+Triptorelin,HAS_SIDE_EFFECT,Angiopathy
+Triptorelin,HAS_SIDE_EFFECT,Visual impairment
+Triptorelin,HAS_SIDE_EFFECT,Vomiting
+Triptorelin,HAS_SIDE_EFFECT,Urinary retention
+Triptorelin,HAS_SIDE_EFFECT,Mood swings
+Triptorelin,HAS_SIDE_EFFECT,Affect lability
+Triptorelin,HAS_SIDE_EFFECT,Oedema peripheral
+Triptorelin,HAS_SIDE_EFFECT,Hepatic function abnormal
+Triptorelin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Triptorelin,HAS_SIDE_EFFECT,Injection site reaction
+Triptorelin,HAS_SIDE_EFFECT,Muscular weakness
+Triptorelin,HAS_SIDE_EFFECT,Bone pain
+Triptorelin,HAS_SIDE_EFFECT,Eye pain
+Triptorelin,HAS_SIDE_EFFECT,Injection site pain
+Triptorelin,HAS_SIDE_EFFECT,Blood alkaline phosphatase increased
+Triptorelin,HAS_SIDE_EFFECT,Testicular atrophy
+Triptorelin,HAS_SIDE_EFFECT,Haemoglobin decreased
+Triptorelin,HAS_SIDE_EFFECT,Malnutrition
+Triptorelin,HAS_SIDE_EFFECT,Malaise
+Triptorelin,HAS_SIDE_EFFECT,Discomfort
+Triptorelin,HAS_SIDE_EFFECT,Feeling abnormal
+Triptorelin,HAS_SIDE_EFFECT,Ill-defined disorder
+Triptorelin,HAS_SIDE_EFFECT,Myalgia
+Triptorelin,HAS_SIDE_EFFECT,Gravitational oedema
+Triptorelin,HAS_SIDE_EFFECT,Blood testosterone decreased
+Triptorelin,HAS_SIDE_EFFECT,Erectile dysfunction
+Triptorelin,HAS_SIDE_EFFECT,Pituitary infarction
+Triptorelin,HAS_SIDE_EFFECT,Prostate cancer
+Triptorelin,HAS_SIDE_EFFECT,Paralysis
+Triptorelin,HAS_SIDE_EFFECT,Hot flush
+Triptorelin,HAS_SIDE_EFFECT,Menopausal symptoms
+Triptorelin,HAS_SIDE_EFFECT,Metastases to spine
+Triptorelin,HAS_SIDE_EFFECT,Infestation
+Triptorelin,HAS_SIDE_EFFECT,Local reaction
+Triptorelin,HAS_SIDE_EFFECT,Embolism
+Triptorelin,HAS_SIDE_EFFECT,Blood testosterone increased
+Triptorelin,HAS_SIDE_EFFECT,Blood glucose increased
+Triptorelin,HAS_SIDE_EFFECT,Insomnia
+Triptorelin,HAS_SIDE_EFFECT,Paraesthesia
+Triptorelin,HAS_SIDE_EFFECT,Abdominal distension
+Triptorelin,HAS_SIDE_EFFECT,Alopecia
+Triptorelin,HAS_SIDE_EFFECT,Anxiety
+Triptorelin,HAS_SIDE_EFFECT,Blister
+Triptorelin,HAS_SIDE_EFFECT,Dermatitis bullous
+Triptorelin,HAS_SIDE_EFFECT,Confusional state
+Triptorelin,HAS_SIDE_EFFECT,Dysgeusia
+Triptorelin,HAS_SIDE_EFFECT,Epistaxis
+Triptorelin,HAS_SIDE_EFFECT,Eye disorder
+Triptorelin,HAS_SIDE_EFFECT,Body temperature increased
+Triptorelin,HAS_SIDE_EFFECT,Flatulence
+Triptorelin,HAS_SIDE_EFFECT,Gout
+Triptorelin,HAS_SIDE_EFFECT,Hyperhidrosis
+Triptorelin,HAS_SIDE_EFFECT,Hypotension
+Triptorelin,HAS_SIDE_EFFECT,Immune system disorder
+Triptorelin,HAS_SIDE_EFFECT,Inflammation
+Triptorelin,HAS_SIDE_EFFECT,Irritability
+Triptorelin,HAS_SIDE_EFFECT,Lethargy
+Triptorelin,HAS_SIDE_EFFECT,Lymphocytosis
+Triptorelin,HAS_SIDE_EFFECT,Mediastinal disorder
+Triptorelin,HAS_SIDE_EFFECT,Musculoskeletal pain
+Triptorelin,HAS_SIDE_EFFECT,Nasopharyngitis
+Triptorelin,HAS_SIDE_EFFECT,Metastasis
+Triptorelin,HAS_SIDE_EFFECT,Osteoarthritis
+Triptorelin,HAS_SIDE_EFFECT,Vascular purpura
+Triptorelin,HAS_SIDE_EFFECT,Purpura
+Triptorelin,HAS_SIDE_EFFECT,Testicular pain
+Triptorelin,HAS_SIDE_EFFECT,Tinnitus
+Triptorelin,HAS_SIDE_EFFECT,Urethral obstruction
+Triptorelin,HAS_SIDE_EFFECT,Urticaria
+Triptorelin,HAS_SIDE_EFFECT,Vertigo
+Triptorelin,HAS_SIDE_EFFECT,Weight increased
+Triptorelin,HAS_SIDE_EFFECT,Weight decreased
+Triptorelin,HAS_SIDE_EFFECT,Dry mouth
+Triptorelin,HAS_SIDE_EFFECT,Orthopnoea
+Triptorelin,HAS_SIDE_EFFECT,Hypokinesia
+Triptorelin,HAS_SIDE_EFFECT,Blood urea increased
+Triptorelin,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Triptorelin,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Triptorelin,HAS_SIDE_EFFECT,Joint swelling
+Triptorelin,HAS_SIDE_EFFECT,Bone cancer metastatic
+Triptorelin,HAS_SIDE_EFFECT,Joint stiffness
+Triptorelin,HAS_SIDE_EFFECT,Increased appetite
+Triptorelin,HAS_SIDE_EFFECT,Memory impairment
+Triptorelin,HAS_SIDE_EFFECT,Euphoric mood
+Triptorelin,HAS_SIDE_EFFECT,Blood creatinine increased
+Triptorelin,HAS_SIDE_EFFECT,Condition aggravated
+Triptorelin,HAS_SIDE_EFFECT,Dysstasia
+Triptorelin,HAS_SIDE_EFFECT,Ejaculation failure
+Triptorelin,HAS_SIDE_EFFECT,Vision blurred
+Triptorelin,HAS_SIDE_EFFECT,Chills
+Triptorelin,HAS_SIDE_EFFECT,Abnormal sensation in eye
+Triptorelin,HAS_SIDE_EFFECT,Blood pressure increased
+Triptorelin,HAS_SIDE_EFFECT,Influenza like illness
+Triptorelin,HAS_SIDE_EFFECT,Acne
+Triptorelin,HAS_SIDE_EFFECT,Injection site erythema
+Triptorelin,HAS_SIDE_EFFECT,Lymphocyte count increased
+Triptorelin,HAS_SIDE_EFFECT,Tumour flare
+Triptorelin,HAS_SIDE_EFFECT,Metastatic pain
+Triptorelin,HAS_SIDE_EFFECT,Musculoskeletal stiffness
+Triptorelin,HAS_SIDE_EFFECT,Somnolence
+Triptorelin,HAS_SIDE_EFFECT,Loss of libido
+Triptorelin,HAS_SIDE_EFFECT,Hormone-dependent prostate cancer
+Nafarelin,HAS_SIDE_EFFECT,Alopecia
+Nafarelin,HAS_SIDE_EFFECT,Decreased appetite
+Nafarelin,HAS_SIDE_EFFECT,Arthralgia
+Nafarelin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Nafarelin,HAS_SIDE_EFFECT,Ascites
+Nafarelin,HAS_SIDE_EFFECT,Asthenia
+Nafarelin,HAS_SIDE_EFFECT,Transient ischaemic attack
+Nafarelin,HAS_SIDE_EFFECT,Chest pain
+Nafarelin,HAS_SIDE_EFFECT,Conjunctivitis
+Nafarelin,HAS_SIDE_EFFECT,Constipation
+Nafarelin,HAS_SIDE_EFFECT,Cystitis noninfective
+Nafarelin,HAS_SIDE_EFFECT,Cystitis
+Nafarelin,HAS_SIDE_EFFECT,Bladder pain
+Nafarelin,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Nafarelin,HAS_SIDE_EFFECT,Libido decreased
+Nafarelin,HAS_SIDE_EFFECT,Depression
+Nafarelin,HAS_SIDE_EFFECT,Diarrhoea
+Nafarelin,HAS_SIDE_EFFECT,Dizziness
+Nafarelin,HAS_SIDE_EFFECT,Dysgeusia
+Nafarelin,HAS_SIDE_EFFECT,Dyspnoea
+Nafarelin,HAS_SIDE_EFFECT,Dysuria
+Nafarelin,HAS_SIDE_EFFECT,Ear pain
+Nafarelin,HAS_SIDE_EFFECT,Oedema
+Nafarelin,HAS_SIDE_EFFECT,Epistaxis
+Nafarelin,HAS_SIDE_EFFECT,Rash
+Nafarelin,HAS_SIDE_EFFECT,Dermatitis
+Nafarelin,HAS_SIDE_EFFECT,Gastritis
+Nafarelin,HAS_SIDE_EFFECT,Gynaecomastia
+Nafarelin,HAS_SIDE_EFFECT,Headache
+Nafarelin,HAS_SIDE_EFFECT,Herpes simplex
+Nafarelin,HAS_SIDE_EFFECT,Hirsutism
+Nafarelin,HAS_SIDE_EFFECT,Libido increased
+Nafarelin,HAS_SIDE_EFFECT,Breast pain
+Nafarelin,HAS_SIDE_EFFECT,Chloasma
+Nafarelin,HAS_SIDE_EFFECT,Menopause
+Nafarelin,HAS_SIDE_EFFECT,Menstrual disorder
+Nafarelin,HAS_SIDE_EFFECT,Myocardial infarction
+Nafarelin,HAS_SIDE_EFFECT,Acute coronary syndrome
+Nafarelin,HAS_SIDE_EFFECT,Nausea
+Nafarelin,HAS_SIDE_EFFECT,Neoplasm
+Nafarelin,HAS_SIDE_EFFECT,Nervousness
+Nafarelin,HAS_SIDE_EFFECT,Tension
+Nafarelin,HAS_SIDE_EFFECT,Neurosis
+Nafarelin,HAS_SIDE_EFFECT,Oliguria
+Nafarelin,HAS_SIDE_EFFECT,Ophthalmoplegia
+Nafarelin,HAS_SIDE_EFFECT,IIIrd nerve paralysis
+Nafarelin,HAS_SIDE_EFFECT,Osteopenia
+Nafarelin,HAS_SIDE_EFFECT,Palpitations
+Nafarelin,HAS_SIDE_EFFECT,Paraesthesia
+Nafarelin,HAS_SIDE_EFFECT,Pituitary tumour benign
+Nafarelin,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Nafarelin,HAS_SIDE_EFFECT,Pleural effusion
+Nafarelin,HAS_SIDE_EFFECT,Multiple pregnancy
+Nafarelin,HAS_SIDE_EFFECT,Pruritus
+Nafarelin,HAS_SIDE_EFFECT,Puberty
+Nafarelin,HAS_SIDE_EFFECT,Pulmonary embolism
+Nafarelin,HAS_SIDE_EFFECT,Pulmonary fibrosis
+Nafarelin,HAS_SIDE_EFFECT,Rhinitis
+Nafarelin,HAS_SIDE_EFFECT,Seborrhoeic dermatitis
+Nafarelin,HAS_SIDE_EFFECT,Convulsion
+Nafarelin,HAS_SIDE_EFFECT,Shock
+Nafarelin,HAS_SIDE_EFFECT,Sinusitis
+Nafarelin,HAS_SIDE_EFFECT,Cerebrovascular accident
+Nafarelin,HAS_SIDE_EFFECT,Urinary incontinence
+Nafarelin,HAS_SIDE_EFFECT,Urticaria
+Nafarelin,HAS_SIDE_EFFECT,Uterine haemorrhage
+Nafarelin,HAS_SIDE_EFFECT,Vertigo
+Nafarelin,HAS_SIDE_EFFECT,Vomiting
+Nafarelin,HAS_SIDE_EFFECT,Weight increased
+Nafarelin,HAS_SIDE_EFFECT,Weight decreased
+Nafarelin,HAS_SIDE_EFFECT,Ovarian hyperstimulation syndrome
+Nafarelin,HAS_SIDE_EFFECT,Skin odour abnormal
+Nafarelin,HAS_SIDE_EFFECT,Mood swings
+Nafarelin,HAS_SIDE_EFFECT,Affect lability
+Nafarelin,HAS_SIDE_EFFECT,Breast engorgement
+Nafarelin,HAS_SIDE_EFFECT,Hepatic function abnormal
+Nafarelin,HAS_SIDE_EFFECT,Deep vein thrombosis
+Nafarelin,HAS_SIDE_EFFECT,Breast atrophy
+Nafarelin,HAS_SIDE_EFFECT,High density lipoprotein decreased
+Nafarelin,HAS_SIDE_EFFECT,Mucous membrane disorder
+Nafarelin,HAS_SIDE_EFFECT,Eye pain
+Nafarelin,HAS_SIDE_EFFECT,Dry skin
+Nafarelin,HAS_SIDE_EFFECT,Liver injury
+Nafarelin,HAS_SIDE_EFFECT,Traumatic liver injury
+Nafarelin,HAS_SIDE_EFFECT,Malnutrition
+Nafarelin,HAS_SIDE_EFFECT,Interstitial lung disease
+Nafarelin,HAS_SIDE_EFFECT,Vaginal discharge
+Nafarelin,HAS_SIDE_EFFECT,Myalgia
+Nafarelin,HAS_SIDE_EFFECT,Nasal dryness
+Nafarelin,HAS_SIDE_EFFECT,Increased appetite
+Nafarelin,HAS_SIDE_EFFECT,Nasal discomfort
+Nafarelin,HAS_SIDE_EFFECT,Vulvovaginal dryness
+Nafarelin,HAS_SIDE_EFFECT,Mental disorder
+Nafarelin,HAS_SIDE_EFFECT,Pituitary infarction
+Nafarelin,HAS_SIDE_EFFECT,Rash maculo-papular
+Nafarelin,HAS_SIDE_EFFECT,Menorrhagia
+Nafarelin,HAS_SIDE_EFFECT,Coordination abnormal
+Nafarelin,HAS_SIDE_EFFECT,Hypovolaemia
+Nafarelin,HAS_SIDE_EFFECT,Hot flush
+Nafarelin,HAS_SIDE_EFFECT,Menopausal symptoms
+Nafarelin,HAS_SIDE_EFFECT,Hyperhidrosis
+Nafarelin,HAS_SIDE_EFFECT,Acne
+Nafarelin,HAS_SIDE_EFFECT,Oestrogen deficiency
+Nafarelin,HAS_SIDE_EFFECT,Abdominal distension
+Nafarelin,HAS_SIDE_EFFECT,Insomnia
+Nafarelin,HAS_SIDE_EFFECT,Muscular weakness
+Nafarelin,HAS_SIDE_EFFECT,Breast enlargement
+Nafarelin,HAS_SIDE_EFFECT,Vaginal haemorrhage
+Nafarelin,HAS_SIDE_EFFECT,Loss of libido
+Nafarelin,HAS_SIDE_EFFECT,Embolism arterial
+Histrelin,HAS_SIDE_EFFECT,Amblyopia
+Histrelin,HAS_SIDE_EFFECT,Anaemia
+Histrelin,HAS_SIDE_EFFECT,Arthralgia
+Histrelin,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Histrelin,HAS_SIDE_EFFECT,Asthenia
+Histrelin,HAS_SIDE_EFFECT,Back pain
+Histrelin,HAS_SIDE_EFFECT,Mental disorder
+Histrelin,HAS_SIDE_EFFECT,Breast disorder
+Histrelin,HAS_SIDE_EFFECT,Neck pain
+Histrelin,HAS_SIDE_EFFECT,Infection
+Histrelin,HAS_SIDE_EFFECT,Connective tissue disorder
+Histrelin,HAS_SIDE_EFFECT,Constipation
+Histrelin,HAS_SIDE_EFFECT,Contusion
+Histrelin,HAS_SIDE_EFFECT,Disturbance in sexual arousal
+Histrelin,HAS_SIDE_EFFECT,Libido decreased
+Histrelin,HAS_SIDE_EFFECT,Depression
+Histrelin,HAS_SIDE_EFFECT,Dizziness
+Histrelin,HAS_SIDE_EFFECT,Dysmenorrhoea
+Histrelin,HAS_SIDE_EFFECT,Dysuria
+Histrelin,HAS_SIDE_EFFECT,Epistaxis
+Histrelin,HAS_SIDE_EFFECT,Fatigue
+Histrelin,HAS_SIDE_EFFECT,Flushing
+Histrelin,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Histrelin,HAS_SIDE_EFFECT,Gynaecomastia
+Histrelin,HAS_SIDE_EFFECT,Headache
+Histrelin,HAS_SIDE_EFFECT,Cardiac disorder
+Histrelin,HAS_SIDE_EFFECT,Haematoma
+Histrelin,HAS_SIDE_EFFECT,Hypercalcaemia
+Histrelin,HAS_SIDE_EFFECT,Hypercholesterolaemia
+Histrelin,HAS_SIDE_EFFECT,Hypotrichosis
+Histrelin,HAS_SIDE_EFFECT,Inflammation
+Histrelin,HAS_SIDE_EFFECT,Irritability
+Histrelin,HAS_SIDE_EFFECT,Keloid scar
+Histrelin,HAS_SIDE_EFFECT,Nephrolithiasis
+Histrelin,HAS_SIDE_EFFECT,Lethargy
+Histrelin,HAS_SIDE_EFFECT,Hepatocellular injury
+Histrelin,HAS_SIDE_EFFECT,Liver disorder
+Histrelin,HAS_SIDE_EFFECT,Foetor hepaticus
+Histrelin,HAS_SIDE_EFFECT,Breast pain
+Histrelin,HAS_SIDE_EFFECT,Mediastinal disorder
+Histrelin,HAS_SIDE_EFFECT,Menorrhagia
+Histrelin,HAS_SIDE_EFFECT,Metrorrhagia
+Histrelin,HAS_SIDE_EFFECT,Nausea
+Histrelin,HAS_SIDE_EFFECT,Nervous system disorder
+Histrelin,HAS_SIDE_EFFECT,Night sweats
+Histrelin,HAS_SIDE_EFFECT,Pain
+Histrelin,HAS_SIDE_EFFECT,Pain in extremity
+Histrelin,HAS_SIDE_EFFECT,Palpitations
+Histrelin,HAS_SIDE_EFFECT,Pituitary tumour benign
+Histrelin,HAS_SIDE_EFFECT,Pituitary haemorrhage
+Histrelin,HAS_SIDE_EFFECT,Pruritus
+Histrelin,HAS_SIDE_EFFECT,Convulsion
+Histrelin,HAS_SIDE_EFFECT,Shock
+Histrelin,HAS_SIDE_EFFECT,Swelling
+Histrelin,HAS_SIDE_EFFECT,Tremor
+Histrelin,HAS_SIDE_EFFECT,Erythema
+Histrelin,HAS_SIDE_EFFECT,Pollakiuria
+Histrelin,HAS_SIDE_EFFECT,Urethral disorder
+Histrelin,HAS_SIDE_EFFECT,Urinary tract disorder
+Histrelin,HAS_SIDE_EFFECT,Angiopathy
+Histrelin,HAS_SIDE_EFFECT,Vomiting
+Histrelin,HAS_SIDE_EFFECT,Weight increased
+Histrelin,HAS_SIDE_EFFECT,Weight decreased
+Histrelin,HAS_SIDE_EFFECT,Wound infection
+Histrelin,HAS_SIDE_EFFECT,Urinary retention
+Histrelin,HAS_SIDE_EFFECT,Mood swings
+Histrelin,HAS_SIDE_EFFECT,Affect lability
+Histrelin,HAS_SIDE_EFFECT,Oedema peripheral
+Histrelin,HAS_SIDE_EFFECT,Migraine
+Histrelin,HAS_SIDE_EFFECT,Creatinine renal clearance decreased
+Histrelin,HAS_SIDE_EFFECT,Ventricular extrasystoles
+Histrelin,HAS_SIDE_EFFECT,Bone pain
+Histrelin,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Histrelin,HAS_SIDE_EFFECT,Testicular atrophy
+Histrelin,HAS_SIDE_EFFECT,Liver injury
+Histrelin,HAS_SIDE_EFFECT,Traumatic liver injury
+Histrelin,HAS_SIDE_EFFECT,Malnutrition
+Histrelin,HAS_SIDE_EFFECT,Skin disorder
+Histrelin,HAS_SIDE_EFFECT,Malaise
+Histrelin,HAS_SIDE_EFFECT,Discomfort
+Histrelin,HAS_SIDE_EFFECT,Feeling abnormal
+Histrelin,HAS_SIDE_EFFECT,Ill-defined disorder
+Histrelin,HAS_SIDE_EFFECT,Myalgia
+Histrelin,HAS_SIDE_EFFECT,Muscle twitching
+Histrelin,HAS_SIDE_EFFECT,Dyspnoea exertional
+Histrelin,HAS_SIDE_EFFECT,Increased appetite
+Histrelin,HAS_SIDE_EFFECT,Abdominal discomfort
+Histrelin,HAS_SIDE_EFFECT,Tenderness
+Histrelin,HAS_SIDE_EFFECT,Renal failure
+Histrelin,HAS_SIDE_EFFECT,Erectile dysfunction
+Histrelin,HAS_SIDE_EFFECT,Disease progression
+Histrelin,HAS_SIDE_EFFECT,Breast tenderness
+Histrelin,HAS_SIDE_EFFECT,Hepatobiliary disease
+Histrelin,HAS_SIDE_EFFECT,Fluid retention
+Histrelin,HAS_SIDE_EFFECT,Stargardt's disease
+Histrelin,HAS_SIDE_EFFECT,Pituitary infarction
+Histrelin,HAS_SIDE_EFFECT,Instillation site pain
+Histrelin,HAS_SIDE_EFFECT,Application site pain
+Histrelin,HAS_SIDE_EFFECT,Implant site reaction
+Histrelin,HAS_SIDE_EFFECT,Pruritus genital
+Histrelin,HAS_SIDE_EFFECT,Influenza like illness
+Histrelin,HAS_SIDE_EFFECT,Sexual dysfunction
+Histrelin,HAS_SIDE_EFFECT,Blood glucose increased
+Histrelin,HAS_SIDE_EFFECT,Hot flush
+Histrelin,HAS_SIDE_EFFECT,Menopausal symptoms
+Histrelin,HAS_SIDE_EFFECT,Metastases to spine
+Histrelin,HAS_SIDE_EFFECT,Hyperhidrosis
+Histrelin,HAS_SIDE_EFFECT,Prostatic acid phosphatase increased
+Histrelin,HAS_SIDE_EFFECT,Blood testosterone increased
+Histrelin,HAS_SIDE_EFFECT,Blood lactate dehydrogenase increased
+Histrelin,HAS_SIDE_EFFECT,Local reaction
+Histrelin,HAS_SIDE_EFFECT,Haematuria
+Histrelin,HAS_SIDE_EFFECT,Drug-induced liver injury
+Histrelin,HAS_SIDE_EFFECT,Bone density decreased
+Histrelin,HAS_SIDE_EFFECT,Procedural pain
+Histrelin,HAS_SIDE_EFFECT,Insomnia
+Histrelin,HAS_SIDE_EFFECT,Device occlusion
+Histrelin,HAS_SIDE_EFFECT,Paraesthesia
+Histrelin,HAS_SIDE_EFFECT,Suture related complication
+Histrelin,HAS_SIDE_EFFECT,Device breakage
+Histrelin,HAS_SIDE_EFFECT,Renal impairment
+Histrelin,HAS_SIDE_EFFECT,Scar
+Lantus,HAS_SIDE_EFFECT,Gastrointestinal pain
+Lantus,HAS_SIDE_EFFECT,Abdominal pain
+Lantus,HAS_SIDE_EFFECT,Anaphylactic shock
+Lantus,HAS_SIDE_EFFECT,Angioedema
+Lantus,HAS_SIDE_EFFECT,Arthralgia
+Lantus,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Lantus,HAS_SIDE_EFFECT,Asthma
+Lantus,HAS_SIDE_EFFECT,Back pain
+Lantus,HAS_SIDE_EFFECT,Diabetic retinopathy
+Lantus,HAS_SIDE_EFFECT,Benign neoplasm of skin
+Lantus,HAS_SIDE_EFFECT,Bone disorder
+Lantus,HAS_SIDE_EFFECT,Bronchospasm
+Lantus,HAS_SIDE_EFFECT,Bronchitis
+Lantus,HAS_SIDE_EFFECT,Neoplasm malignant
+Lantus,HAS_SIDE_EFFECT,Coma
+Lantus,HAS_SIDE_EFFECT,Infection
+Lantus,HAS_SIDE_EFFECT,Connective tissue disorder
+Lantus,HAS_SIDE_EFFECT,Cough
+Lantus,HAS_SIDE_EFFECT,Depression
+Lantus,HAS_SIDE_EFFECT,Fungal skin infection
+Lantus,HAS_SIDE_EFFECT,Diarrhoea
+Lantus,HAS_SIDE_EFFECT,Dysgeusia
+Lantus,HAS_SIDE_EFFECT,Eczema
+Lantus,HAS_SIDE_EFFECT,Oedema
+Lantus,HAS_SIDE_EFFECT,Rash
+Lantus,HAS_SIDE_EFFECT,Dermatitis
+Lantus,HAS_SIDE_EFFECT,Multiple fractures
+Lantus,HAS_SIDE_EFFECT,Fracture
+Lantus,HAS_SIDE_EFFECT,Gastroenteritis
+Lantus,HAS_SIDE_EFFECT,Glycosuria
+Lantus,HAS_SIDE_EFFECT,Headache
+Lantus,HAS_SIDE_EFFECT,Cardiac failure
+Lantus,HAS_SIDE_EFFECT,Herpes zoster
+Lantus,HAS_SIDE_EFFECT,Hypernatraemia
+Lantus,HAS_SIDE_EFFECT,Hypersensitivity
+Lantus,HAS_SIDE_EFFECT,Hypertension
+Lantus,HAS_SIDE_EFFECT,Hypoglycaemia
+Lantus,HAS_SIDE_EFFECT,Hypotension
+Lantus,HAS_SIDE_EFFECT,Immune system disorder
+Lantus,HAS_SIDE_EFFECT,Inflammation
+Lantus,HAS_SIDE_EFFECT,Influenza
+Lantus,HAS_SIDE_EFFECT,Ketosis
+Lantus,HAS_SIDE_EFFECT,Lipodystrophy acquired
+Lantus,HAS_SIDE_EFFECT,Myocardial infarction
+Lantus,HAS_SIDE_EFFECT,Acute coronary syndrome
+Lantus,HAS_SIDE_EFFECT,Nervous system disorder
+Lantus,HAS_SIDE_EFFECT,Pain
+Lantus,HAS_SIDE_EFFECT,Pain in extremity
+Lantus,HAS_SIDE_EFFECT,Neuropathy peripheral
+Lantus,HAS_SIDE_EFFECT,Pharyngitis
+Lantus,HAS_SIDE_EFFECT,Pruritus
+Lantus,HAS_SIDE_EFFECT,Refraction disorder
+Lantus,HAS_SIDE_EFFECT,Retinal disorder
+Lantus,HAS_SIDE_EFFECT,Rhinitis
+Lantus,HAS_SIDE_EFFECT,Shock
+Lantus,HAS_SIDE_EFFECT,Sinusitis
+Lantus,HAS_SIDE_EFFECT,Cerebrovascular accident
+Lantus,HAS_SIDE_EFFECT,Swelling
+Lantus,HAS_SIDE_EFFECT,Loss of consciousness
+Lantus,HAS_SIDE_EFFECT,Upper respiratory tract infection
+Lantus,HAS_SIDE_EFFECT,Urinary tract infection
+Lantus,HAS_SIDE_EFFECT,Urticaria
+Lantus,HAS_SIDE_EFFECT,Weight increased
+Lantus,HAS_SIDE_EFFECT,Oedema peripheral
+Lantus,HAS_SIDE_EFFECT,Cataract
+Lantus,HAS_SIDE_EFFECT,Injection site haemorrhage
+Lantus,HAS_SIDE_EFFECT,Injection site reaction
+Lantus,HAS_SIDE_EFFECT,Injury
+Lantus,HAS_SIDE_EFFECT,Injection site mass
+Lantus,HAS_SIDE_EFFECT,Injection site pain
+Lantus,HAS_SIDE_EFFECT,Retinal vascular disorder
+Lantus,HAS_SIDE_EFFECT,Malnutrition
+Lantus,HAS_SIDE_EFFECT,Skin disorder
+Lantus,HAS_SIDE_EFFECT,Myalgia
+Lantus,HAS_SIDE_EFFECT,Oropharyngeal discomfort
+Lantus,HAS_SIDE_EFFECT,Oropharyngeal pain
+Lantus,HAS_SIDE_EFFECT,Glucose tolerance impaired
+Lantus,HAS_SIDE_EFFECT,Erythema
+Lantus,HAS_SIDE_EFFECT,Neuroglycopenia
+Lantus,HAS_SIDE_EFFECT,Amaurosis
+Lantus,HAS_SIDE_EFFECT,Instillation site pain
+Lantus,HAS_SIDE_EFFECT,Application site pain
+Lantus,HAS_SIDE_EFFECT,Blood glucose abnormal
+Lantus,HAS_SIDE_EFFECT,Diabetes mellitus
+Lantus,HAS_SIDE_EFFECT,Lipohypertrophy
+Lantus,HAS_SIDE_EFFECT,Impaired fasting glucose
+Lantus,HAS_SIDE_EFFECT,Lipoatrophy
+Lantus,HAS_SIDE_EFFECT,Blindness
+Lantus,HAS_SIDE_EFFECT,Visual impairment
+Promacta,HAS_SIDE_EFFECT,Alopecia
+Promacta,HAS_SIDE_EFFECT,Anaemia
+Promacta,HAS_SIDE_EFFECT,Asthenia
+Promacta,HAS_SIDE_EFFECT,Back pain
+Promacta,HAS_SIDE_EFFECT,Mental disorder
+Promacta,HAS_SIDE_EFFECT,Cerebral infarction
+Promacta,HAS_SIDE_EFFECT,Infection
+Promacta,HAS_SIDE_EFFECT,Connective tissue disorder
+Promacta,HAS_SIDE_EFFECT,Cough
+Promacta,HAS_SIDE_EFFECT,Diarrhoea
+Promacta,HAS_SIDE_EFFECT,Embolism
+Promacta,HAS_SIDE_EFFECT,Rash
+Promacta,HAS_SIDE_EFFECT,Dermatitis
+Promacta,HAS_SIDE_EFFECT,Fatigue
+Promacta,HAS_SIDE_EFFECT,Gastrointestinal disorder
+Promacta,HAS_SIDE_EFFECT,Headache
+Promacta,HAS_SIDE_EFFECT,Hyperbilirubinaemia
+Promacta,HAS_SIDE_EFFECT,Mediastinal disorder
+Promacta,HAS_SIDE_EFFECT,Musculoskeletal pain
+Promacta,HAS_SIDE_EFFECT,Nausea
+Promacta,HAS_SIDE_EFFECT,Pharyngitis
+Promacta,HAS_SIDE_EFFECT,Pruritus
+Promacta,HAS_SIDE_EFFECT,Pulmonary embolism
+Promacta,HAS_SIDE_EFFECT,Urinary tract infection
+Promacta,HAS_SIDE_EFFECT,Vomiting
+Promacta,HAS_SIDE_EFFECT,Dry mouth
+Promacta,HAS_SIDE_EFFECT,Body temperature increased
+Promacta,HAS_SIDE_EFFECT,Oedema peripheral
+Promacta,HAS_SIDE_EFFECT,Deep vein thrombosis
+Promacta,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Promacta,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Promacta,HAS_SIDE_EFFECT,Acute myocardial infarction
+Promacta,HAS_SIDE_EFFECT,Malnutrition
+Promacta,HAS_SIDE_EFFECT,Skin disorder
+Promacta,HAS_SIDE_EFFECT,Myalgia
+Promacta,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Promacta,HAS_SIDE_EFFECT,Decreased appetite
+Promacta,HAS_SIDE_EFFECT,Hepatobiliary disease
+Promacta,HAS_SIDE_EFFECT,Musculoskeletal chest pain
+Promacta,HAS_SIDE_EFFECT,Influenza like illness
+Promacta,HAS_SIDE_EFFECT,Infestation
+Promacta,HAS_SIDE_EFFECT,Laryngeal pain
+Promacta,HAS_SIDE_EFFECT,Insomnia
+Signifor,HAS_SIDE_EFFECT,Abdominal distension
+Signifor,HAS_SIDE_EFFECT,Gastrointestinal pain
+Signifor,HAS_SIDE_EFFECT,Abdominal pain
+Signifor,HAS_SIDE_EFFECT,Addison's disease
+Signifor,HAS_SIDE_EFFECT,Adrenal insufficiency
+Signifor,HAS_SIDE_EFFECT,Alopecia
+Signifor,HAS_SIDE_EFFECT,Anaemia
+Signifor,HAS_SIDE_EFFECT,Anxiety
+Signifor,HAS_SIDE_EFFECT,Arthralgia
+Signifor,HAS_SIDE_EFFECT,Musculoskeletal discomfort
+Signifor,HAS_SIDE_EFFECT,Asthenia
+Signifor,HAS_SIDE_EFFECT,Back pain
+Signifor,HAS_SIDE_EFFECT,Cholelithiasis
+Signifor,HAS_SIDE_EFFECT,Constipation
+Signifor,HAS_SIDE_EFFECT,Diabetes mellitus
+Signifor,HAS_SIDE_EFFECT,Type 2 diabetes mellitus
+Signifor,HAS_SIDE_EFFECT,Diarrhoea
+Signifor,HAS_SIDE_EFFECT,Dizziness
+Signifor,HAS_SIDE_EFFECT,Fatigue
+Signifor,HAS_SIDE_EFFECT,Headache
+Signifor,HAS_SIDE_EFFECT,Hypercholesterolaemia
+Signifor,HAS_SIDE_EFFECT,Hyperglycaemia
+Signifor,HAS_SIDE_EFFECT,Hypertension
+Signifor,HAS_SIDE_EFFECT,Hypoglycaemia
+Signifor,HAS_SIDE_EFFECT,Hypokalaemia
+Signifor,HAS_SIDE_EFFECT,Hypotension
+Signifor,HAS_SIDE_EFFECT,Influenza
+Signifor,HAS_SIDE_EFFECT,Nasopharyngitis
+Signifor,HAS_SIDE_EFFECT,Nausea
+Signifor,HAS_SIDE_EFFECT,Pain in extremity
+Signifor,HAS_SIDE_EFFECT,Pruritus
+Signifor,HAS_SIDE_EFFECT,Vertigo
+Signifor,HAS_SIDE_EFFECT,Vomiting
+Signifor,HAS_SIDE_EFFECT,Sinus bradycardia
+Signifor,HAS_SIDE_EFFECT,Oedema peripheral
+Signifor,HAS_SIDE_EFFECT,Gamma-glutamyltransferase increased
+Signifor,HAS_SIDE_EFFECT,Injection site reaction
+Signifor,HAS_SIDE_EFFECT,Prothrombin level increased
+Signifor,HAS_SIDE_EFFECT,Electrocardiogram QT prolonged
+Signifor,HAS_SIDE_EFFECT,Aspartate aminotransferase increased
+Signifor,HAS_SIDE_EFFECT,Alanine aminotransferase increased
+Signifor,HAS_SIDE_EFFECT,Dry skin
+Signifor,HAS_SIDE_EFFECT,Pituitary-dependent Cushing's syndrome
+Signifor,HAS_SIDE_EFFECT,Myalgia
+Signifor,HAS_SIDE_EFFECT,Decreased appetite
+Signifor,HAS_SIDE_EFFECT,Abdominal pain upper
+Signifor,HAS_SIDE_EFFECT,Glycosylated haemoglobin increased
+Signifor,HAS_SIDE_EFFECT,Lipase increased
+Signifor,HAS_SIDE_EFFECT,Blood glucose increased
+Signifor,HAS_SIDE_EFFECT,Amylase increased
+Signifor,HAS_SIDE_EFFECT,Insomnia
